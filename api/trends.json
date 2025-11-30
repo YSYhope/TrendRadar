@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T17:35:04.250667+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2025-11-30T18:42:10.079599+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时46分 ~ 17时35分]"
+          "appearance_count": 7,
+          "time_info": "[15时46分 ~ 18时42分]"
         },
         {
           "title": "电解液细分龙头盘中创历史新高 VC、FEC等电解液添加剂产能A股名单一览",
@@ -27,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时46分 ~ 17时35分]"
+          "appearance_count": 7,
+          "time_info": "[15时46分 ~ 18时42分]"
         },
         {
           "title": "龙头15天10板 本周披露并购重组进展的A股名单一览",
