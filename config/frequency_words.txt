@@ -4,27 +4,8 @@ A股
 +涨跌
 !预测
 
-DeepSeek
-梁文锋
 
-谷歌
-google
-gemini
 
-chatgpt
-openai
-
-金价
-
-黄金
-+价格
-
-美债
-
-美股
-
-美元
-+指数
 
 
 
