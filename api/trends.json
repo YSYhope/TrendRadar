@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T15:43:29.220445+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2025-12-01T17:01:12.196130+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
@@ -44,13 +44,24 @@
           "time_info": "[02时52分 ~ 03时28分]"
         },
         {
+          "title": "A股中兴通讯封板涨停",
+          "url": "https://www.toutiao.com/trending/7578329760536264758/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        },
+        {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-12-01）",
           "url": "https://flash.jin10.com/detail/20251201151642912800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -61,7 +72,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -94,7 +105,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
