@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T18:53:20.082041+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2025-12-01T19:34:06.464645+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
@@ -38,9 +38,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 19时34分]"
+        },
+        {
+          "title": "年内新纪录！A股平均股价连升6日，5元以下股不足10%，破净股年内已减三成",
+          "url": "https://www.cls.cn/detail/2216057",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 19时34分]"
         },
         {
           "title": "谁让A股变冷了",
@@ -86,17 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
-        },
-        {
-          "title": "年内新纪录！A股平均股价连升6日，5元以下股不足10%，破净股年内已减三成",
-          "url": "https://www.cls.cn/detail/2216057",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         },
         {
           "title": "A股存储芯片板块午后拉升，北京君正涨超13%，兆易创新涨超5%，佰维存储、华海诚科、复旦微电纷纷拉升。",
