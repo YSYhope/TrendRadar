@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T01:53:12.944089+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2025-12-02T03:03:22.111353+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时03分]"
         },
         {
           "title": "年内新纪录！A股平均股价连升6日，5元以下股不足10%，破净股年内已减三成",
           "url": "https://www.cls.cn/detail/2216057",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时03分]"
         }
       ]
     }
