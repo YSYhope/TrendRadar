@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T22:52:46.155099+08:00",
-  "total_titles_processed": 1625,
+  "generated_at": "2025-12-01T23:44:05.401048+08:00",
+  "total_titles_processed": 1707,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[00时46分 ~ 07时34分]"
         },
         {
+          "title": "一图看懂|A股上市公司“花式整活” 送卡送酒还送旅游",
+          "url": "https://www.cls.cn/detail/2216038",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时53分 ~ 23时44分]"
+        },
+        {
           "title": "A股需要内需的变化打开高度",
           "url": "https://wallstreetcn.com/articles/3760402",
           "source": "华尔街见闻",
@@ -32,18 +44,6 @@
           "time_info": "[00时46分 ~ 15时43分]"
         },
         {
-          "title": "一图看懂|A股上市公司“花式整活” 送卡送酒还送旅游",
-          "url": "https://www.cls.cn/detail/2216038",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时53分 ~ 22时52分]"
-        },
-        {
           "title": "年内新纪录！A股平均股价连升6日，5元以下股不足10%，破净股年内已减三成",
           "url": "https://www.cls.cn/detail/2216057",
           "source": "财联社热门",
@@ -54,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时53分 ~ 22时52分]"
+          "appearance_count": 7,
+          "time_info": "[18时53分 ~ 23时44分]"
         },
         {
           "title": "谁让A股变冷了",
