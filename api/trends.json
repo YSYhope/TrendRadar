@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T00:59:32.434733+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-02T01:53:12.944089+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 01时53分]"
         },
         {
           "title": "年内新纪录！A股平均股价连升6日，5元以下股不足10%，破净股年内已减三成",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 01时53分]"
         }
       ]
     }
