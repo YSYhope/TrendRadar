@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T19:34:55.648215+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2025-12-02T21:52:20.054929+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
@@ -67,6 +67,19 @@
           "time_info": "[11时47分 ~ 13时43分]"
         },
         {
+          "title": "一A股董事长反对当董事长：薪资不满意",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80A%E8%82%A1%E8%91%A3%E4%BA%8B%E9%95%BF%E5%8F%8D%E5%AF%B9%E5%BD%93%E8%91%A3%E4%BA%8B%E9%95%BF%EF%BC%9A%E8%96%AA%E8%B5%84%E4%B8%8D%E6%BB%A1%E6%84%8F",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 21时52分]"
+        },
+        {
           "title": "上证报：“财政贴息+以旧换新”红利释放，消费主引擎马力足",
           "url": "https://wallstreetcn.com/livenews/3013234",
           "source": "华尔街见闻-快讯",
@@ -77,18 +90,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时35分]"
-        },
-        {
-          "title": "一A股董事长反对当董事长：薪资不满意",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80A%E8%82%A1%E8%91%A3%E4%BA%8B%E9%95%BF%E5%8F%8D%E5%AF%B9%E5%BD%93%E8%91%A3%E4%BA%8B%E9%95%BF%EF%BC%9A%E8%96%AA%E8%B5%84%E4%B8%8D%E6%BB%A1%E6%84%8F",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时34分]"
         },
         {
           "title": "A股算力硬件板块尾盘异动，菲菱科思20CM涨停，赛微电子涨超17%，兆龙互连、特发信息、神宇股份、德科立等跟涨。",
@@ -156,7 +157,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
