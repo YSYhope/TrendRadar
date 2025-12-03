@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T17:48:38.210172+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2025-12-03T18:53:22.606626+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 17时48分]"
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 18时53分]"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-12-03）",
@@ -169,7 +169,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
