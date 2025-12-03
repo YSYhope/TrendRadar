@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-03T19:35:16.754865+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2025-12-03T21:52:20.359419+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
       "match_count": 15,
       "titles": [
+        {
+          "title": "A股新增开户已近2500万户，11个月增量接近去年全年",
+          "url": "https://www.cls.cn/detail/2218176",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时41分 ~ 21时52分]"
+        },
         {
           "title": "年底A股如何走？机构看好跨年行情，两大核心会议成关键",
           "url": "https://www.cls.cn/detail/2217416",
@@ -20,20 +34,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时00分 ~ 07时46分]"
-        },
-        {
-          "title": "A股新增开户已近2500万户，11个月增量接近去年全年",
-          "url": "https://www.cls.cn/detail/2218176",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时41分 ~ 19时35分]"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-12-03）",
