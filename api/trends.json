@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T17:48:14.150035+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2025-12-04T18:52:24.108012+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时54分 ~ 13时43分]"
+        },
+        {
+          "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
+          "url": "https://www.cls.cn/detail/2219854",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-12-04）",
