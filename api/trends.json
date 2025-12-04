@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T18:52:24.108012+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2025-12-04T19:35:01.242748+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[04时47分 ~ 13时43分]"
+        },
+        {
+          "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
+          "url": "https://www.cls.cn/detail/2219854",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 19时35分]"
         },
         {
           "title": "上证指数早盘收报3879.52点，涨0.04%。 深证成指早盘收报13000.88点，涨0.35%。 创业板指早盘收报3059.76点，涨0.76%。 沪深300早盘收报4543.93点，涨0.28%。 科创50早盘收报1320.44点，涨0.92%。 中证500早盘收报7021.22点，涨0.36%。 中证1000早盘收报7256.90点，涨0.12%。",
@@ -43,17 +55,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时54分 ~ 13时43分]"
-        },
-        {
-          "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
-          "url": "https://www.cls.cn/detail/2219854",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-12-04）",
