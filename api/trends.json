@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T18:48:12.504844+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2025-12-05T19:33:25.029735+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "A股为何突然大涨",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "上证指数早盘收报3878.99点，涨0.08%。 深证成指早盘收报13057.09点，涨0.39%。 创业板指早盘收报3082.05点，涨0.47%。 沪深300早盘收报4551.81点，涨0.12%。 科创50早盘收报1326.86点，涨0.05%。 中证500早盘收报7043.61点，涨0.44%。 中证1000早盘收报7296.40点，涨0.66%。",
