@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T22:45:57.514808+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2025-12-05T23:44:08.940256+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时59分 ~ 07时34分]"
+        },
+        {
+          "title": "A股迎首部上市公司监管专项行政法规，74条全梳理",
+          "url": "https://www.cls.cn/detail/2221389",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时46分 ~ 23时44分]"
         },
         {
           "title": "摩尔线程中一签赚近27万，A股全面注册制以来新纪录！",
@@ -67,16 +80,17 @@
           "time_info": "19时33分"
         },
         {
-          "title": "A股迎首部上市公司监管专项行政法规，74条全梳理",
-          "url": "https://www.cls.cn/detail/2221389",
-          "source": "财联社热门",
+          "title": "今天A股大涨原因找到了",
+          "url": "https://www.toutiao.com/trending/7580275128328536110/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            4
+            5,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时45分]"
+          "appearance_count": 4,
+          "time_info": "[21时46分 ~ 23时44分]"
         },
         {
           "title": "上证指数早盘收报3878.99点，涨0.08%。 深证成指早盘收报13057.09点，涨0.39%。 创业板指早盘收报3082.05点，涨0.47%。 沪深300早盘收报4551.81点，涨0.12%。 科创50早盘收报1326.86点，涨0.05%。 中证500早盘收报7043.61点，涨0.44%。 中证1000早盘收报7296.40点，涨0.66%。",
@@ -89,18 +103,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 12时53分]"
-        },
-        {
-          "title": "今天A股大涨原因找到了",
-          "url": "https://www.toutiao.com/trending/7580275128328536110/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时45分]"
         },
         {
           "title": "A股收盘：全市场超4300只个股上涨",
