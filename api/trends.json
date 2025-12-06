@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T11:35:44.111120+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2025-12-06T12:43:10.081632+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "A股迎首部上市公司监管专项行政法规，74条全梳理",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 11时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 12时43分]"
+        },
+        {
+          "title": "监事会正退出A股历史舞台，42家上市券商已进行监事会撤销",
+          "url": "https://www.cls.cn/detail/2221687",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
         }
       ]
     }
