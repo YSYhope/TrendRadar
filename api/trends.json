@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-12-06T17:35:17.396704+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2025-12-06T18:41:23.214846+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
       "match_count": 6,
       "titles": [
-        {
-          "title": "A股迎首部上市公司监管专项行政法规，74条全梳理",
-          "url": "https://www.cls.cn/detail/2221389",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时54分 ~ 17时35分]"
-        },
         {
           "title": "监事会正退出A股历史舞台，42家上市券商已进行监事会撤销",
           "url": "https://www.cls.cn/detail/2221687",
@@ -30,8 +17,35 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时42分 ~ 17时35分]"
+          "appearance_count": 10,
+          "time_info": "[12时42分 ~ 18时41分]"
+        },
+        {
+          "title": "A股迎首部上市公司监管专项行政法规，74条全梳理",
+          "url": "https://www.cls.cn/detail/2221389",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时54分 ~ 18时41分]"
+        },
+        {
+          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2221699",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时40分 ~ 18时41分]"
         },
         {
           "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
@@ -44,21 +58,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时40分 ~ 17时35分]"
-        },
-        {
-          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2221699",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时40分 ~ 17时35分]"
+          "appearance_count": 8,
+          "time_info": "[13时40分 ~ 18时41分]"
         },
         {
           "title": "吴清：A股实现了量的合理增长和质的有效提升",
