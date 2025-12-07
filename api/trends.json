@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T01:33:14.127189+08:00",
-  "total_titles_processed": 333,
+  "generated_at": "2025-12-08T02:50:30.199943+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时50分]"
         },
         {
           "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时50分]"
         }
       ]
     }
