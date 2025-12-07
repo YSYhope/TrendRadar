@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T19:28:21.351130+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2025-12-07T21:18:36.612311+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时45分 ~ 19时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时45分 ~ 21时18分]"
         },
         {
           "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
@@ -40,8 +40,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时45分 ~ 19时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时45分 ~ 21时18分]"
+        },
+        {
+          "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
+          "url": "https://www.cls.cn/detail/2221983",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 21时18分]"
         },
         {
           "title": "这个周末A股利好有点多",
@@ -54,18 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时45分 ~ 17时35分]"
-        },
-        {
-          "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
-          "url": "https://www.cls.cn/detail/2221983",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时28分]"
         }
       ]
     }
