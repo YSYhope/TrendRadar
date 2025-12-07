@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T07:33:31.348014+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2025-12-07T11:53:03.207524+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 07时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 11时53分]"
         },
         {
           "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
@@ -28,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 07时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 11时53分]"
         },
         {
           "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
@@ -39,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 07时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 11时53分]"
         }
       ]
     }
