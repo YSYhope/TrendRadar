@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T21:18:36.612311+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2025-12-07T22:37:18.085463+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "监事会正退出A股历史舞台，42家上市券商已进行监事会撤销",
@@ -29,19 +29,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时45分 ~ 21时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时45分 ~ 22时37分]"
         },
         {
           "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2221697",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时45分 ~ 21时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时45分 ~ 22时37分]"
         },
         {
           "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
@@ -50,11 +51,12 @@
           "ranks": [
             12,
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 21时18分]"
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 22时37分]"
         },
         {
           "title": "这个周末A股利好有点多",
@@ -67,6 +69,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时45分 ~ 17时35分]"
+        },
+        {
+          "title": "下周A股有望放量反攻",
+          "url": "https://www.toutiao.com/trending/7579999391224037402/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         }
       ]
     }
