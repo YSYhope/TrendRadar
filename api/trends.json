@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T22:50:40.801667+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2025-12-08T23:43:04.001014+08:00",
+  "total_titles_processed": 1667,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,17 @@
           "time_info": "[00时44分 ~ 07时32分]"
         },
         {
+          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
+          "url": "https://wallstreetcn.com/articles/3760893",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时52分 ~ 23时43分]"
+        },
+        {
           "title": "十大券商看后市｜A股春季行情有望提前演绎，指数或迈上新台阶",
           "url": "https://m.thepaper.cn/newsDetail_forward_32127705",
           "source": "澎湃新闻",
@@ -39,22 +50,12 @@
             17,
             15,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时58分 ~ 22时50分]"
-        },
-        {
-          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
-          "url": "https://wallstreetcn.com/articles/3760893",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 22时50分]"
+          "appearance_count": 12,
+          "time_info": "[12时58分 ~ 23时43分]"
         },
         {
           "title": "A股唯二！美的集团完成单次百亿回购",
@@ -65,8 +66,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时50分]"
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 23时43分]"
+        },
+        {
+          "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
+          "url": "https://www.cls.cn/detail/2222901",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时52分 ~ 23时43分]"
         },
         {
           "title": "上证指数早盘收报3927.19点，涨0.62%。 深证成指早盘收报13351.47点，涨1.55%。 创业板指早盘收报3203.06点，涨3.02%。 沪深300早盘收报4632.29点，涨1.04%。 科创50早盘收报1348.31点，涨1.67%。 中证500早盘收报7168.66点，涨1.00%。 中证1000早盘收报7419.39点，涨1.05%。",
@@ -79,19 +93,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时50分 ~ 12时59分]"
-        },
-        {
-          "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
-          "url": "https://www.cls.cn/detail/2222901",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 22时50分]"
         },
         {
           "title": "A股行情",
