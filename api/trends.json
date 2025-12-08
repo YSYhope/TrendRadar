@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T00:58:00.581212+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-09T01:43:38.973821+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时43分]"
         },
         {
           "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
@@ -26,30 +26,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
-        },
-        {
-          "title": "十大券商看后市｜A股春季行情有望提前演绎，指数或迈上新台阶",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32127705",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时43分]"
         },
         {
           "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
           "url": "https://www.cls.cn/detail/2222901",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时43分]"
+        },
+        {
+          "title": "十大券商看后市｜A股春季行情有望提前演绎，指数或迈上新台阶",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32127705",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时43分]"
         }
       ]
     }
