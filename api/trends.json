@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T16:58:27.956211+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2025-12-09T17:47:59.941892+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "A股唯二！美的集团完成单次百亿回购",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时57分 ~ 16时58分]"
+          "appearance_count": 18,
+          "time_info": "[00时57分 ~ 17时47分]"
         },
         {
           "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
@@ -125,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
+          "url": "https://wallstreetcn.com/articles/3760975",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "A股收盘：创业板指冲高回落涨0.61%，算力硬件、福建板块持续走强",
