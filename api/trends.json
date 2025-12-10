@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T22:53:58.214289+08:00",
-  "total_titles_processed": 1901,
+  "generated_at": "2025-12-10T23:47:22.263960+08:00",
+  "total_titles_processed": 1973,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时48分 ~ 22时53分]"
+          "appearance_count": 8,
+          "time_info": "[17时48分 ~ 23时47分]"
         },
         {
           "title": "A股贵金属板块午后拉升，晓程科技涨超15%，湖南白银、山金黄金、招金黄金跟涨。",
