@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T17:49:14.298875+08:00",
-  "total_titles_processed": 1508,
+  "generated_at": "2025-12-10T18:53:57.671988+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             6,
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时07分 ~ 17时49分]"
+          "appearance_count": 11,
+          "time_info": "[13时07分 ~ 18时53分]"
         },
         {
           "title": "A股贵金属板块午后拉升，晓程科技涨超15%，湖南白银、山金黄金、招金黄金跟涨。",
@@ -71,6 +72,17 @@
           "time_info": "[15时00分 ~ 15时43分]"
         },
         {
+          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
+          "url": "https://wallstreetcn.com/articles/3761064",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 18时53分]"
+        },
+        {
           "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
           "url": "https://wallstreetcn.com/articles/3760975",
           "source": "华尔街见闻",
@@ -103,17 +115,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时50分 ~ 13时07分]"
-        },
-        {
-          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
-          "url": "https://wallstreetcn.com/articles/3761064",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
         },
         {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，摩尔线程涨超20%，算力硬件走弱，贵金属走强，港股指数转涨，有色大涨",
