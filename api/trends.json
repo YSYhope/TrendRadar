@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T19:34:42.563538+08:00",
-  "total_titles_processed": 1676,
+  "generated_at": "2025-12-10T21:53:01.525906+08:00",
+  "total_titles_processed": 1825,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[13时07分 ~ 19时34分]"
+        },
+        {
+          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
+          "url": "https://wallstreetcn.com/articles/3761064",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时48分 ~ 21时53分]"
         },
         {
           "title": "A股贵金属板块午后拉升，晓程科技涨超15%，湖南白银、山金黄金、招金黄金跟涨。",
@@ -46,18 +58,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时58分 ~ 17时49分]"
-        },
-        {
-          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
-          "url": "https://wallstreetcn.com/articles/3761064",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 19时34分]"
         },
         {
           "title": "上证报头版文章：中长期资金加速入市，发挥市场“稳定器”与价值“引领者”作用",
@@ -147,7 +147,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
