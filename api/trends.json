@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T19:35:37.933034+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2025-12-11T21:55:19.999726+08:00",
+  "total_titles_processed": 1824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时34分]"
+        },
+        {
+          "title": "A股三大指数回调，北证50收涨近4%！商业航天走强，摩尔线程突破900元，房地产调整，恒科指跌0.83%，中兴通讯重挫",
+          "url": "https://wallstreetcn.com/articles/3761155",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "创业板指翻绿，早盘一度涨超1%，深证成指跌0.39%，沪指跌0.57%，全市场超4200只个股飘绿。",
