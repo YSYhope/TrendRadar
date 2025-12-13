@@ -1,7 +1,36 @@
 {
-  "generated_at": "2025-12-13T19:29:52.126177+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2025-12-13T21:35:13.386466+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力龙头赫然在列",
+          "url": "https://www.cls.cn/detail/2228757",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
+        },
+        {
+          "title": "人形机器人细分龙头年内涨超300% 梳理产业链成本占比居前A股名单",
+          "url": "https://www.cls.cn/detail/2228749",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://ysyhope.github.io/TrendRadar/img/news.jpg"
 }
