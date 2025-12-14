@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:56:52.510711+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2025-12-14T15:33:45.722229+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 14时56分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 15时33分]"
+        },
+        {
+          "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力芯片龙头赫然在列",
+          "url": "https://www.cls.cn/detail/2228757",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时55分 ~ 15时33分]"
         },
         {
           "title": "累计金额超1375亿！1468家A股上市公司今年以来实施回购，个股回购额排行榜出炉",
@@ -40,19 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 14时56分]"
-        },
-        {
-          "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力芯片龙头赫然在列",
-          "url": "https://www.cls.cn/detail/2228757",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时55分 ~ 14时56分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 15时33分]"
         },
         {
           "title": "评论员：4000点后A股喘息式调整",
