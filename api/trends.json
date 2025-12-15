@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T17:01:53.671841+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2025-12-15T18:55:40.845468+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
@@ -99,11 +99,12 @@
           "ranks": [
             17,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 17时01分]"
+          "appearance_count": 4,
+          "time_info": "[13时03分 ~ 18时55分]"
         },
         {
           "title": "A股保险板块震荡走强，中国平安涨超4%，创2021年4月以来新高；中国太保、新华保险、中国人保、中国人寿涨幅靠前。",
