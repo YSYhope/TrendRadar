@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T22:58:50.140420+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2025-12-15T23:54:01.657888+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,22 @@
           "time_info": "[00时48分 ~ 12时01分]"
         },
         {
+          "title": "十大券商看后市｜A股跨年行情蓄势待发，布局春季躁动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32177110",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时03分 ~ 23时54分]"
+        },
+        {
           "title": "千亿市值背后的资本棋局：解码A股光模块“三剑客”发家史",
           "url": "https://www.cls.cn/detail/2228836",
           "source": "财联社热门",
@@ -68,22 +84,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时48分 ~ 07时33分]"
-        },
-        {
-          "title": "十大券商看后市｜A股跨年行情蓄势待发，布局春季躁动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32177110",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12,
-            10,
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时03分 ~ 22时58分]"
         },
         {
           "title": "上证指数收报3867.92点，跌0.55%。 深证成指收报13112.09点，跌1.10%。 创业板指收报3137.80点，跌1.77%。 沪深300收报4552.06点，跌0.63%。 科创50收报1318.91点，跌2.22%。 中证500收报7113.96点，跌0.78%。 中证1000收报7309.08点，跌0.84%。",
@@ -115,7 +115,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时58分"
         },
