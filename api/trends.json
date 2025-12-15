@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T12:01:37.522333+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-12-15T13:03:32.022933+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力芯片龙头赫然在列",
@@ -74,11 +74,23 @@
           "url": "https://wallstreetcn.com/livenews/3020660",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时03分]"
+        },
+        {
+          "title": "十大券商看后市｜A股跨年行情蓄势待发，布局春季躁动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32177110",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时01分"
+          "time_info": "13时03分"
         },
         {
           "title": "A股保险板块震荡走强，中国平安涨超4%，创2021年4月以来新高；中国太保、新华保险、中国人保、中国人寿涨幅靠前。",
@@ -87,7 +99,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         }
