@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T13:00:53.029647+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2025-12-16T13:50:08.100033+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "十大券商看后市｜A股跨年行情蓄势待发，布局春季躁动",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 13时00分]"
+        },
+        {
+          "title": "A股跨年行情蓄势待发",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%B7%A8%E5%B9%B4%E8%A1%8C%E6%83%85%E8%93%84%E5%8A%BF%E5%BE%85%E5%8F%91%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
         },
         {
           "title": "A股年内分红总额超去年达2.56万亿元，创出历史新高",
