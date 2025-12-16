@@ -1,7 +1,36 @@
 {
-  "generated_at": "2025-12-17T05:39:08.904307+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2025-12-17T06:42:00.593281+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股因何调整？公募激辩未来走势，大摩：2026年更多外资回归中国市场",
+          "url": "https://www.cls.cn/detail/2231375",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 06时42分]"
+        },
+        {
+          "title": "A股公司股东辞世 1.7亿遗产子女继承",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%85%AC%E5%8F%B8%E8%82%A1%E4%B8%9C%E8%BE%9E%E4%B8%96+1.7%E4%BA%BF%E9%81%97%E4%BA%A7%E5%AD%90%E5%A5%B3%E7%BB%A7%E6%89%BF",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 06时42分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://ysyhope.github.io/TrendRadar/img/news.jpg"
 }
