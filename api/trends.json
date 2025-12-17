@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T21:49:01.026417+08:00",
-  "total_titles_processed": 1812,
+  "generated_at": "2025-12-17T22:55:34.439157+08:00",
+  "total_titles_processed": 1916,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "ranks": [
             12,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时52分 ~ 21时49分]"
+          "appearance_count": 8,
+          "time_info": "[17时52分 ~ 22时55分]"
         },
         {
           "title": "A股午后直线拉升 反击还是诱多",
