@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T19:38:09.836145+08:00",
-  "total_titles_processed": 1660,
+  "generated_at": "2025-12-17T21:49:01.026417+08:00",
+  "total_titles_processed": 1812,
   "failed_sources": [],
   "trends": [
     {
@@ -36,6 +36,19 @@
           "time_info": "[15时43分 ~ 19时38分]"
         },
         {
+          "title": "A股国产算力再添一员！沐曦股份登陆科创板 行业进入“拼产能、拼生态”关键阶段",
+          "url": "https://www.cls.cn/detail/2232260",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时52分 ~ 21时49分]"
+        },
+        {
           "title": "A股午后直线拉升 反击还是诱多",
           "url": "https://www.toutiao.com/trending/7583984841365176383/",
           "source": "今日头条",
@@ -69,18 +82,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时41分 ~ 11时50分]"
-        },
-        {
-          "title": "A股国产算力再添一员！沐曦股份登陆科创板 行业进入“拼产能、拼生态”关键阶段",
-          "url": "https://www.cls.cn/detail/2232260",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 19时38分]"
         },
         {
           "title": "上证指数早盘收报3831.43点，涨0.17%。 深证成指早盘收报13021.35点，涨0.83%。 创业板指早盘收报3108.80点，涨1.21%。 沪深300早盘收报4523.58点，涨0.58%。 科创50早盘收报1297.49点，涨0.32%。 中证500早盘收报7029.17点，涨0.40%。 中证1000早盘收报7179.55点，跌0.03%。",
