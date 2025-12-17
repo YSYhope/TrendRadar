@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:44:00.168665+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2025-12-17T17:01:21.021668+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "一签赚近30万！沐曦股份刷新A股纪录 相较可比公司估值如何？",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时58分 ~ 15时44分]"
+          "appearance_count": 6,
+          "time_info": "[12时58分 ~ 17时01分]"
         },
         {
           "title": "创业板指涨2%，沪指涨0.56%，深证成指涨1.38%。锂矿、算力硬件股集体走强。",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "A股午后直线拉升 反击还是诱多",
+          "url": "https://www.toutiao.com/trending/7583984841365176383/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "A股因何调整？公募激辩未来走势，大摩：2026年更多外资回归中国市场",
@@ -64,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 15时44分]"
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 17时01分]"
         },
         {
           "title": "A股公司股东辞世 1.7亿遗产子女继承",
@@ -85,7 +96,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -107,7 +118,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -140,7 +151,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         }
