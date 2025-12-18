@@ -1,105 +1,22 @@
 {
-  "generated_at": "2025-12-18T23:47:02.995790+08:00",
-  "total_titles_processed": 1980,
+  "generated_at": "2025-12-19T01:01:06.314152+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "A股锂电池板块震荡走低，华盛锂电跌超9%，海科新源、天华新能、永太科技、多氟多、恩捷股份等跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3022921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时42分]"
-        },
-        {
-          "title": "上证报：制度、资金与治理协同发力，资本市场构建内在稳定性深层变革",
-          "url": "https://wallstreetcn.com/livenews/3022634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时38分]"
-        },
-        {
-          "title": "中金公司：2025年半年度A股每股派发现金红利人民币0.09元，股权登记日12月26日。",
-          "url": "https://wallstreetcn.com/livenews/3023009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 17时53分]"
-        },
-        {
-          "title": "A股结构调整或将延续",
-          "url": "https://www.toutiao.com/trending/7585093997870190107/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 18时51分]"
-        },
-        {
-          "title": "上证指数早盘收报3876.40点，涨0.16%。 深证成指早盘收报13111.78点，跌0.85%。 创业板指早盘收报3118.30点，跌1.81%。 沪深300早盘收报4554.12点，跌0.56%。 科创50早盘收报1313.11点，跌0.92%。 中证500早盘收报7139.53点，涨0.02%。 中证1000早盘收报7311.69点，涨0.31%。",
-          "url": "https://wallstreetcn.com/livenews/3022814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时58分]"
-        },
-        {
-          "title": "A股收盘：沪指涨0.16% 大消费走强",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.16%25+%E5%A4%A7%E6%B6%88%E8%B4%B9%E8%B5%B0%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时59分]"
-        },
         {
           "title": "德勤：预计2025年A股IPO的融资规模同比将增加94%",
           "url": "https://wallstreetcn.com/livenews/3023232",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "上证指数收报3876.37点，涨0.16%。 深证成指收报13053.97点，跌1.29%。 创业板指收报3107.06点，跌2.17%。 沪深300收报4552.79点，跌0.59%。 科创50收报1305.97点，跌1.46%。 中证500收报7100.84点，跌0.52%。 中证1000收报7272.40点，跌0.22%。",
-          "url": "https://wallstreetcn.com/livenews/3022930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "01时01分"
         }
       ]
     }
