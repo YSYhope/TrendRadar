@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T18:50:18.989243+08:00",
-  "total_titles_processed": 1649,
+  "generated_at": "2025-12-19T19:34:37.037013+08:00",
+  "total_titles_processed": 1737,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             15,
             24,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时50分]"
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 19时34分]"
         },
         {
           "title": "评论员：A股反弹不改震荡整理格局",
