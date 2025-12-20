@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T17:36:25.186166+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2025-12-20T18:42:41.742993+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时55分 ~ 17时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时55分 ~ 18时42分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
@@ -26,11 +26,12 @@
             13,
             12,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时55分 ~ 17时36分]"
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 18时42分]"
         },
         {
           "title": "累计金额超890亿！520家A股上市公司股东今年以来实施增持，增持金额排行榜出炉",
@@ -38,11 +39,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时36分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时42分]"
         },
         {
           "title": "下周A股解禁市值近1900亿元，7股解禁市值超百亿元",
