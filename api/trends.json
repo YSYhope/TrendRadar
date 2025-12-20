@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T06:39:32.263777+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2025-12-21T07:34:36.084798+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时34分]"
         },
         {
           "title": "累计金额超890亿！520家A股上市公司股东今年以来实施增持，增持金额排行榜出炉",
@@ -26,19 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时34分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
           "url": "https://www.cls.cn/detail/2235419",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时34分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -50,8 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时34分]"
         },
         {
           "title": "东吴证券首席战略官、研究所联席所长孙婷明确表示，券商股的风向标属性并未消失，但其信号意义趋于弱化，而保险股与市场的紧密联动，则更多源于会计准则的变化。（上证报）",
@@ -62,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时39分]"
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 07时34分]"
         },
         {
           "title": "3家A股公司因财务造假被罚",
@@ -72,11 +73,12 @@
           "ranks": [
             22,
             8,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 06时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 07时34分]"
         }
       ]
     }
