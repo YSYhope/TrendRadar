@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T12:59:37.232055+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2025-12-21T13:43:49.315898+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 12时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 13时43分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 12时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 13时43分]"
         },
         {
           "title": "3家A股公司因财务造假被罚，2家将“戴帽”",
@@ -52,8 +52,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 12时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 13时43分]"
         },
         {
           "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 13时43分]"
         },
         {
           "title": "科技领跑、周期接力、慢牛到全面牛……2026年A股怎么走，十大券商策略来了",
@@ -110,11 +110,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 13时43分]"
         }
       ]
     }
