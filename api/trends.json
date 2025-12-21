@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T17:37:46.531378+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2025-12-21T18:44:02.739838+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "累计金额超890亿！520家A股上市公司股东今年以来实施增持，增持金额排行榜出炉",
@@ -16,8 +16,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时46分 ~ 17时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时46分 ~ 18时44分]"
+        },
+        {
+          "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
+          "url": "https://www.cls.cn/detail/2235475",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时58分 ~ 18时44分]"
         },
         {
           "title": "3家A股公司因财务造假被罚，2家将“戴帽”",
@@ -40,35 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时46分 ~ 17时37分]"
-        },
-        {
-          "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
-          "url": "https://www.cls.cn/detail/2235475",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时58分 ~ 17时37分]"
-        },
-        {
-          "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
-          "url": "https://www.cls.cn/detail/2235498",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时46分 ~ 17时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时46分 ~ 18时44分]"
         },
         {
           "title": "商业航天龙头月内股价涨超130% 梳理产业链价值量居前A股名单",
@@ -81,8 +68,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时58分 ~ 17时37分]"
+          "appearance_count": 10,
+          "time_info": "[11时58分 ~ 18时44分]"
+        },
+        {
+          "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
+          "url": "https://www.cls.cn/detail/2235498",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时46分 ~ 18时44分]"
         },
         {
           "title": "科技领跑、周期接力、慢牛到全面牛……2026年A股怎么走，十大券商策略来了",
@@ -120,6 +120,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时46分 ~ 07时34分]"
+        },
+        {
+          "title": "A股可能已进入“右侧行情”",
+          "url": "https://www.toutiao.com/trending/7586232474422742555/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 18时44分]"
         }
       ]
     }
