@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T21:37:31.363722+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2025-12-21T22:41:02.677392+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时46分 ~ 21时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时46分 ~ 22时41分]"
         },
         {
           "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时58分 ~ 21时37分]"
+          "appearance_count": 14,
+          "time_info": "[11时58分 ~ 22时41分]"
         },
         {
           "title": "3家A股公司因财务造假被罚，2家将“戴帽”",
@@ -56,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时46分 ~ 21时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时46分 ~ 22时41分]"
         },
         {
           "title": "商业航天龙头月内股价涨超130% 梳理产业链价值量居前A股名单",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时58分 ~ 21时37分]"
+          "appearance_count": 14,
+          "time_info": "[11时58分 ~ 22时41分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -84,8 +84,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时46分 ~ 21时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时46分 ~ 22时41分]"
         },
         {
           "title": "科技领跑、周期接力、慢牛到全面牛……2026年A股怎么走，十大券商策略来了",
@@ -97,6 +97,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时58分 ~ 12时59分]"
+        },
+        {
+          "title": "A股可能已进入“右侧行情”",
+          "url": "https://www.toutiao.com/trending/7586232474422742555/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时43分 ~ 22时41分]"
         },
         {
           "title": "东吴证券首席战略官、研究所联席所长孙婷明确表示，券商股的风向标属性并未消失，但其信号意义趋于弱化，而保险股与市场的紧密联动，则更多源于会计准则的变化。（上证报）",
@@ -123,17 +134,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时46分 ~ 07时34分]"
-        },
-        {
-          "title": "A股可能已进入“右侧行情”",
-          "url": "https://www.toutiao.com/trending/7586232474422742555/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时43分 ~ 21时37分]"
         }
       ]
     }
