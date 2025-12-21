@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T14:57:24.221466+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2025-12-21T15:34:54.716960+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 14时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 15时34分]"
         },
         {
           "title": "3家A股公司因财务造假被罚，2家将“戴帽”",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 14时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 15时34分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -53,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 14时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 15时34分]"
         },
         {
           "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
@@ -63,11 +63,26 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 14时57分]"
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 15时34分]"
+        },
+        {
+          "title": "商业航天龙头月内股价涨超130% 梳理产业链价值量居前A股名单",
+          "url": "https://www.cls.cn/detail/2235473",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 15时34分]"
         },
         {
           "title": "科技领跑、周期接力、慢牛到全面牛……2026年A股怎么走，十大券商策略来了",
@@ -91,20 +106,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时32分 ~ 07时34分]"
-        },
-        {
-          "title": "商业航天龙头月内股价涨超130% 梳理产业链价值量居前A股名单",
-          "url": "https://www.cls.cn/detail/2235473",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 14时57分]"
         },
         {
           "title": "3家A股公司因财务造假被罚",
