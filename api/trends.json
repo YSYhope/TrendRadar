@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T17:54:52.870238+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2025-12-22T18:49:40.829920+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
@@ -103,6 +103,18 @@
           "time_info": "15时02分"
         },
         {
+          "title": "A股放量四连阳 如何博弈跨年行情",
+          "url": "https://www.toutiao.com/trending/7586577999177190938/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时49分]"
+        },
+        {
           "title": "上证指数早盘收报3915.20点，涨0.64%。 深证成指早盘收报13318.80点，涨1.36%。 创业板指早盘收报3178.51点，涨1.80%。 沪深300早盘收报4604.43点，涨0.79%。 科创50早盘收报1334.12点，涨1.95%。 中证500早盘收报7265.85点，涨1.34%。 中证1000早盘收报7425.89点，涨1.31%。",
           "url": "https://wallstreetcn.com/livenews/3024668",
           "source": "华尔街见闻-快讯",
@@ -113,6 +125,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时01分 ~ 13时03分]"
+        },
+        {
+          "title": "A股逾百股涨停",
+          "url": "https://www.toutiao.com/trending/7586556291720462355/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时49分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -126,18 +150,6 @@
           "time_info": "[00时48分 ~ 07时34分]"
         },
         {
-          "title": "A股放量四连阳 如何博弈跨年行情",
-          "url": "https://www.toutiao.com/trending/7586577999177190938/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时54分]"
-        },
-        {
           "title": "广发证券所长助理、首席策略刘晨明：40%新经济利润占比重塑A股研判逻辑",
           "url": "https://wallstreetcn.com/livenews/3024742",
           "source": "华尔街见闻-快讯",
@@ -147,17 +159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
-        },
-        {
-          "title": "A股逾百股涨停",
-          "url": "https://www.toutiao.com/trending/7586556291720462355/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "A股锂电池板块震荡走强，恩捷股份午后涨停，壹石通、星云股份、金圆股份、星源材质、中矿资源、盐湖股份等涨超5%。",
