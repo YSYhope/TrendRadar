@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T18:49:40.829920+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2025-12-22T19:32:51.802434+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -103,6 +103,19 @@
           "time_info": "15时02分"
         },
         {
+          "title": "A股逾百股涨停",
+          "url": "https://www.toutiao.com/trending/7586556291720462355/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时32分]"
+        },
+        {
           "title": "A股放量四连阳 如何博弈跨年行情",
           "url": "https://www.toutiao.com/trending/7586577999177190938/",
           "source": "今日头条",
@@ -125,18 +138,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时01分 ~ 13时03分]"
-        },
-        {
-          "title": "A股逾百股涨停",
-          "url": "https://www.toutiao.com/trending/7586556291720462355/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时49分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
