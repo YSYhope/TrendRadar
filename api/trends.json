@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T18:51:51.384858+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2025-12-23T19:34:54.577852+08:00",
+  "total_titles_processed": 1587,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,18 @@
           "time_info": "[13时52分 ~ 15时02分]"
         },
         {
+          "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
+          "url": "https://wallstreetcn.com/articles/3761889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时49分 ~ 19时34分]"
+        },
+        {
           "title": "今日A股上市的三只新股悉数大涨，N纳百川一度拉升涨近700%，N锡华涨超350%，N天溯涨超242%，均触发二次临停。",
           "url": "https://wallstreetcn.com/livenews/3025418",
           "source": "华尔街见闻-快讯",
@@ -78,17 +90,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时58分 ~ 16时59分]"
-        },
-        {
-          "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
-          "url": "https://wallstreetcn.com/articles/3761889",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 18时51分]"
         },
         {
           "title": "上证报：内外资共振可期，2026年中国股票或迎“增量资金潮”",
