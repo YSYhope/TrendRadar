@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T16:59:03.498930+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2025-12-23T17:49:59.989319+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-12-23）",
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时36分]"
+        },
+        {
+          "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
+          "url": "https://wallstreetcn.com/articles/3761889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         },
         {
           "title": "A股商业航天概念持续走低，航天电子触及跌停，中国卫通逼近跌停，顺灏股份此前跌停，久之洋、星辰科技、天银机电、陕西华达、上海瀚讯、佳缘科技均跌超10%。",
