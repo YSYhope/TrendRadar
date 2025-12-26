@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T15:41:07.238389+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2025-12-26T16:56:11.834131+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "上证指数早盘收报3952.09点，跌0.19%。 深证成指早盘收报13554.07点，涨0.17%。 创业板指早盘收报3234.63点，跌0.15%。 沪深300早盘收报4643.95点，涨0.03%。 科创50早盘收报1342.12点，跌0.51%。 中证500早盘收报7415.97点，涨0.07%。 中证1000早盘收报7570.90点，跌0.11%。",
@@ -71,6 +71,17 @@
           "time_info": "[06时42分 ~ 07时36分]"
         },
         {
+          "title": "国投白银LOF再次跌停，A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，商业航天活跃，算力硬件领跌，碳酸锂涨超6%",
+          "url": "https://wallstreetcn.com/articles/3762115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
+        },
+        {
           "title": "A股三大指数集体收涨",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E6%B6%A8",
           "source": "百度热搜",
@@ -111,7 +122,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -122,7 +133,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -133,7 +144,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
