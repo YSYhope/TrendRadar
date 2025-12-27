@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T13:45:13.726142+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2025-12-27T14:57:28.928473+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 13时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时50分 ~ 14时57分]"
         },
         {
           "title": "A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，国投白银LOF再次跌停，商业航天活跃，算力硬件领跌",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 13时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时50分 ~ 14时57分]"
         }
       ]
     }
