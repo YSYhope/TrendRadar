@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T21:43:05.708998+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2025-12-27T22:46:09.683301+08:00",
+  "total_titles_processed": 1397,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,19 @@
           "time_info": "[00时50分 ~ 19时31分]"
         },
         {
+          "title": "年内近40家上市公司分红超百亿 股息率居前A股名单一览",
+          "url": "https://www.cls.cn/detail/2241723",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时34分 ~ 22时46分]"
+        },
+        {
           "title": "A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，国投白银LOF再次跌停，商业航天活跃，算力硬件领跌",
           "url": "https://wallstreetcn.com/articles/3762115",
           "source": "华尔街见闻",
@@ -35,29 +48,17 @@
           "time_info": "[00时50分 ~ 16时54分]"
         },
         {
-          "title": "年内近40家上市公司分红超百亿 股息率居前A股名单一览",
-          "url": "https://www.cls.cn/detail/2241723",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时34分 ~ 21时43分]"
-        },
-        {
           "title": "6000万买基金亏81% A股公司紧急报警",
           "url": "https://www.baidu.com/s?wd=6000%E4%B8%87%E4%B9%B0%E5%9F%BA%E9%87%91%E4%BA%8F81%25+A%E8%82%A1%E5%85%AC%E5%8F%B8%E7%B4%A7%E6%80%A5%E6%8A%A5%E8%AD%A6",
           "source": "百度热搜",
           "ranks": [
             1,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时43分 ~ 21时43分]"
+          "appearance_count": 7,
+          "time_info": "[18时43分 ~ 22时46分]"
         }
       ]
     }
