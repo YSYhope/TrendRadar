@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T00:52:05.222096+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-29T01:41:15.637595+08:00",
+  "total_titles_processed": 342,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
@@ -37,24 +37,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
-        },
-        {
-          "title": "A股迎多项利好",
-          "url": "https://www.toutiao.com/trending/7588759906153840703/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "年内近40家上市公司分红超百亿 股息率居前A股名单一览",
           "url": "https://www.cls.cn/detail/2241723",
           "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "A股迎多项利好",
+          "url": "https://www.toutiao.com/trending/7588759906153840703/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
