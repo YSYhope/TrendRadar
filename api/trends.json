@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T19:34:06.998123+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-12-28T21:39:51.778931+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时17分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 21时39分]"
         },
         {
           "title": "年内近40家上市公司分红超百亿 股息率居前A股名单一览",
@@ -27,11 +27,12 @@
             2,
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时55分 ~ 19时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时55分 ~ 21时39分]"
         },
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -44,8 +45,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时17分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 21时39分]"
         },
         {
           "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
@@ -59,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时17分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 21时39分]"
         },
         {
           "title": "机构：A股或出现跨年“春季行情”",
