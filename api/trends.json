@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T12:17:29.831719+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2025-12-28T13:49:50.258101+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 12时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 13时49分]"
         },
         {
           "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
@@ -26,31 +26,33 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 13时49分]"
         },
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2241788",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 13时49分]"
         },
         {
           "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
           "url": "https://www.cls.cn/detail/2241810",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 13时49分]"
         }
       ]
     }
