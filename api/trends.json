@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T07:35:08.223863+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2025-12-28T12:17:29.831719+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "年内近40家上市公司分红超百亿 股息率居前A股名单一览",
@@ -16,8 +16,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 12时17分]"
+        },
+        {
+          "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
+          "url": "https://www.cls.cn/detail/2241760",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2241788",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2241810",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     }
