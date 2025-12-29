@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T15:04:40.595733+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2025-12-29T17:01:44.565715+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
@@ -69,7 +69,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -97,6 +97,19 @@
           "time_info": "[13时55分 ~ 15时04分]"
         },
         {
+          "title": "2025 年上证指数重回 4000 点，A 股成交额突破 400 万亿元，A 股这一年都有哪些看点？",
+          "url": "https://www.zhihu.com/question/1986751461766484039",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 17时01分]"
+        },
+        {
           "title": "A股迎多项利好",
           "url": "https://www.toutiao.com/trending/7588759906153840703/",
           "source": "今日头条",
@@ -106,18 +119,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 00时52分]"
-        },
-        {
-          "title": "2025 年上证指数重回 4000 点，A 股成交额突破 400 万亿元，A 股这一年都有哪些看点？",
-          "url": "https://www.zhihu.com/question/1986751461766484039",
-          "source": "知乎",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时04分]"
         },
         {
           "title": "上证指数早盘收报3975.92点，涨0.31%。 深证成指早盘收报13607.39点，涨0.03%。 创业板指早盘收报3233.53点，跌0.32%。 沪深300早盘收报4660.90点，涨0.08%。 科创50早盘收报1358.01点，涨0.91%。 中证500早盘收报7473.69点，涨0.20%。 中证1000早盘收报7620.47点，涨0.20%。",
