@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T17:01:44.565715+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2025-12-29T17:56:29.733087+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -103,11 +103,12 @@
           "ranks": [
             17,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 17时01分]"
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 17时56分]"
         },
         {
           "title": "A股迎多项利好",
