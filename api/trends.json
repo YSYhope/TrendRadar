@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T19:35:54.962090+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2025-12-29T21:51:33.562552+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
@@ -112,6 +112,19 @@
           "time_info": "[13时55分 ~ 15时04分]"
         },
         {
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 21时51分]"
+        },
+        {
           "title": "A股迎多项利好",
           "url": "https://www.toutiao.com/trending/7588759906153840703/",
           "source": "今日头条",
@@ -123,16 +136,16 @@
           "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
-          "url": "https://www.cls.cn/detail/2242969",
-          "source": "财联社热门",
+          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
+          "url": "https://wallstreetcn.com/articles/3762226",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            10
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时35分]"
+          "time_info": "[19时35分 ~ 21时51分]"
         },
         {
           "title": "A股创年内连涨纪录 是新起点吗",
@@ -156,17 +169,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
-        },
-        {
-          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
-          "url": "https://wallstreetcn.com/articles/3762226",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         },
         {
           "title": "A股医药商业股持续下挫，漱玉平民跌超18%，人民同泰、达嘉维康、英特集团、药易购均跌逾5%，华人健康、重药控股、开开实业等跟跌。",
