@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-31T19:22:53.517377+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2025-12-31T20:52:01.165692+08:00",
+  "total_titles_processed": 1693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
       "match_count": 11,
       "titles": [
+        {
+          "title": "A股2025年收官：沪指全年上涨18.41%，创指暴涨49.57%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32291082",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 20时52分]"
+        },
         {
           "title": "A股2025年收官：沪指全年收涨超18%",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A12025%E5%B9%B4%E6%94%B6%E5%AE%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%85%A8%E5%B9%B4%E6%94%B6%E6%B6%A8%E8%B6%8518%25",
@@ -33,18 +46,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时42分 ~ 13时29分]"
-        },
-        {
-          "title": "A股2025年收官：沪指全年上涨18.41%，创指暴涨49.57%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32291082",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 19时22分]"
         },
         {
           "title": "2025年A股并购重组盘点： 活跃度显著提升 “硬科技”成焦点",
