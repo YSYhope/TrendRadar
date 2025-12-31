@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T18:27:14.384073+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2025-12-31T19:22:53.517377+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             9,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时35分 ~ 18时27分]"
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 19时22分]"
         },
         {
           "title": "上证指数早盘收报3962.24点，跌0.07%。 深证成指早盘收报13513.21点，跌0.67%。 创业板指早盘收报3207.24点，跌1.10%。 沪深300早盘收报4630.63点，跌0.44%。 科创50早盘收报1347.95点，跌0.88%。 中证500早盘收报7444.43点，跌0.19%。 中证1000早盘收报7583.94点，跌0.18%。",
@@ -38,11 +39,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32291082",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时22分]"
         },
         {
           "title": "2025年A股并购重组盘点： 活跃度显著提升 “硬科技”成焦点",
