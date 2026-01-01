@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-01T23:26:29.286032+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-01-02T00:32:55.959325+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股2025年收官：沪指全年上涨18.41%，创指暴涨49.57%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32291082",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 15时27分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://ysyhope.github.io/TrendRadar/img/news.jpg"
 }
