@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T01:21:23.389440+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-01-04T02:34:11.140153+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.cls.cn/detail/2246407",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时34分]"
         },
         {
           "title": "龙头6连板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2246600",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时34分]"
         }
       ]
     }
