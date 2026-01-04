@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T13:30:26.980724+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-01-04T14:38:10.312621+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 13时30分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 14时38分]"
         },
         {
           "title": "“A+H”股热潮延续！12月累计27家A股上市公司筹划赴港上市，CPO龙头天孚通信在列",
