@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T22:29:33.453121+08:00",
-  "total_titles_processed": 1820,
+  "generated_at": "2026-01-05T23:29:39.498027+08:00",
+  "total_titles_processed": 1908,
   "failed_sources": [],
   "trends": [
     {
@@ -23,22 +23,6 @@
           "time_info": "[17时37分 ~ 22时29分]"
         },
         {
-          "title": "A股脑机接口概念集体爆发",
-          "url": "https://www.douyin.com/hot/2357808",
-          "source": "抖音",
-          "ranks": [
-            14,
-            15,
-            17,
-            18,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时32分 ~ 22时29分]"
-        },
-        {
           "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
           "url": "https://www.cls.cn/detail/2248162",
           "source": "财联社热门",
@@ -48,8 +32,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时24分 ~ 22时29分]"
+          "appearance_count": 7,
+          "time_info": "[19时24分 ~ 23时29分]"
+        },
+        {
+          "title": "A股脑机接口概念集体爆发",
+          "url": "https://www.douyin.com/hot/2357808",
+          "source": "抖音",
+          "ranks": [
+            14,
+            15,
+            17,
+            18,
+            16,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[15时32分 ~ 23时29分]"
         },
         {
           "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
@@ -62,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时30分 ~ 22时29分]"
+          "appearance_count": 9,
+          "time_info": "[18时30分 ~ 23时29分]"
         },
         {
           "title": "A股放量上涨收复4000点",
@@ -78,6 +79,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时37分 ~ 20时56分]"
+        },
+        {
+          "title": "重返4000点 ！A股早盘高开高走放量上攻，创新药概念股掀涨停潮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32317003",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时55分 ~ 23时29分]"
         },
         {
           "title": "A股新年首个交易日迎开门红",
@@ -101,18 +115,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
-        },
-        {
-          "title": "重返4000点 ！A股早盘高开高走放量上攻，创新药概念股掀涨停潮",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32317003",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时55分 ~ 22时29分]"
         },
         {
           "title": "A股军工装备板块午后持续拉升，江龙船艇20cm涨停，中天火箭此前封板，北方长龙、长城军工、天海防务等多股拉升。",
@@ -194,6 +196,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时18分 ~ 12时19分]"
+        },
+        {
+          "title": "2026年A股开局透露哪些信号",
+          "url": "https://www.toutiao.com/trending/7591842589444148777/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时29分]"
         },
         {
           "title": "A股新一轮行情启幕在即吗",
@@ -326,17 +340,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
-        },
-        {
-          "title": "2026年A股开局透露哪些信号",
-          "url": "https://www.toutiao.com/trending/7591842589444148777/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
         }
       ]
     }
