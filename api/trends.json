@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-01-05T18:32:17.329310+08:00",
-  "total_titles_processed": 1408,
-  "failed_sources": [
-    "weibo"
-  ],
+  "generated_at": "2026-01-05T19:24:18.737674+08:00",
+  "total_titles_processed": 1515,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "A股脑机接口概念集体爆发",
@@ -20,8 +18,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时32分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[15时32分 ~ 19时24分]"
+        },
+        {
+          "title": "【每日收评】A股放量普涨迎开门红，沪指12连阳重返4000点，两市成交额突破2.5万亿",
+          "url": "https://www.cls.cn/detail/2248031",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时24分]"
         },
         {
           "title": "A股新年首个交易日迎开门红",
@@ -64,23 +75,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时24分]"
         },
         {
-          "title": "【每日收评】A股放量普涨迎开门红，沪指12连阳重返4000点，两市成交额突破2.5万亿",
-          "url": "https://www.cls.cn/detail/2248031",
+          "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
+          "url": "https://www.cls.cn/detail/2248168",
           "source": "财联社热门",
           "ranks": [
             13,
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时32分]"
+          "time_info": "[18时30分 ~ 19时24分]"
         },
         {
           "title": "A股",
@@ -105,17 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时38分 ~ 14时45分]"
-        },
-        {
-          "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
-          "url": "https://www.cls.cn/detail/2248168",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 18时32分]"
         },
         {
           "title": "A股三大指数集体高开",
@@ -149,6 +150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
+          "url": "https://www.cls.cn/detail/2248162",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "A股商业航天概念延续涨势，雷科防务4连板，金风科技一字涨停，联创光电、久之洋、航天环宇、中国卫通等涨超6%，消息上，蓝箭航天科创板IPO获受理，公司拟融资金额75亿元。",
