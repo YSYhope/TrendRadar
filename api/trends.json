@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T01:26:58.157905+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-01-06T02:39:26.555892+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时39分]"
         },
         {
           "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时39分]"
         },
         {
           "title": "重返4000点 ！A股早盘高开高走放量上攻，创新药概念股掀涨停潮",
@@ -35,11 +35,25 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时39分]"
+        },
+        {
+          "title": "A股2026年开门红：沪指站上4000点，两市成交超2.5万亿元，4180股上涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32317897",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时39分]"
         },
         {
           "title": "A股脑机接口概念集体爆发",
@@ -48,18 +62,6 @@
           "ranks": [
             16,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时26分]"
-        },
-        {
-          "title": "A股2026年开门红：沪指站上4000点，两市成交超2.5万亿元，4180股上涨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32317897",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
