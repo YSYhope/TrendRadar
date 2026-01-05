@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T00:32:40.562798+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-06T01:26:58.157905+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时26分]"
         },
         {
           "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
@@ -26,41 +26,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "A股脑机接口概念集体爆发",
-          "url": "https://www.douyin.com/hot/2357808",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时26分]"
         },
         {
           "title": "重返4000点 ！A股早盘高开高走放量上攻，创新药概念股掀涨停潮",
           "url": "https://m.thepaper.cn/newsDetail_forward_32317003",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时26分]"
+        },
+        {
+          "title": "A股脑机接口概念集体爆发",
+          "url": "https://www.douyin.com/hot/2357808",
+          "source": "抖音",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时26分]"
         },
         {
           "title": "A股2026年开门红：沪指站上4000点，两市成交超2.5万亿元，4180股上涨",
           "url": "https://m.thepaper.cn/newsDetail_forward_32317897",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时26分]"
         }
       ]
     }
