@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T16:40:12.088660+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-01-05T17:37:59.445501+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "A股新年首个交易日迎开门红",
@@ -43,6 +43,19 @@
           "time_info": "[13时38分 ~ 14时45分]"
         },
         {
+          "title": "A股脑机接口概念集体爆发",
+          "url": "https://www.douyin.com/hot/2357808",
+          "source": "抖音",
+          "ranks": [
+            14,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 17时37分]"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -53,18 +66,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时10分 ~ 12时19分]"
-        },
-        {
-          "title": "A股脑机接口概念集体爆发",
-          "url": "https://www.douyin.com/hot/2357808",
-          "source": "抖音",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 16时40分]"
         },
         {
           "title": "A股AI应用方向午后拉升，蓝色光标涨超15%，风语筑、博瑞传播、科德教育、昆仑万维等纷纷跟涨。",
@@ -99,6 +100,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时39分 ~ 16时40分]"
+        },
+        {
+          "title": "A股放量上涨收复4000点",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%94%BE%E9%87%8F%E4%B8%8A%E6%B6%A8%E6%94%B6%E5%A4%8D4000%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "上证50股指期货（IH）主力合约站上3100点，日内涨2.59%。",
@@ -143,6 +155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "【每日收评】A股放量普涨迎开门红，沪指12连阳重返4000点，两市成交额突破2.5万亿",
+          "url": "https://www.cls.cn/detail/2248031",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "A股油气股开盘强势，准油股份竞价涨停，通源石油、科力股份、潜能恒信、惠博普、石化油服等多股高开，消息上，美方已成功对委内瑞拉实施打击。",
