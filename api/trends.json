@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T16:37:28.657861+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-01-06T17:31:58.737872+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,20 @@
           "time_info": "[00时32分 ~ 07时25分]"
         },
         {
+          "title": "进入全面生产阶段！黄仁勋CES上带货Rubin平台 A股供应链谁能分羹？",
+          "url": "https://www.cls.cn/detail/2248740",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时43分 ~ 17时31分]"
+        },
+        {
           "title": "重返4000点 ！A股早盘高开高走放量上攻，创新药概念股掀涨停潮",
           "url": "https://m.thepaper.cn/newsDetail_forward_32317003",
           "source": "澎湃新闻",
@@ -42,19 +56,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 06时26分]"
-        },
-        {
-          "title": "进入全面生产阶段！黄仁勋CES上带货Rubin平台 A股供应链谁能分羹？",
-          "url": "https://www.cls.cn/detail/2248740",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时43分 ~ 16时37分]"
         },
         {
           "title": "A股2026年开门红：沪指站上4000点，两市成交超2.5万亿元，4180股上涨",
@@ -160,7 +161,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
