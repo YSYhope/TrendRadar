@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T03:21:14.734417+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-01-07T04:29:54.218475+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时21分]"
-        },
-        {
-          "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
-          "url": "https://www.cls.cn/detail/2249345",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时29分]"
         },
         {
           "title": "2025年全年新增开户2744万户，这在A股史上是什么水平？",
@@ -40,8 +29,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时29分]"
+        },
+        {
+          "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
+          "url": "https://www.cls.cn/detail/2249345",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时27分]"
         },
         {
           "title": "A股“13连阳” 散户机构都在入场",
