@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T21:41:21.023866+08:00",
-  "total_titles_processed": 1900,
+  "generated_at": "2026-01-06T22:28:07.969048+08:00",
+  "total_titles_processed": 1981,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 07时25分]"
+        },
+        {
+          "title": "2026年A股牛市有望持续吗",
+          "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4A%E8%82%A1%E7%89%9B%E5%B8%82%E6%9C%89%E6%9C%9B%E6%8C%81%E7%BB%AD%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 22时28分]"
         },
         {
           "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
@@ -45,18 +58,6 @@
           "time_info": "[12时43分 ~ 18时29分]"
         },
         {
-          "title": "2026年A股牛市有望持续吗",
-          "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4A%E8%82%A1%E7%89%9B%E5%B8%82%E6%9C%89%E6%9C%9B%E6%8C%81%E7%BB%AD%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 21时41分]"
-        },
-        {
           "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
           "url": "https://www.cls.cn/detail/2249345",
           "source": "财联社热门",
@@ -66,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 21时41分]"
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 22时28分]"
         },
         {
           "title": "重返4000点 ！A股早盘高开高走放量上攻，创新药概念股掀涨停潮",
