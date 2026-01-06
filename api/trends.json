@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-07T01:27:26.434497+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-01-07T02:38:06.618781+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
       "match_count": 4,
       "titles": [
+        {
+          "title": "2026年A股牛市有望持续吗",
+          "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4A%E8%82%A1%E7%89%9B%E5%B8%82%E6%9C%89%E6%9C%9B%E6%8C%81%E7%BB%AD%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时38分]"
+        },
         {
           "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
           "url": "https://www.cls.cn/detail/2249345",
@@ -19,28 +31,17 @@
           "time_info": "[00时35分 ~ 01时27分]"
         },
         {
-          "title": "2026年A股牛市有望持续吗",
-          "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4A%E8%82%A1%E7%89%9B%E5%B8%82%E6%9C%89%E6%9C%9B%E6%8C%81%E7%BB%AD%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时27分]"
-        },
-        {
           "title": "2025年全年新增开户2744万户，这在A股史上是什么水平？",
           "url": "https://www.cls.cn/detail/2249723",
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时38分]"
         },
         {
           "title": "A股“13连阳” 散户机构都在入场",
