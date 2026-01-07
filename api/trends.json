@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T21:43:14.777127+08:00",
-  "total_titles_processed": 1990,
+  "generated_at": "2026-01-07T22:29:01.366121+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,19 @@
           "time_info": "[10时01分 ~ 16时37分]"
         },
         {
+          "title": "A股14连阳",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A114%E8%BF%9E%E9%98%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 22时29分]"
+        },
+        {
           "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
           "url": "https://www.cls.cn/detail/2249345",
           "source": "财联社热门",
@@ -60,16 +73,16 @@
           "time_info": "[00时35分 ~ 01时27分]"
         },
         {
-          "title": "A股14连阳",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A114%E8%BF%9E%E9%98%B3",
-          "source": "bilibili 热搜",
+          "title": "直击存储芯片风口：A股头部公司及“预备队”各家优势一览",
+          "url": "https://www.cls.cn/detail/2251000",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            18
+            7,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时24分 ~ 20时55分]"
+          "time_info": "[21时42分 ~ 22时29分]"
         },
         {
           "title": "A股三大指数午后集体翻绿，互联网保险、脑机接口、可燃冰、证券板块跌幅居前。",
@@ -166,17 +179,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时44分 ~ 14时40分]"
-        },
-        {
-          "title": "直击存储芯片风口：A股头部公司及“预备队”各家优势一览",
-          "url": "https://www.cls.cn/detail/2251000",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "A股光刻机、光刻胶概念持续走高，南大光电20cm涨停，高盟新材、华融化学、雅克科技、恒坤新材等多股此前封板，安集科技、鼎龙股份、容大感光均涨超15%。",
