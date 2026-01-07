@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T06:26:01.897136+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-01-08T07:25:41.387875+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2251000",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时25分]"
         },
         {
           "title": "A股14连阳",
