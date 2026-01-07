@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T02:39:39.459767+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-01-08T03:24:16.406162+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时24分]"
         },
         {
           "title": "A股14连阳",
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时24分]"
         }
       ]
     }
