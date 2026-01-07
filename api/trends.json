@@ -1,297 +1,33 @@
 {
-  "generated_at": "2026-01-07T23:31:28.599083+08:00",
-  "total_titles_processed": 2177,
+  "generated_at": "2026-01-08T00:36:55.679595+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 24,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "2026年A股牛市有望持续吗",
-          "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4A%E8%82%A1%E7%89%9B%E5%B8%82%E6%9C%89%E6%9C%9B%E6%8C%81%E7%BB%AD%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时25分]"
-        },
-        {
-          "title": "2025年全年新增开户2744万户，这在A股史上是什么水平？",
-          "url": "https://www.cls.cn/detail/2249723",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 10时01分]"
-        },
-        {
-          "title": "紫光国芯启动A股IPO辅导 脱胎于英飞凌 聚焦DRAM存储技术",
-          "url": "https://www.cls.cn/detail/2249957",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            10,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时01分 ~ 16时37分]"
-        },
         {
           "title": "直击存储芯片风口：A股头部公司及“预备队”各家优势一览",
           "url": "https://www.cls.cn/detail/2251000",
           "source": "财联社热门",
           "ranks": [
-            7,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时42分 ~ 23时31分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "A股14连阳",
           "url": "https://search.bilibili.com/all?keyword=A%E8%82%A114%E8%BF%9E%E9%98%B3",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            18,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时24分 ~ 23时31分]"
-        },
-        {
-          "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
-          "url": "https://www.cls.cn/detail/2249345",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时27分]"
-        },
-        {
-          "title": "A股三大指数午后集体翻绿，互联网保险、脑机接口、可燃冰、证券板块跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3032132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "李大霄：A股十四连阳上攻势头放缓",
-          "url": "https://www.toutiao.com/trending/7592514223378137131/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时24分 ~ 21时43分]"
-        },
-        {
-          "title": "A股可控核聚变板块持续上扬，远东股份、弘讯科技涨停，中国核建、国机重装、王子新材、天力复合、保变电气跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3032029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "金十数据整理：A股每日市场要闻回顾（2026-01-07）",
-          "url": "https://flash.jin10.com/detail/20260107151920032800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
-          "title": "A股收评：沪指微涨录得14连阳",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%BE%AE%E6%B6%A8%E5%BD%95%E5%BE%9714%E8%BF%9E%E9%98%B3",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时36分 ~ 18时30分]"
-        },
-        {
-          "title": "上证指数早盘收报4095.54点，涨0.29%。 深证成指早盘收报14071.35点，涨0.35%。 创业板指早盘收报3332.74点，涨0.41%。 沪深300早盘收报4792.05点，涨0.03%。 科创50早盘收报1445.48点，涨1.13%。 中证500早盘收报7902.04点，涨1.13%。 中证1000早盘收报7930.24点，涨0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3032090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 13时31分]"
-        },
-        {
-          "title": "A股“13连阳” 散户机构都在入场",
-          "url": "https://www.toutiao.com/trending/7592226933111262774/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时21分]"
-        },
-        {
-          "title": "十年新高再刷新！A股放量大涨，沪指创纪录13连阳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325817",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 14时40分]"
-        },
-        {
-          "title": "A股光刻机、光刻胶概念持续走高，南大光电20cm涨停，高盟新材、华融化学、雅克科技、恒坤新材等多股此前封板，安集科技、鼎龙股份、容大感光均涨超15%。",
-          "url": "https://wallstreetcn.com/livenews/3032068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时44分]"
-        },
-        {
-          "title": "和讯投顾：A股目标剑指4100点",
-          "url": "https://www.toutiao.com/trending/7592548235051273778/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
-        },
-        {
-          "title": "业内：A股真的“雄起”了",
-          "url": "https://www.toutiao.com/trending/7592422241896255030/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "A股存储芯片板块开盘领涨，普冉股份20cm涨停，股价创历史新高，恒烁股份、聚辰股份、江波龙、香农芯创、联芸科技等涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3032017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "上证指数开盘报4083.84点，涨0.00%。 深证成指开盘报14062.02点，涨0.28%。 创业板指开盘报3331.34点，涨0.36%。 沪深300开盘报4796.93点，涨0.13%。 科创50开盘报1442.51点，涨0.92%。 中证500开盘报7838.91点，涨0.32%。 中证1000开盘报7881.84点，涨0.22%。",
-          "url": "https://wallstreetcn.com/livenews/3032013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "高盛：维持对A股和H股的超配",
-          "url": "https://wallstreetcn.com/livenews/3032002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "上证指数收报4085.77点，涨0.05%。 深证成指收报14030.56点，涨0.06%。 创业板指收报3329.69点，涨0.31%。 沪深300收报4776.67点，跌0.29%。 科创50收报1443.39点，涨0.99%。 中证500收报7875.08点，涨0.78%。 中证1000收报7906.42点，涨0.53%。",
-          "url": "https://wallstreetcn.com/livenews/3032202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
-          "title": "A股脑机接口概念震荡回落，诚益通、麦澜德、熵基科技、爱朋医疗跌超10%，伟思医疗、荣泰健康、博拓生物、狄耐克等跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3032136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "A股三大指数午后集体翻绿，钛白粉、数字货币、脑机接口、油气等方向跌幅居前，沪深京三市下跌个股近3100只。",
-          "url": "https://wallstreetcn.com/livenews/3032134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "A股油气股局部异动，山东墨龙直线触板，科力股份、准油股份、通源石油等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3032187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时30分"
+          "time_info": "00时36分"
         }
       ]
     }
