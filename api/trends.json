@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T18:31:16.994102+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2026-01-08T19:25:22.759643+08:00",
+  "total_titles_processed": 1783,
   "failed_sources": [],
   "trends": [
     {
@@ -58,6 +58,18 @@
           "time_info": "[11时46分 ~ 12时43分]"
         },
         {
+          "title": "今天A股发生了这些变化",
+          "url": "https://www.toutiao.com/trending/7591811735389405238/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时30分 ~ 19时25分]"
+        },
+        {
           "title": "A股今日共112只个股涨停",
           "url": "https://www.toutiao.com/trending/7592013704616181801/",
           "source": "今日头条",
@@ -68,17 +80,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时33分 ~ 18时31分]"
-        },
-        {
-          "title": "今天A股发生了这些变化",
-          "url": "https://www.toutiao.com/trending/7591811735389405238/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "A股商业航天概念持续走强，航天晨光、航天电器、航天电子、天箭科技、通宇通讯、江顺科技、盛洋科技等十余只成分股封涨停板。",
