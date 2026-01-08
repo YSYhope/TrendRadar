@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T19:25:22.759643+08:00",
-  "total_titles_processed": 1783,
+  "generated_at": "2026-01-08T20:55:17.402496+08:00",
+  "total_titles_processed": 1905,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时30分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[18时30分 ~ 20时55分]"
         },
         {
           "title": "A股今日共112只个股涨停",
