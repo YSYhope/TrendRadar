@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T22:29:10.874575+08:00",
-  "total_titles_processed": 2043,
+  "generated_at": "2026-01-09T23:29:31.102048+08:00",
+  "total_titles_processed": 2146,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时28分 ~ 22时29分]"
-        },
-        {
-          "title": "如何看待A股成交量再上3万亿",
-          "url": "https://www.toutiao.com/trending/7593320160191057414/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 22时29分]"
+          "appearance_count": 8,
+          "time_info": "[18时28分 ~ 23时29分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
@@ -42,6 +31,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时36分 ~ 17时33分]"
+        },
+        {
+          "title": "如何看待A股成交量再上3万亿",
+          "url": "https://www.toutiao.com/trending/7593320160191057414/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时29分]"
         },
         {
           "title": "A股创新药板块午后拉升，维康药业涨超15%，前沿生物、上海谊众涨超10%，联环药业、泓博医药、智翔金泰、诚达药业跟涨。",
@@ -66,6 +67,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时22分]"
+        },
+        {
+          "title": "15连阳后，A股继续上攻！沪指突破4100点关口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32333007",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时29分]"
         },
         {
           "title": "A股实现16连阳",
@@ -112,17 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时29分 ~ 16时36分]"
-        },
-        {
-          "title": "15连阳后，A股继续上攻！沪指突破4100点关口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32333007",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 22时29分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-01-09）",
