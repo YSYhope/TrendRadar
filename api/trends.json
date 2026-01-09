@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T06:26:38.352794+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-01-10T07:25:06.677959+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时25分]"
         },
         {
           "title": "15连阳后，A股继续上攻！沪指突破4100点关口",
