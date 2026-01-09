@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T21:41:45.290524+08:00",
-  "total_titles_processed": 1947,
+  "generated_at": "2026-01-09T22:29:10.874575+08:00",
+  "total_titles_processed": 2043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -17,8 +17,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 21时41分]"
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 22时29分]"
+        },
+        {
+          "title": "如何看待A股成交量再上3万亿",
+          "url": "https://www.toutiao.com/trending/7593320160191057414/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 22时29分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
@@ -101,6 +112,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时29分 ~ 16时36分]"
+        },
+        {
+          "title": "15连阳后，A股继续上攻！沪指突破4100点关口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32333007",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 22时29分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-01-09）",
