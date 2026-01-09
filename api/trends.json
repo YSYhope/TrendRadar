@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T15:29:40.285718+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-01-09T16:36:56.026885+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "A股创新药板块午后拉升，维康药业涨超15%，前沿生物、上海谊众涨超10%，联环药业、泓博医药、智翔金泰、诚达药业跟涨。",
@@ -56,6 +56,28 @@
           "time_info": "[12时03分 ~ 12时04分]"
         },
         {
+          "title": "A股收评：沪指涨0.92%站上4100点",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.92%25%E7%AB%99%E4%B8%8A4100%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 16时36分]"
+        },
+        {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-01-09）",
           "url": "https://flash.jin10.com/detail/20260109090654841800",
           "source": "金十数据",
@@ -65,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "A股收评：沪指涨0.92%站上4100点",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.92%25%E7%AB%99%E4%B8%8A4100%E7%82%B9",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
         },
         {
           "title": "A股商业航天概念延续涨势，鲁信创投11天9板，杭萧钢构、巨力索具、中衡设计均2连板，信科移动、富士达、邵阳液压、泰胜风能涨超10%。",
@@ -95,7 +106,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -117,7 +128,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
