@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T00:34:47.174346+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-10T01:28:05.382273+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3762915",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时28分]"
         },
         {
           "title": "15连阳后，A股继续上攻！沪指突破4100点关口",
@@ -26,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时28分]"
         },
         {
           "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
