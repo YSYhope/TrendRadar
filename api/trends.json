@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T12:37:43.965417+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-01-10T13:26:28.630193+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 12时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时34分 ~ 13时26分]"
         },
         {
           "title": "15连阳后，A股继续上攻！沪指突破4100点关口",
@@ -35,6 +35,19 @@
           "time_info": "[00时34分 ~ 09时57分]"
         },
         {
+          "title": "中信证券：人心思涨的环境下开年后A股市场震荡向上的概率更高",
+          "url": "https://wallstreetcn.com/livenews/3034482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 13时26分]"
+        },
+        {
           "title": "A股铜业上市公司业绩大幅回暖",
           "url": "https://wallstreetcn.com/livenews/3034464",
           "source": "华尔街见闻-快讯",
@@ -46,18 +59,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时57分 ~ 12时37分]"
-        },
-        {
-          "title": "中信证券：人心思涨的环境下开年后A股市场震荡向上的概率更高",
-          "url": "https://wallstreetcn.com/livenews/3034482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 12时37分]"
         },
         {
           "title": "A股16连阳 4100点上方是危险边缘吗",
