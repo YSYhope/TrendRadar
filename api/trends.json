@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T16:32:52.013255+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-01-11T17:26:19.139024+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 16时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 17时26分]"
         },
         {
           "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 16时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 17时26分]"
         },
         {
           "title": "下周A股还能涨吗",
@@ -40,11 +40,12 @@
           "ranks": [
             7,
             9,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时29分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[13时29分 ~ 17时26分]"
         }
       ]
     }
