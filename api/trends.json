@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T00:33:16.206209+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-13T01:28:11.018417+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 01时28分]"
         },
         {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
@@ -26,30 +26,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 01时28分]"
         },
         {
           "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
           "url": "https://m.thepaper.cn/newsDetail_forward_32365239",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 01时28分]"
         },
         {
           "title": "开年A股风格分化：沪指跑输个股均值，超级大盘超八成收跌，中小盘股扛旗领跑",
           "url": "https://www.cls.cn/detail/2255101",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 01时28分]"
         },
         {
           "title": "A股16连阳，港股为何不涨？",
@@ -59,19 +61,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 01时28分]"
         },
         {
           "title": "李大霄解读A股成交额创历史",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BBA%E8%82%A1%E6%88%90%E4%BA%A4%E9%A2%9D%E5%88%9B%E5%8E%86%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 01时28分]"
         },
         {
           "title": "A股涨疯了一天创2项纪录",
@@ -81,8 +84,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 01时28分]"
         }
       ]
     }
