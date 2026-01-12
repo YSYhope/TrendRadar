@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T06:23:30.917520+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-01-13T07:21:28.318630+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
           "url": "https://wallstreetcn.com/articles/3763068",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
@@ -38,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "开年A股风格分化：沪指跑输个股均值，超级大盘超八成收跌，中小盘股扛旗领跑",
@@ -50,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "李大霄解读A股成交额创历史",
@@ -66,19 +67,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "A股16连阳，港股为何不涨？",
           "url": "https://wallstreetcn.com/articles/3763061",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "A股涨疯了一天创2项纪录",
@@ -90,8 +92,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时21分]"
         }
       ]
     }
