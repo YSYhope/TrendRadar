@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T12:44:16.688180+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-01-13T13:31:47.094762+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 12时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 13时31分]"
         },
         {
           "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
@@ -112,11 +112,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时31分]"
         },
         {
           "title": "A股午盘：沪深两市成交额超2.4万亿",
@@ -126,19 +127,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时31分]"
         },
         {
           "title": "本轮A股上涨的主要原因是什么",
           "url": "https://www.toutiao.com/trending/7594424718573178418/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时31分]"
         },
         {
           "title": "A股市场两融交易额再度超过4000亿元",
