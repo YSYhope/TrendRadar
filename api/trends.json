@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T19:25:15.462766+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2026-01-13T20:56:37.507484+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时32分 ~ 07时21分]"
+        },
+        {
+          "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
+          "url": "https://wallstreetcn.com/articles/3763139",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时33分 ~ 20时56分]"
         },
         {
           "title": "开年A股风格分化：沪指跑输个股均值，超级大盘超八成收跌，中小盘股扛旗领跑",
@@ -95,18 +107,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 07时21分]"
-        },
-        {
-          "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
-          "url": "https://wallstreetcn.com/articles/3763139",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 19时25分]"
         },
         {
           "title": "A股收评：商业航天概念股集体退潮",
@@ -194,6 +194,18 @@
           "time_info": "[16时36分 ~ 17时33分]"
         },
         {
+          "title": "A股成交额突破3.64万亿 再创新高",
+          "url": "https://www.toutiao.com/trending/7594106043740045358/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时56分]"
+        },
+        {
           "title": "A股终结17连阳",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E7%BB%88%E7%BB%9317%E8%BF%9E%E9%98%B3",
           "source": "百度热搜",
@@ -228,17 +240,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时44分 ~ 12时44分]"
-        },
-        {
-          "title": "A股成交额突破3.64万亿 再创新高",
-          "url": "https://www.toutiao.com/trending/7594106043740045358/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
         },
         {
           "title": "A股商业航天概念早盘走低，航天环宇、西部材料、雷科防务、航天发展、航天机电、中国卫通、中天火箭、航发科技等多股触及跌停，航天宏图、广联航空、国科军工等跌逾10%。",
