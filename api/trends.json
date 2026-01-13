@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T21:45:30.311298+08:00",
-  "total_titles_processed": 1877,
+  "generated_at": "2026-01-13T22:31:35.499645+08:00",
+  "total_titles_processed": 1975,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[00时32分 ~ 17时33分]"
         },
         {
+          "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
+          "url": "https://wallstreetcn.com/articles/3763139",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 22时31分]"
+        },
+        {
           "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
           "url": "https://m.thepaper.cn/newsDetail_forward_32365239",
           "source": "澎湃新闻",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时32分 ~ 07时21分]"
-        },
-        {
-          "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
-          "url": "https://wallstreetcn.com/articles/3763139",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时33分 ~ 21时45分]"
         },
         {
           "title": "开年A股风格分化：沪指跑输个股均值，超级大盘超八成收跌，中小盘股扛旗领跑",
@@ -315,7 +315,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
