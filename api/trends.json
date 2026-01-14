@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T00:37:00.409084+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-15T01:31:37.789328+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
@@ -26,19 +26,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "A股调整融资保证金有何影响",
           "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E8%B0%83%E6%95%B4%E8%9E%8D%E8%B5%84%E4%BF%9D%E8%AF%81%E9%87%91%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "深交所调整融资保证金比例，不得低于 100%，上证指数大幅调整，如何解读这一调整？",
@@ -48,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时31分]"
         }
       ]
     }
