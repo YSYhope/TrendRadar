@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T21:44:07.040599+08:00",
-  "total_titles_processed": 2000,
+  "generated_at": "2026-01-14T22:31:36.948579+08:00",
+  "total_titles_processed": 2092,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时31分 ~ 21时44分]"
+          "appearance_count": 11,
+          "time_info": "[15时31分 ~ 22时31分]"
         },
         {
           "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时36分 ~ 21时44分]"
+          "appearance_count": 10,
+          "time_info": "[16时36分 ~ 22时31分]"
         },
         {
           "title": "深交所调整融资保证金比例，不得低于 100%，上证指数大幅调整，如何解读这一调整？",
@@ -57,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时36分 ~ 21时44分]"
+          "appearance_count": 10,
+          "time_info": "[16时36分 ~ 22时31分]"
         },
         {
           "title": "A股调整融资保证金有何影响",
@@ -67,11 +67,12 @@
           "ranks": [
             9,
             4,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时33分 ~ 21时44分]"
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 22时31分]"
         },
         {
           "title": "融资保证金比例历次调整A股走势如何",
