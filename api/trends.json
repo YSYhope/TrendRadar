@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T05:27:25.652242+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-01-15T06:28:02.827882+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时28分]"
         },
         {
           "title": "A股调整融资保证金有何影响",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时28分]"
         },
         {
           "title": "时隔两年，融资保证金比例回归100%，历次调整A股走势如何？",
