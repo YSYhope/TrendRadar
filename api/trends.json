@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T04:27:08.859199+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-01-15T05:27:25.652242+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,16 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "时隔两年，融资保证金比例回归100%，历次调整A股走势如何？",
-          "url": "https://www.cls.cn/detail/2257341",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时31分]"
-        },
-        {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
           "url": "https://wallstreetcn.com/articles/3763239",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时27分]"
         },
         {
           "title": "A股调整融资保证金有何影响",
@@ -39,8 +29,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时27分]"
+        },
+        {
+          "title": "时隔两年，融资保证金比例回归100%，历次调整A股走势如何？",
+          "url": "https://www.cls.cn/detail/2257341",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "深交所调整融资保证金比例，不得低于 100%，上证指数大幅调整，如何解读这一调整？",
