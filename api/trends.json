@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T01:31:37.789328+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-01-15T02:39:54.277105+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时39分]"
         },
         {
           "title": "A股调整融资保证金有何影响",
@@ -35,11 +35,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时39分]"
         },
         {
           "title": "深交所调整融资保证金比例，不得低于 100%，上证指数大幅调整，如何解读这一调整？",
