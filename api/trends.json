@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T00:41:13.783190+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-01-16T01:36:56.442958+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时36分]"
         },
         {
           "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32388823",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时36分]"
         }
       ]
     }
