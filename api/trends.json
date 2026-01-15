@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T12:45:18.354498+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-01-15T13:31:21.755071+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时36分 ~ 12时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 13时31分]"
         },
         {
           "title": "A股调整融资保证金有何影响",
@@ -52,11 +52,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 13时31分]"
         },
         {
           "title": "A股要慢牛不要疯牛",
