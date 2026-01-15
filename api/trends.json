@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T11:48:26.665287+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-01-15T12:45:18.354498+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 11时48分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 12时45分]"
         },
         {
           "title": "A股调整融资保证金有何影响",
@@ -28,11 +28,12 @@
             9,
             7,
             16,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 11时48分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 12时45分]"
         },
         {
           "title": "时隔两年，融资保证金比例回归100%，历次调整A股走势如何？",
@@ -50,11 +51,25 @@
           "url": "https://wallstreetcn.com/livenews/3037509",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时45分]"
+        },
+        {
+          "title": "A股要慢牛不要疯牛",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A6%81%E6%85%A2%E7%89%9B%E4%B8%8D%E8%A6%81%E7%96%AF%E7%89%9B%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时00分 ~ 12时45分]"
         },
         {
           "title": "深交所调整融资保证金比例，不得低于 100%，上证指数大幅调整，如何解读这一调整？",
@@ -66,18 +81,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 01时31分]"
-        },
-        {
-          "title": "A股要慢牛不要疯牛",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A6%81%E6%85%A2%E7%89%9B%E4%B8%8D%E8%A6%81%E7%96%AF%E7%89%9B%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时00分 ~ 11时48分]"
         },
         {
           "title": "A股三大指数集体翻红。",
