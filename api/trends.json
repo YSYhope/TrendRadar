@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T06:27:32.773803+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-01-16T07:26:44.956267+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3763340",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 07时26分]"
         },
         {
           "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
