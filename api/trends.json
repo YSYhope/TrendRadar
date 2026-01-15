@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T04:31:39.489522+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-01-16T05:27:03.629015+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时27分]"
         },
         {
           "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
@@ -27,8 +27,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时27分]"
         }
       ]
     }
