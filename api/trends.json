@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T18:31:21.708569+08:00",
-  "total_titles_processed": 1584,
+  "generated_at": "2026-01-16T19:24:23.755995+08:00",
+  "total_titles_processed": 1684,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,20 @@
           "time_info": "[00时40分 ~ 05时27分]"
         },
         {
+          "title": "A股四连跌退守4100点是何信号",
+          "url": "https://www.toutiao.com/trending/7595855444258590249/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            5,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 19时24分]"
+        },
+        {
           "title": "A股半导体板块午后持续走强，天岳先进20CM封板涨停，江波龙涨超10%，通富微电、德明利等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3038479",
           "source": "华尔街见闻-快讯",
@@ -42,19 +56,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
-        },
-        {
-          "title": "A股四连跌退守4100点是何信号",
-          "url": "https://www.toutiao.com/trending/7595855444258590249/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 18时31分]"
         },
         {
           "title": "A股航天装备板块短线拉升，航天宏图涨超10%，中国卫通、中天火箭、星网宇达、理工导航、航天环宇等跟涨。",
