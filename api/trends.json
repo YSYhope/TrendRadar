@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T14:40:59.403838+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-01-16T15:29:14.745800+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 14时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时40分 ~ 15时29分]"
         },
         {
           "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
@@ -66,6 +66,28 @@
           "time_info": "[12时04分 ~ 13时31分]"
         },
         {
+          "title": "A股半导体产业链大爆发",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%A4%A7%E7%88%86%E5%8F%91%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 15时29分]"
+        },
+        {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 15时29分]"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-01-16）",
           "url": "https://flash.jin10.com/detail/20260116090830289800",
           "source": "金十数据",
@@ -110,6 +132,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "上证指数收报4101.91点，跌0.26%。 深证成指收报14281.08点，跌0.18%。 创业板指收报3361.02点，跌0.20%。 沪深300收报4731.87点，跌0.41%。 科创50收报1514.07点，涨1.35%。 中证500收报8232.67点，涨0.11%。 中证1000收报8232.73点，跌0.10%。",
+          "url": "https://wallstreetcn.com/livenews/3038557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "A股市场两融余额首次突破2.7万亿元",
           "url": "https://wallstreetcn.com/livenews/3038323",
           "source": "华尔街见闻-快讯",
@@ -127,7 +160,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         }
