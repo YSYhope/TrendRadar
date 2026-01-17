@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T06:24:37.236443+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-01-18T07:23:35.507926+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2261163",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时23分]"
         },
         {
           "title": "央广财评：坚持稳字当头 ，A股要的不是“疯牛”而是“长牛”",
