@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-19T05:22:40.160550+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-01-19T06:24:31.331888+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
       "match_count": 5,
       "titles": [
+        {
+          "title": "A股春季行情仍有新高？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2261451",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时24分]"
+        },
         {
           "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2261163",
@@ -17,21 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时22分]"
-        },
-        {
-          "title": "A股春季行情仍有新高？投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2261451",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时24分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情如火如荼，16家上市公司净利最高同比预增超200%",
@@ -42,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时24分]"
         },
         {
           "title": "万亿存款搬家进行时 A股慢牛正在成形",
@@ -54,11 +55,12 @@
             18,
             10,
             23,
-            27
+            27,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时24分]"
         },
         {
           "title": "A股哪类板块值得关注",
