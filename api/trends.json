@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T04:28:26.130160+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-01-19T05:22:40.160550+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "A股春季行情仍有新高？投资主线有哪些？十大券商策略来了",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情如火如荼，16家上市公司净利最高同比预增超200%",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "万亿存款搬家进行时 A股慢牛正在成形",
@@ -53,11 +53,12 @@
             15,
             18,
             10,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "A股哪类板块值得关注",
