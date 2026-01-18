@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T00:31:31.172948+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-19T01:21:56.253576+08:00",
+  "total_titles_processed": 343,
   "failed_sources": [],
   "trends": [
     {
@@ -15,41 +15,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时21分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情如火如荼，16家上市公司净利最高同比预增超200%",
           "url": "https://www.cls.cn/detail/2261401",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时21分]"
         },
         {
           "title": "A股春季行情仍有新高？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2261451",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时21分]"
         },
         {
           "title": "A股哪类板块值得关注",
           "url": "https://www.toutiao.com/trending/7596649161538145811/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时21分]"
         },
         {
           "title": "万亿存款搬家进行时 A股慢牛正在成形",
@@ -59,8 +62,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时21分]"
         }
       ]
     }
