@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T13:35:48.546097+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-01-19T14:45:56.034979+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "A股春季行情仍有新高？投资主线有哪些？十大券商策略来了",
@@ -66,15 +66,27 @@
           "time_info": "[00时31分 ~ 07时24分]"
         },
         {
+          "title": "A股储能概念股持续反弹，海博思创涨超10%，华自科技、艾罗能源、阿特斯、锦浪科技、阳光电源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3039578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "A股商业航天概念午后持续活跃，航亚科技、欧科亿20CM涨停，航发动力、航发控制、航发科技涨停，超捷股份、航宇科技、图南股份等涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3039536",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 14时45分]"
         },
         {
           "title": "A股哪类板块值得关注",
@@ -87,6 +99,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时21分]"
+        },
+        {
+          "title": "A股三大股指午后均转跌，创业板指日内跌幅达1%，深证成指跌0.19%，沪指跌0.01%。AI应用、保险、银行、半导体等方向跌幅居前，沪深京三市下跌个股近2100只。",
+          "url": "https://wallstreetcn.com/livenews/3039556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "机构：A股“春季躁动”行情仍在延续，市场主线有望回归业绩基本面",
@@ -109,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3039552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "上证指数开盘报4090.72点，跌0.27%。 深证成指开盘报14221.93点，跌0.41%。 创业板指开盘报3340.94点，跌0.60%。 沪深300开盘报4720.19点，跌0.25%。 科创50开盘报1513.59点，跌0.03%。 中证500开盘报8199.50点，跌0.40%。 中证1000开盘报8204.63点，跌0.34%。",
