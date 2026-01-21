@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-21T16:38:12.754641+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-01-21T17:37:58.691576+08:00",
+  "total_titles_processed": 1567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
       "match_count": 17,
       "titles": [
+        {
+          "title": "一场A股大V的“清朗行动”！雪球、蚂蚁、抖音、腾讯都在行动",
+          "url": "https://www.cls.cn/detail/2264754",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 17时37分]"
+        },
         {
           "title": "A股",
           "url": "https://www.douyin.com/hot/2374735",
@@ -20,19 +33,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时08分 ~ 15时33分]"
-        },
-        {
-          "title": "一场A股大V的“清朗行动”！雪球、蚂蚁、抖音、腾讯都在行动",
-          "url": "https://www.cls.cn/detail/2264754",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时42分 ~ 16时38分]"
         },
         {
           "title": "A股锂矿股震荡拉升，盛新锂能逼近涨停，大中矿业、国城矿业、天华新能、中矿资源、永兴材料涨超5%。",
