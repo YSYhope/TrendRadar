@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T15:33:31.425412+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-01-21T16:38:12.754641+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时08分 ~ 15时33分]"
+        },
+        {
+          "title": "一场A股大V的“清朗行动”！雪球、蚂蚁、抖音、腾讯都在行动",
+          "url": "https://www.cls.cn/detail/2264754",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 16时38分]"
         },
         {
           "title": "A股锂矿股震荡拉升，盛新锂能逼近涨停，大中矿业、国城矿业、天华新能、中矿资源、永兴材料涨超5%。",
@@ -44,18 +57,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时40分 ~ 07时28分]"
-        },
-        {
-          "title": "一场A股大V的“清朗行动”！雪球、蚂蚁、抖音、腾讯都在行动",
-          "url": "https://www.cls.cn/detail/2264754",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时33分]"
         },
         {
           "title": "密集“打卡”热门标的，机构开年积极掘金A股机遇",
@@ -108,7 +109,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -152,7 +153,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -196,7 +197,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         }
