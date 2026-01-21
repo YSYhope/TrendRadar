@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T19:29:12.809612+08:00",
-  "total_titles_processed": 1750,
+  "generated_at": "2026-01-21T20:59:01.360069+08:00",
+  "total_titles_processed": 1870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "一场A股大V的“清朗行动”！雪球、蚂蚁、抖音、腾讯都在行动",
@@ -58,6 +58,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时40分 ~ 07时28分]"
+        },
+        {
+          "title": "尾盘异动 A股三大信号“闪现”",
+          "url": "https://www.toutiao.com/trending/7597341153704591398/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
         },
         {
           "title": "密集“打卡”热门标的，机构开年积极掘金A股机遇",
