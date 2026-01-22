@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T18:33:49.642643+08:00",
-  "total_titles_processed": 1625,
+  "generated_at": "2026-01-22T19:27:18.313657+08:00",
+  "total_titles_processed": 1711,
   "failed_sources": [],
   "trends": [
     {
@@ -52,6 +52,18 @@
           "time_info": "10时05分"
         },
         {
+          "title": "上证50八连跌！此前历史仅有3次，成分股均跌超2%，银行、食饮跌幅明显",
+          "url": "https://www.cls.cn/detail/2266624",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时27分]"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -72,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
-        },
-        {
-          "title": "上证50八连跌！此前历史仅有3次，成分股均跌超2%，银行、食饮跌幅明显",
-          "url": "https://www.cls.cn/detail/2266624",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
         },
         {
           "title": "A股存储芯片板块延续强势，盈方微3连板，朗科科技涨超10%，澜起科技、聚辰股份、广合科技、普冉股份等涨超5%。",
