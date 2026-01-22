@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T04:33:53.546305+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-01-23T05:28:54.658705+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "上证50八连跌！此前历史仅有3次，成分股均跌超2%，银行、食饮跌幅明显",
@@ -16,8 +16,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 05时28分]"
+        },
+        {
+          "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
+          "url": "https://wallstreetcn.com/articles/3763888",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         }
       ]
     }
