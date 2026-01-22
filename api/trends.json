@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T05:28:54.658705+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-01-23T06:29:21.356470+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
           "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
@@ -26,9 +26,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时29分]"
         }
       ]
     }
