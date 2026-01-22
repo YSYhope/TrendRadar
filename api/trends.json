@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T22:37:35.103994+08:00",
-  "total_titles_processed": 1986,
+  "generated_at": "2026-01-22T23:36:36.575493+08:00",
+  "total_titles_processed": 2080,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时55分 ~ 07时31分]"
+        },
+        {
+          "title": "上证50八连跌！此前历史仅有3次，成分股均跌超2%，银行、食饮跌幅明显",
+          "url": "https://www.cls.cn/detail/2266624",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时33分 ~ 23时36分]"
         },
         {
           "title": "A股中字头个股震荡走高，中信重工、中国铁物、中国一重涨停，中国软件、中国核建、中国通号、中钨高新、中稀有色跟涨。",
@@ -52,31 +67,18 @@
           "time_info": "10时05分"
         },
         {
-          "title": "上证50八连跌！此前历史仅有3次，成分股均跌超2%，银行、食饮跌幅明显",
-          "url": "https://www.cls.cn/detail/2266624",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时33分 ~ 22时37分]"
-        },
-        {
           "title": "A股“易中天”大涨",
           "url": "https://www.toutiao.com/trending/7598039639648026630/",
           "source": "今日头条",
           "ranks": [
             14,
             20,
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时37分]"
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 23时36分]"
         },
         {
           "title": "A股",
