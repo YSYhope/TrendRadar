@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T17:35:49.240462+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2026-01-23T18:31:47.088477+08:00",
+  "total_titles_processed": 1732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
@@ -113,6 +113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "一图看懂 | A股掀起“商业航天热”，开年产业重要信息全梳理",
+          "url": "https://www.cls.cn/detail/2268022",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "A股收盘：创业板指放量涨0.63%，光伏、商业航天概念集体爆发",
