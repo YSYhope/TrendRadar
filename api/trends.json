@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T19:21:55.216173+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-01-24T20:50:09.886943+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时42分 ~ 19时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时42分 ~ 20时50分]"
         },
         {
           "title": "一图看懂 | A股掀起“商业航天热”，开年产业重要信息全梳理",
@@ -38,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 20时50分]"
         }
       ]
     }
