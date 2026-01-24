@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T22:24:43.195084+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2026-01-24T23:25:22.666549+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时42分 ~ 22时24分]"
+          "appearance_count": 16,
+          "time_info": "[11时42分 ~ 23时25分]"
         },
         {
           "title": "一图看懂 | A股掀起“商业航天热”，开年产业重要信息全梳理",
@@ -43,19 +43,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时26分 ~ 22时24分]"
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 23时25分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
           "url": "https://www.cls.cn/detail/2268650",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时24分]"
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 23时25分]"
         }
       ]
     }
