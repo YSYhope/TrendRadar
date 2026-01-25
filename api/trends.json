@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T07:24:30.503321+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-01-25T10:12:46.921913+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 10时12分]"
         },
         {
           "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 10时12分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
@@ -40,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 10时12分]"
         }
       ]
     }
