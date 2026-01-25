@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T20:51:59.463669+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-01-25T21:36:02.167565+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 20时51分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 21时36分]"
         },
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -29,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 20时51分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 21时36分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
@@ -52,9 +53,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 21时36分]"
         }
       ]
     }
