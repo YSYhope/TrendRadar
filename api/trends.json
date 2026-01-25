@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T03:21:02.352641+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-01-26T04:29:56.237279+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
+        },
+        {
+          "title": "盘中创历史新高A股名单一览：多只有色金属股在列",
+          "url": "https://www.cls.cn/detail/2268588",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
         },
         {
           "title": "六大机构A股最新研判来了",
@@ -25,18 +37,6 @@
           "ranks": [
             7,
             22,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时21分]"
-        },
-        {
-          "title": "盘中创历史新高A股名单一览：多只有色金属股在列",
-          "url": "https://www.cls.cn/detail/2268588",
-          "source": "财联社热门",
-          "ranks": [
-            9,
             10
           ],
           "is_new": false,
