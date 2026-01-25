@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-25T10:12:46.921913+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-01-25T12:16:43.067745+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
       "match_count": 3,
       "titles": [
-        {
-          "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
-          "url": "https://www.cls.cn/detail/2268544",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时12分]"
-        },
         {
           "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2268628",
@@ -28,8 +16,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 12时16分]"
+        },
+        {
+          "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
+          "url": "https://www.cls.cn/detail/2268544",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 12时16分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
@@ -37,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 12时16分]"
         }
       ]
     }
