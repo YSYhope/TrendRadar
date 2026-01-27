@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T21:55:08.440372+08:00",
-  "total_titles_processed": 1929,
+  "generated_at": "2026-01-27T22:35:49.011799+08:00",
+  "total_titles_processed": 2003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
@@ -108,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
+          "url": "https://www.cls.cn/detail/2271670",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "上证指数收报4139.90点，涨0.18%。 深证成指收报14329.91点，涨0.09%。 创业板指收报3342.60点，涨0.71%。 沪深300收报4705.69点，跌0.03%。 科创50收报1555.98点，涨1.51%。 中证500收报8548.93点，涨0.50%。 中证1000收报8382.15点，涨0.20%。",
