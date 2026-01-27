@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T03:31:18.574189+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-01-28T04:29:28.396186+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时29分]"
         },
         {
           "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 04时29分]"
         }
       ]
     }
