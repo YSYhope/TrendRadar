@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T19:35:57.410431+08:00",
-  "total_titles_processed": 1829,
+  "generated_at": "2026-01-29T21:06:56.271683+08:00",
+  "total_titles_processed": 1948,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 21时06分]"
         },
         {
           "title": "A股半导体板块大涨",
@@ -85,7 +85,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -118,7 +118,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
