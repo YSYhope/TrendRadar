@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T18:40:50.623227+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2026-01-30T19:33:18.988750+08:00",
+  "total_titles_processed": 1753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【每日收评】上证50涨超1.5%，资源类周期股延续强势，白酒、地产板块迎暴力反弹",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "A股再度上演绝地翻盘 发生了什么",
+          "url": "https://www.toutiao.com/trending/7600539614419582986/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "A股化工板块午后回暖，红宝丽9天4板，氯碱化工、沧州大化、三友化工、中泰化学、红四方跟涨。",
