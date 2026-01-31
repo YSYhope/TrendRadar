@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T05:27:00.223117+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-02-01T06:28:36.635225+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             27,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 06时28分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，11家上市公司净利最高同比预增超10倍",
@@ -29,8 +30,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 06时28分]"
         }
       ]
     }
