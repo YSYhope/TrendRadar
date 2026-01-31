@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T23:28:41.784445+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-02-01T00:35:10.458902+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -8,28 +8,26 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "2026年A股上市公司第一批退市名单",
+          "url": "https://www.toutiao.com/trending/7600954784553730075/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 00时35分]"
+        },
+        {
           "title": "应声20CM涨停！A股年报行情纵深推进，11家上市公司净利最高同比预增超10倍",
           "url": "https://www.cls.cn/detail/2276497",
           "source": "财联社热门",
           "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时56分 ~ 23时28分]"
-        },
-        {
-          "title": "A股1月收官走出“深V”行情",
-          "url": "https://www.toutiao.com/trending/7601039362419212330/",
-          "source": "今日头条",
-          "ranks": [
-            30
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
+          "time_info": "[00时34分 ~ 00时35分]"
         }
       ]
     }
