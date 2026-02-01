@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T15:40:45.994580+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-02-01T16:38:47.675579+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
@@ -28,22 +28,24 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 15时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 16时38分]"
         },
         {
           "title": "拟整合6000亿元金矿的黄金股月内股价涨超70% 1月披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2276583",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 15时40分]"
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 16时38分]"
         }
       ]
     }
