@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T13:05:34.131379+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2026-02-01T14:56:48.141224+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "2026年A股上市公司第一批退市名单",
@@ -31,8 +31,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 13时05分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 14时56分]"
+        },
+        {
+          "title": "拟整合6000亿元金矿的黄金股月内股价涨超70% 1月披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2276583",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         }
       ]
     }
