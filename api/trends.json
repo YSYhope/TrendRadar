@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T18:52:45.047961+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-02-02T19:39:06.954375+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,32 @@
           "time_info": "[00时36分 ~ 07时31分]"
         },
         {
+          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
+          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时51分 ~ 19时39分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2387054",
+          "source": "抖音",
+          "ranks": [
+            6,
+            24,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时07分 ~ 19时39分]"
+        },
+        {
           "title": "龙头五连板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2276515",
           "source": "财联社热门",
@@ -60,16 +86,17 @@
           "time_info": "[00时36分 ~ 06时30分]"
         },
         {
-          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
-          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "A股收评：三大指数跌超2%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B7%8C%E8%B6%852%25",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            5
+            15,
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 18时52分]"
+          "appearance_count": 6,
+          "time_info": "[16时51分 ~ 19时39分]"
         },
         {
           "title": "A股季行情向纵深演绎，机构判断市场风格或趋于均衡",
@@ -94,41 +121,17 @@
           "time_info": "15时08分"
         },
         {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2387054",
-          "source": "抖音",
-          "ranks": [
-            6,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 17时56分]"
-        },
-        {
-          "title": "A股收评：三大指数跌超2%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B7%8C%E8%B6%852%25",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 18时52分]"
-        },
-        {
           "title": "A股三大股指跌超2% 有色金属板块大跌",
           "url": "https://www.toutiao.com/trending/7602160332387126826/",
           "source": "今日头条",
           "ranks": [
             21,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时56分]"
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 19时39分]"
         },
         {
           "title": "A股行情",
