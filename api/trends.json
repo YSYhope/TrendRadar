@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T19:39:06.954375+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-02-02T21:09:31.579325+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,19 @@
           "time_info": "[00时36分 ~ 10时35分]"
         },
         {
+          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
+          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时51分 ~ 21时09分]"
+        },
+        {
           "title": "应声20CM涨停！A股年报行情纵深推进，11家上市公司净利最高同比预增超10倍",
           "url": "https://www.cls.cn/detail/2276497",
           "source": "财联社热门",
@@ -47,18 +60,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时36分 ~ 07时31分]"
-        },
-        {
-          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
-          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时51分 ~ 19时39分]"
         },
         {
           "title": "A股",
@@ -92,11 +93,12 @@
           "ranks": [
             15,
             19,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时51分 ~ 19时39分]"
+          "appearance_count": 7,
+          "time_info": "[16时51分 ~ 21时09分]"
         },
         {
           "title": "A股季行情向纵深演绎，机构判断市场风格或趋于均衡",
