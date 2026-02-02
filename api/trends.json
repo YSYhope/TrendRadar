@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T01:42:40.206012+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-02-03T07:33:17.121284+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 07时33分]"
         },
         {
           "title": "私募解读A股2月“开门黑”",
