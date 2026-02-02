@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T15:08:10.895954+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-02-02T16:52:03.418964+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "海外市场持续动荡，A股如何应对？十大券商策略来了",
@@ -77,7 +77,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -86,11 +86,45 @@
           "url": "https://www.douyin.com/hot/2387054",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 16时52分]"
+        },
+        {
+          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
+          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时07分 ~ 15时08分]"
+          "time_info": "[16时51分 ~ 16时52分]"
+        },
+        {
+          "title": "A股收评：三大指数跌超2%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B7%8C%E8%B6%852%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
+        },
+        {
+          "title": "A股三大股指跌超2% 有色金属板块大跌",
+          "url": "https://www.toutiao.com/trending/7602160332387126826/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
         },
         {
           "title": "A股行情",
@@ -121,7 +155,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -143,7 +177,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -176,7 +210,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
