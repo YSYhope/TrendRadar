@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T00:47:57.171709+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-03T01:42:40.206012+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时42分]"
         },
         {
           "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时42分]"
         },
         {
           "title": "私募解读A股2月“开门黑”",
