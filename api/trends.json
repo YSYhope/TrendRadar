@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T15:50:01.993429+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-02-03T16:43:34.236146+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "券商：A股迎低吸窗口",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时42分]"
+        },
+        {
+          "title": "融资保证金比例上调至100%后，A股影响有多大？",
+          "url": "https://www.cls.cn/detail/2278910",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 16时43分]"
         },
         {
           "title": "A股工程机械板块午后走强，建设机械涨停，中联重科、安徽合力、恒立液压、山推股份、三一重工跟涨。",
@@ -54,24 +66,13 @@
           "time_info": "[13时54分 ~ 14时58分]"
         },
         {
-          "title": "融资保证金比例上调至100%后，A股影响有多大？",
-          "url": "https://www.cls.cn/detail/2278910",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 15时50分]"
-        },
-        {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-02-03）",
           "url": "https://flash.jin10.com/detail/20260203152310469800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -85,6 +86,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "华泰证券百亿港元转债融资引跌股价，海外募资A股为何敏感了？",
+          "url": "https://www.cls.cn/detail/2278887",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "A股收评：全市场超4800只个股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854800%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "A股算力租赁板块持续拉升，南凌科技盘中创新高，利通电子触及涨停，顺网科技涨超15%，网宿科技涨超10%，光环新网、青云科技、优刻得、创业黑马、首都在线跟涨。",
@@ -148,7 +171,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
