@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T22:50:18.570773+08:00",
-  "total_titles_processed": 1780,
+  "generated_at": "2026-02-03T23:54:56.450670+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 22时50分]"
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 23时54分]"
+        },
+        {
+          "title": "2026年首月A股新开492万户，高于2025所有月份，如何看这个数据？",
+          "url": "https://www.cls.cn/detail/2279395",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时54分]"
         },
         {
           "title": "券商：A股迎低吸窗口",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时42分]"
-        },
-        {
-          "title": "2026年首月A股新开492万户，高于2025所有月份，如何看这个数据？",
-          "url": "https://www.cls.cn/detail/2279395",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时50分]"
         },
         {
           "title": "A股收评：全市场超4800只个股上涨",
@@ -137,7 +137,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
