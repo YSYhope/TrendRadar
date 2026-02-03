@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T03:08:31.931761+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-02-04T04:43:01.599828+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时43分]"
         },
         {
           "title": "A股成交额创年内新低！四大板块降温明显，融资余额同步回落，大额增减持股扫描",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时43分]"
         }
       ]
     }
