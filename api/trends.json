@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T02:57:36.138684+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-02-05T03:41:58.762427+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时41分]"
         },
         {
           "title": "媒体：A股交易生态巨变",
@@ -25,22 +25,24 @@
           "ranks": [
             19,
             22,
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时41分]"
         },
         {
           "title": "马斯克团队光伏调研消息引爆A股",
           "url": "https://www.toutiao.com/trending/7603022960940551734/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时41分]"
         }
       ]
     }
