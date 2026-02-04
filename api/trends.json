@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T06:33:55.827859+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-02-05T07:33:35.158580+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时33分]"
         },
         {
           "title": "媒体：A股交易生态巨变",
@@ -46,6 +46,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时51分 ~ 04时40分]"
+        },
+        {
+          "title": "A股光伏板块爆发，马斯克下单了？",
+          "url": "https://wallstreetcn.com/articles/3764920",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     }
