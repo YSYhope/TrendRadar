@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T02:56:30.695148+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-02-06T03:40:33.875072+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时40分]"
         },
         {
           "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时40分]"
         },
         {
           "title": "A股春节休市安排来了",
@@ -36,11 +36,12 @@
           "ranks": [
             14,
             10,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时40分]"
         },
         {
           "title": "高盛上调药明康德A股评级至买入（分析师Ziyi Chen之前所给评级为中性），目标价132.70元人民币（即上涨37%）。",
@@ -48,11 +49,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 03时40分]"
         }
       ]
     }
