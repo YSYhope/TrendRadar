@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T22:50:43.870628+08:00",
-  "total_titles_processed": 1924,
+  "generated_at": "2026-02-05T23:45:42.577514+08:00",
+  "total_titles_processed": 2016,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时38分 ~ 22时50分]"
+          "appearance_count": 6,
+          "time_info": "[19时38分 ~ 23时45分]"
         },
         {
           "title": "媒体：A股交易生态巨变",
@@ -69,6 +69,18 @@
           "time_info": "15时12分"
         },
         {
+          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
+          "url": "https://wallstreetcn.com/articles/3765013",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时11分 ~ 23时45分]"
+        },
+        {
           "title": "马斯克团队光伏调研消息引爆A股",
           "url": "https://www.toutiao.com/trending/7603022960940551734/",
           "source": "今日头条",
@@ -82,27 +94,16 @@
           "time_info": "[01时51分 ~ 04时40分]"
         },
         {
-          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
-          "url": "https://wallstreetcn.com/articles/3765013",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时11分 ~ 22时50分]"
-        },
-        {
           "title": "A股春节休市安排来了",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%98%A5%E8%8A%82%E4%BC%91%E5%B8%82%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 22时50分]"
+          "appearance_count": 3,
+          "time_info": "[22时49分 ~ 23时45分]"
         },
         {
           "title": "A股春节休市安排来了",
