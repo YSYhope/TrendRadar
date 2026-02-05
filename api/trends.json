@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T18:46:31.790766+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-02-05T19:39:04.468409+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时56分 ~ 06时33分]"
+        },
+        {
+          "title": "A股2026年春节休市安排公布",
+          "url": "https://www.cls.cn/detail/2281758",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 19时39分]"
         },
         {
           "title": "A股证券板块短线拉升，华林证券涨超8%，华鑫股份、国盛证券、中信建投、兴业证券、首创证券跟涨。",
