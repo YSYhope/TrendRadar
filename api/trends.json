@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T22:43:20.941094+08:00",
-  "total_titles_processed": 1897,
+  "generated_at": "2026-02-06T23:44:39.343731+08:00",
+  "total_titles_processed": 2003,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,19 @@
           "time_info": "[00时56分 ~ 07时28分]"
         },
         {
+          "title": "节前最后一周！A股能否迎“红包行情”，近10年数据这样说",
+          "url": "https://www.cls.cn/detail/2283033",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时37分 ~ 23时44分]"
+        },
+        {
           "title": "A股",
           "url": "https://www.douyin.com/hot/2391220",
           "source": "抖音",
@@ -60,19 +73,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时29分 ~ 17时51分]"
-        },
-        {
-          "title": "节前最后一周！A股能否迎“红包行情”，近10年数据这样说",
-          "url": "https://www.cls.cn/detail/2283033",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时37分 ~ 22时43分]"
         },
         {
           "title": "高盛上调药明康德A股评级至买入（分析师Ziyi Chen之前所给评级为中性），目标价132.70元人民币（即上涨37%）。",
