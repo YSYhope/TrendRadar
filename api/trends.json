@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T18:45:14.508099+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-02-06T19:38:12.417678+08:00",
+  "total_titles_processed": 1642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "A股2026年春节休市安排公布",
@@ -73,6 +73,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时52分 ~ 03时40分]"
+        },
+        {
+          "title": "节前最后一周！A股能否迎“红包行情”，近10年数据这样说",
+          "url": "https://www.cls.cn/detail/2283033",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 19时38分]"
         },
         {
           "title": "A股低开冲高回落后收跌",
