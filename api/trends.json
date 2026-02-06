@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T15:03:38.109093+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-02-06T16:51:30.985207+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "ranks": [
             11,
             6,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 15时03分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 16时51分]"
         },
         {
           "title": "高盛上调药明康德A股评级至买入（分析师Ziyi Chen之前所给评级为中性），目标价132.70元人民币（即上涨37%）。",
