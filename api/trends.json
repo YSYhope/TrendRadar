@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T03:28:42.873304+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-02-08T04:33:42.244653+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时33分]"
         },
         {
           "title": "A股再添一位“00”后董事长",
@@ -25,11 +25,12 @@
           "ranks": [
             25,
             14,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时33分]"
         }
       ]
     }
