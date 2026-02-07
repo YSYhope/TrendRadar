@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T18:32:14.185992+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-02-07T19:26:37.734877+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "节前最后一周！A股能否迎“红包行情”，近10年数据这样说",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 07时31分]"
+        },
+        {
+          "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
+          "url": "https://www.cls.cn/detail/2283724",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     }
