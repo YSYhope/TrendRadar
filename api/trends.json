@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T01:31:37.777519+08:00",
-  "total_titles_processed": 347,
+  "generated_at": "2026-02-08T02:41:33.355018+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时41分]"
         },
         {
           "title": "A股再添一位“00”后董事长",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E6%B7%BB%E4%B8%80%E4%BD%8D%E2%80%9C00%E2%80%9D%E5%90%8E%E8%91%A3%E4%BA%8B%E9%95%BF",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时41分]"
         }
       ]
     }
