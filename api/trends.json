@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T04:33:47.294881+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-02-09T05:32:13.723376+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "一夜之间4家A股公司被立案或处罚",
@@ -24,11 +24,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "年内迄今19家A股上市公司公告终止并购重组 热门商业航天概念股赫然在列",
@@ -38,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "龙头20CM三连板 本周披露并购重组进展的A股名单一览",
@@ -49,8 +50,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "兴业证券：A股前期调整已释放一定风险，持股过节兼具胜率与赔率",
