@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T19:50:59.864657+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-02-09T21:18:44.635440+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -69,6 +69,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时36分 ~ 15时11分]"
+        },
+        {
+          "title": "A股大举提升再融资吸引力！哪些公司受益？划定哪些红线？",
+          "url": "https://www.cls.cn/detail/2284984",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "机构：A股市场存在显著的春节“日历效应”，持股过节或是更优选择",
