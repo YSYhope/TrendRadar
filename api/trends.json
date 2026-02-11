@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-12T00:10:36.140517+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-12T02:01:03.759412+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "持股还是持币过年？多家公募：春节后A股上涨概率较高，已有资金抢跑布局",
+          "url": "https://www.cls.cn/detail/2287337",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时00分 ~ 02时01分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://ysyhope.github.io/TrendRadar/img/news.jpg"
 }
