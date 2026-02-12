@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T22:52:57.666281+08:00",
-  "total_titles_processed": 1842,
+  "generated_at": "2026-02-12T23:57:58.014835+08:00",
+  "total_titles_processed": 1938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "持股还是持币过年？多家公募：春节后A股上涨概率较高，已有资金抢跑布局",
@@ -88,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "A股4000点上方持续震荡，今年春节假期持股还是持币？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591293",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "上证指数开盘报4136.99点，涨0.12%。 深证成指开盘报14177.97点，涨0.12%。 创业板指开盘报3294.57点，涨0.30%。 沪深300开盘报4720.01点，涨0.13%。 科创50开盘报1463.61点，涨0.58%。 中证500开盘报8342.36点，涨0.20%。 中证1000开盘报8252.19点，涨0.15%。",
