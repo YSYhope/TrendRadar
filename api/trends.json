@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T17:56:36.025890+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-02-12T18:54:15.434302+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             24,
             15,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时06分 ~ 17时56分]"
+          "appearance_count": 6,
+          "time_info": "[15时06分 ~ 18时54分]"
         },
         {
           "title": "A股红包雨不停，春节前分红已超3700亿，后续仍有增量",
