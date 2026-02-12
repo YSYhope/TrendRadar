@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T15:07:03.925613+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-02-12T16:54:18.039573+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,24 @@
           "url": "https://www.toutiao.com/trending/7605792165968481798/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 16时54分]"
+        },
+        {
+          "title": "A股现天价离婚案 前妻分走13亿股票",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88+%E5%89%8D%E5%A6%BB%E5%88%86%E8%B5%B013%E4%BA%BF%E8%82%A1%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时07分]"
+          "time_info": "[15时06分 ~ 16时54分]"
         },
         {
           "title": "A股红包雨不停，春节前分红已超3700亿，后续仍有增量",
@@ -40,17 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时36分 ~ 10时37分]"
-        },
-        {
-          "title": "A股现天价离婚案 前妻分走13亿股票",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88+%E5%89%8D%E5%A6%BB%E5%88%86%E8%B5%B013%E4%BA%BF%E8%82%A1%E7%A5%A8",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "A股电力板块开盘活跃，豫能控股2连板，金开新能涨停，南网能源、闽东电力、华银电力、晋控电力跟涨，消息面上，国办印发《关于完善全国统一电力市场体系的实施意见》，到2035年全面建成全国统一电力市场体系，市场化交易电量占比稳中有升。",
@@ -81,7 +83,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -103,7 +105,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         }
