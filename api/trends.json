@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T12:57:05.804827+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-02-13T14:04:28.592273+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "A股4000点上方持续震荡，今年春节假期持股还是持币？",
@@ -13,11 +13,23 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 12时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 14时04分]"
+        },
+        {
+          "title": "A股影视股午后再度拉升，光线传媒涨超15%，横店影视、幸福蓝海、博纳影业、上海电影、中国电影等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3054923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         },
         {
           "title": "上证指数开盘报4115.92点，跌0.44%。 深证成指开盘报14188.35点，跌0.66%。 创业板指开盘报3309.43点，跌0.56%。 沪深300开盘报4693.41点，跌0.55%。 科创50开盘报1470.26点，跌0.72%。 中证500开盘报8366.33点，跌0.68%。 中证1000开盘报8272.88点，跌0.50%。",
@@ -37,7 +49,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         }
