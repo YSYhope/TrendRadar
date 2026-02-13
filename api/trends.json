@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T17:52:14.219704+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-02-13T18:44:33.641028+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,19 @@
           "time_info": "15时52分"
         },
         {
+          "title": "A股蛇年收官",
+          "url": "https://www.toutiao.com/trending/7606243229087960622/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时52分 ~ 18时44分]"
+        },
+        {
           "title": "券商：A股节后新一轮行情值得期待",
           "url": "https://www.toutiao.com/trending/7606186421723860534/",
           "source": "今日头条",
@@ -55,19 +68,6 @@
           "time_info": "[15时52分 ~ 16时51分]"
         },
         {
-          "title": "A股蛇年收官",
-          "url": "https://www.toutiao.com/trending/7606243229087960622/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 17时52分]"
-        },
-        {
           "title": "A股蛇年十大牛股",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%9B%87%E5%B9%B4%E5%8D%81%E5%A4%A7%E7%89%9B%E8%82%A1%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -75,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 18时44分]"
         },
         {
           "title": "A股",
