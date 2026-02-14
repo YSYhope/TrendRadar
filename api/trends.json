@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T03:28:43.272327+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-02-15T04:32:33.125094+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "A股蛇年十大牛股盘点：上纬新材以超25倍涨幅夺魁 商业航天龙头赫然在列",
           "url": "https://www.cls.cn/detail/2290257",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时32分]"
         }
       ]
     }
