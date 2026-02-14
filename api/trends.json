@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-14T07:35:56.155352+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-02-14T10:26:52.028055+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "本周披露并购重组进展的A股名单一览 1200亿算力概念股在列",
+          "url": "https://www.cls.cn/detail/2289993",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://ysyhope.github.io/TrendRadar/img/news.jpg"
 }
