@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T07:29:51.769712+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-02-15T10:38:54.341382+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
@@ -8,23 +8,23 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "本周披露并购重组进展的A股名单一览 1200亿算力概念股在列",
-          "url": "https://www.cls.cn/detail/2289993",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 07时29分]"
-        },
-        {
           "title": "A股蛇年十大牛股盘点：上纬新材以超25倍涨幅夺魁 商业航天龙头赫然在列",
           "url": "https://www.cls.cn/detail/2290257",
           "source": "财联社热门",
           "ranks": [
             3,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 10时38分]"
+        },
+        {
+          "title": "本周披露并购重组进展的A股名单一览 1200亿算力概念股在列",
+          "url": "https://www.cls.cn/detail/2289993",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 8,
