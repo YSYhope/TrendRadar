@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-02-15T23:30:47.922451+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2026-02-16T00:37:07.724603+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股蛇年十大牛股盘点：上纬新材以超25倍涨幅夺魁 商业航天龙头赫然在列",
-          "url": "https://www.cls.cn/detail/2290257",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时36分 ~ 19时27分]"
-        },
-        {
-          "title": "本周披露并购重组进展的A股名单一览 1200亿算力概念股在列",
-          "url": "https://www.cls.cn/detail/2289993",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 07时29分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://ysyhope.github.io/TrendRadar/img/news.jpg"
 }
