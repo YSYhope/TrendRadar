@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T23:31:04.290738+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-02-23T00:36:52.698716+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -12,27 +12,22 @@
           "url": "https://www.cls.cn/detail/2292289",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时35分 ~ 23时31分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
           "url": "https://www.cls.cn/detail/2292433",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时52分 ~ 23时31分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     }
