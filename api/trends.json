@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T10:35:19.993868+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-02-23T13:02:49.004604+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2292289",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 10时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 13时02分]"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -27,19 +28,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 10时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 13时02分]"
         },
         {
           "title": "春节后A股将会怎么走？以史为鉴这三大板块上涨概率更高，核心受益标的梳理",
           "url": "https://www.cls.cn/detail/2290554",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时02分]"
         },
         {
           "title": "2026年的A股将走向何方",
@@ -48,7 +50,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         }
