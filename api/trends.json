@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T14:39:32.836049+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-02-24T16:01:38.281101+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "春节长假后A股行情怎么看？投资主线有哪些？十大券商策略来了",
@@ -51,11 +51,12 @@
           "ranks": [
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 16时01分]"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -103,6 +104,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时04分 ~ 04时50分]"
+        },
+        {
+          "title": "A股开门红！创业板涨超1%，油气、贵金属掀涨停潮，恒科指跌逾2%，智谱暴涨15%，沪银大涨超14%",
+          "url": "https://wallstreetcn.com/articles/3766024",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
+          "title": "A股马年首个交易日开门红",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%A9%AC%E5%B9%B4%E9%A6%96%E4%B8%AA%E4%BA%A4%E6%98%93%E6%97%A5%E5%BC%80%E9%97%A8%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         },
         {
           "title": "积极因素提振A股开市信心，两大主线配置价值获看好",
@@ -155,7 +178,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -166,7 +189,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
