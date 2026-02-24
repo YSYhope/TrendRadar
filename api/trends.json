@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T03:16:05.227052+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-02-25T05:05:26.208680+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 05时05分]"
         },
         {
           "title": "【每日收评】A股迎马年开门红！全市场超4000股收涨，化工、油气等周期股全线爆发",
           "url": "https://www.cls.cn/detail/2293678",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 05时05分]"
         },
         {
           "title": "马年A股开门红",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4A%E8%82%A1%E5%BC%80%E9%97%A8%E7%BA%A2",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 05时05分]"
         },
         {
           "title": "A股马年开门红：4003股收涨，油气股掀涨停潮",
