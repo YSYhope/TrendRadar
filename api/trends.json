@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T16:56:54.112644+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-02-25T18:01:28.058084+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
@@ -94,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
+        },
+        {
+          "title": "溢价20%仍被抢，逻辑变了？谁在高溢价入局A股定增？哪类行业高溢价？",
+          "url": "https://www.cls.cn/detail/2294528",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         },
         {
           "title": "马年首个交易日，A股上市公司回购增持热潮延续",
