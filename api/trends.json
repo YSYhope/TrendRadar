@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T10:33:02.536052+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-02-25T12:57:29.226776+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "url": "https://www.cls.cn/detail/2294203",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 12时57分]"
         },
         {
           "title": "马年首个交易日，A股上市公司回购增持热潮延续",
@@ -75,7 +76,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -97,7 +98,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -108,7 +109,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -119,7 +120,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         }
