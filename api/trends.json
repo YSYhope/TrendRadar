@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T17:55:43.503895+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-02-26T18:53:09.989887+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "A股算力芯片概念午后拉升，寒武纪涨近10%，云天励飞、海光信息、东芯股份、芯原股份、摩尔线程等跟涨。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "A股分化，沪指微跌，算力硬件集体爆发，人民币升破6.83关口，恒科指大跌近3%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3766223",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 18时53分]"
         },
         {
           "title": "A股有色和化工板块联袂大涨，春季行情主线渐明",
