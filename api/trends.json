@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T15:02:02.949211+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-02-27T15:53:05.029715+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "A股分化，沪指微跌，算力硬件集体爆发，人民币升破6.83关口，恒科指大跌近3%，科网股普跌",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 15时02分]"
+          "appearance_count": 15,
+          "time_info": "[01时07分 ~ 15时53分]"
         },
         {
           "title": "A股黄金股持续走强，湖南黄金冲击涨停，晓程科技、西部黄金、中金黄金、湖南白银纷纷上扬。",
@@ -32,6 +32,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时56分 ~ 15时02分]"
+        },
+        {
+          "title": "芯片涨价潮持续席卷！A股半导体龙头集体提价",
+          "url": "https://www.cls.cn/detail/2296693",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 15时53分]"
         },
         {
           "title": "A股太空光伏概念持续走强，双良节能拉升封板，钧达股份回封涨停，聚和材料涨超10%，亿晶光电、帝尔激光、拉普拉斯等涨幅靠前。",
@@ -67,17 +79,6 @@
           "time_info": "12时48分"
         },
         {
-          "title": "芯片涨价潮持续席卷！A股半导体龙头集体提价",
-          "url": "https://www.cls.cn/detail/2296693",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
           "title": "上证报：外国央行同步净减持美债折射外汇储备多元化趋势",
           "url": "https://wallstreetcn.com/livenews/3059818",
           "source": "华尔街见闻-快讯",
@@ -87,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-02-27）",
+          "url": "https://flash.jin10.com/detail/20260227150710907800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "A股算力概念股盘初调整，特发信息接近跌停，长飞光纤、天孚通信、光库科技、长芯博创、罗博特科、德科立等纷纷低开。",
@@ -131,6 +143,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        },
+        {
+          "title": "A股收盘：沪指低开高走涨0.39%，有色、稀土板块集体走强",
+          "url": "https://wallstreetcn.com/livenews/3060064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "上证指数收报4162.88点，涨0.39%。 深证成指收报14495.09点，跌0.06%。 创业板指收报3310.30点，跌1.04%。 沪深300收报4710.65点，跌0.34%。 科创50收报1488.02点，涨0.15%。 中证500收报8658.45点，涨1.18%。 中证1000收报8560.84点，涨0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3060063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         }
       ]
     }
