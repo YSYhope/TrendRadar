@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T18:43:09.672102+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2026-02-27T19:36:51.879058+08:00",
+  "total_titles_processed": 1658,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,19 @@
           "time_info": "[13时56分 ~ 17时48分]"
         },
         {
+          "title": "A股离主动ETF还有多远？今年或有望上报，全球规模激增74%",
+          "url": "https://www.cls.cn/detail/2297139",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 19时36分]"
+        },
+        {
           "title": "A股黄金股持续走强，湖南黄金冲击涨停，晓程科技、西部黄金、中金黄金、湖南白银纷纷上扬。",
           "url": "https://wallstreetcn.com/livenews/3060023",
           "source": "华尔街见闻-快讯",
@@ -45,18 +58,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时56分 ~ 15时02分]"
-        },
-        {
-          "title": "A股离主动ETF还有多远？今年或有望上报，全球规模激增74%",
-          "url": "https://www.cls.cn/detail/2297139",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 18时43分]"
         },
         {
           "title": "A股太空光伏概念持续走强，双良节能拉升封板，钧达股份回封涨停，聚和材料涨超10%，亿晶光电、帝尔激光、拉普拉斯等涨幅靠前。",
