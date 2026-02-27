@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T19:36:51.879058+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2026-02-27T21:08:02.254101+08:00",
+  "total_titles_processed": 1763,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,20 @@
           "time_info": "[01时07分 ~ 16时49分]"
         },
         {
+          "title": "A股离主动ETF还有多远？今年或有望上报，全球规模激增74%",
+          "url": "https://www.cls.cn/detail/2297139",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时48分 ~ 21时08分]"
+        },
+        {
           "title": "芯片涨价潮持续席卷！A股半导体龙头集体提价",
           "url": "https://www.cls.cn/detail/2296693",
           "source": "财联社热门",
@@ -33,19 +47,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时56分 ~ 17时48分]"
-        },
-        {
-          "title": "A股离主动ETF还有多远？今年或有望上报，全球规模激增74%",
-          "url": "https://www.cls.cn/detail/2297139",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 19时36分]"
         },
         {
           "title": "A股黄金股持续走强，湖南黄金冲击涨停，晓程科技、西部黄金、中金黄金、湖南白银纷纷上扬。",
