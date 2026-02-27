@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T15:53:05.029715+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-02-27T16:49:02.500134+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时07分 ~ 15时53分]"
+          "appearance_count": 17,
+          "time_info": "[01时07分 ~ 16时49分]"
+        },
+        {
+          "title": "芯片涨价潮持续席卷！A股半导体龙头集体提价",
+          "url": "https://www.cls.cn/detail/2296693",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时56分 ~ 16时49分]"
         },
         {
           "title": "A股黄金股持续走强，湖南黄金冲击涨停，晓程科技、西部黄金、中金黄金、湖南白银纷纷上扬。",
@@ -32,18 +44,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时56分 ~ 15时02分]"
-        },
-        {
-          "title": "芯片涨价潮持续席卷！A股半导体龙头集体提价",
-          "url": "https://www.cls.cn/detail/2296693",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时53分]"
         },
         {
           "title": "A股太空光伏概念持续走强，双良节能拉升封板，钧达股份回封涨停，聚和材料涨超10%，亿晶光电、帝尔激光、拉普拉斯等涨幅靠前。",
@@ -96,7 +96,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -151,7 +151,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -162,7 +162,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         }
