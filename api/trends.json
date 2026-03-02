@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-02T07:29:41.089987+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-03-02T10:31:20.388911+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 1,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "直击A股港股开盘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BBA%E8%82%A1%E6%B8%AF%E8%82%A1%E5%BC%80%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
         {
           "title": "机构策略师：A股基本面受扰动有限，顺周期主线有望强化",
           "url": "https://wallstreetcn.com/livenews/3061271",
@@ -19,6 +30,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时32分 ~ 06时29分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2415839",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "A股油气股开盘大涨，通源石油、中海油服、中曼石油、准油股份、石化油服、贝肯能源等多股一字涨停，潜能恒信、新锦动力等高开超10%。",
+          "url": "https://wallstreetcn.com/livenews/3061402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "上证指数开盘报4151.80点，跌0.27%。 深证成指开盘报14327.65点，跌1.16%。 创业板指开盘报3257.05点，跌1.61%。 沪深300开盘报4681.01点，跌0.63%。 科创50开盘报1459.78点，跌1.90%。 中证500开盘报8585.85点，跌0.84%。 中证1000开盘报8464.27点，跌1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3061398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     }
