@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T03:42:16.917507+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-03-04T04:37:51.990181+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时37分]"
         },
         {
           "title": "A股半导体公司集体发涨价函",
@@ -26,11 +26,12 @@
           "ranks": [
             23,
             25,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时37分]"
         }
       ]
     }
