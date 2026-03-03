@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T17:50:27.986732+08:00",
-  "total_titles_processed": 1591,
+  "generated_at": "2026-03-03T18:45:24.422438+08:00",
+  "total_titles_processed": 1704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "2026年A股驱动逻辑或将发生变化",
@@ -35,6 +35,19 @@
           "time_info": "[13时53分 ~ 15时49分]"
         },
         {
+          "title": "代表建议A股延至下午4点闭市",
+          "url": "https://www.toutiao.com/trending/7612868591275212843/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时45分]"
+        },
+        {
           "title": "中东战云密布，A股波澜不惊？十大基金公司解盘：黄金、原油、AI谁主沉浮",
           "url": "https://www.cls.cn/detail/2300191",
           "source": "财联社热门",
@@ -57,18 +70,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 03时40分]"
-        },
-        {
-          "title": "代表建议A股延至下午4点闭市",
-          "url": "https://www.toutiao.com/trending/7612868591275212843/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时50分]"
         },
         {
           "title": "如何应对A股指数强个股弱",
@@ -203,6 +204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "建议A股延至下午4点闭市",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AEA%E8%82%A1%E5%BB%B6%E8%87%B3%E4%B8%8B%E5%8D%884%E7%82%B9%E9%97%AD%E5%B8%82%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "A股航运板块延续涨势，招商南油2连板，国航远洋、中远海能涨超7%，招商轮船、宁波海运、宁波远洋等多股高开。",
