@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T01:48:50.145146+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-03-04T03:42:16.917507+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2301354",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 03时42分]"
         },
         {
           "title": "A股半导体公司集体发涨价函",
@@ -24,11 +25,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 03时42分]"
         }
       ]
     }
