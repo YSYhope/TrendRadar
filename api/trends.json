@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T13:48:33.563572+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-03-04T14:55:45.722627+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "918元！又一股剑指千元大关，复盘A股历只千元股，这些特点或值得关注",
@@ -41,8 +41,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 13时48分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 14时55分]"
+        },
+        {
+          "title": "A股油气股拉升回暖，通源石油涨超15%，潜能恒信、贝肯能源、科力股份、中曼石油、中海油服等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3063401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "上证50指数跌幅扩大至2%。",
@@ -51,7 +62,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -62,7 +73,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -87,6 +98,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "A股福建本地股局部异动，海峡创新涨超14%，平潭发展、永福股份、红相股份涨超8%，路桥信息、漳州发展等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3063382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "A股航运板块集体调整，南京港、连云港、安通控股、中远海能、招商轮船、宁波海运、中远海控、中远海特等多股触及跌停。",
@@ -120,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "A股电网设备板块午后再度拉升，汇金通、杭电股份、安靠智电、汉缆股份、神马电力等近10股涨停。",
+          "url": "https://wallstreetcn.com/livenews/3063365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         }
       ]
     }
