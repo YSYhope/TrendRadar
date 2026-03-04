@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T21:06:08.042959+08:00",
-  "total_titles_processed": 1882,
+  "generated_at": "2026-03-04T22:40:46.111815+08:00",
+  "total_titles_processed": 2003,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时44分 ~ 21时06分]"
+          "appearance_count": 13,
+          "time_info": "[12时44分 ~ 22时40分]"
         },
         {
           "title": "918元！又一股剑指千元大关，复盘A股历只千元股，这些特点或值得关注",
@@ -39,11 +40,12 @@
           "ranks": [
             5,
             28,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时41分 ~ 21时06分]"
+          "appearance_count": 5,
+          "time_info": "[18时41分 ~ 22时40分]"
         },
         {
           "title": "中石油时隔七年重夺A股市值冠军",
