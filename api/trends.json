@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T22:51:34.353639+08:00",
-  "total_titles_processed": 1960,
+  "generated_at": "2026-03-05T23:55:11.354874+08:00",
+  "total_titles_processed": 2048,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "李扬：A股生态正质变，百姓的“压舱石”出现了",
+          "url": "https://finance.ifeng.com/loc/cbslt2026",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时37分 ~ 23时55分]"
+        },
+        {
           "title": "沪指跌1%失守4100点，中石油成A股流通市值冠军，电网设备逆势大涨，恒指跌超2%，科网股普跌",
           "url": "https://wallstreetcn.com/articles/3766678",
           "source": "华尔街见闻",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时35分 ~ 13时52分]"
-        },
-        {
-          "title": "李扬：A股生态正质变，百姓的“压舱石”出现了",
-          "url": "https://finance.ifeng.com/loc/cbslt2026",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 22时51分]"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-03-05）",
