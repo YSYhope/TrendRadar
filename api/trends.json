@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T12:48:50.923562+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-03-05T13:52:27.893893+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 13时52分]"
         },
         {
           "title": "A股三大指数集体高开",
