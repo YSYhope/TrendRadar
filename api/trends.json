@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T19:37:59.930667+08:00",
-  "total_titles_processed": 1710,
+  "generated_at": "2026-03-05T21:09:49.609006+08:00",
+  "total_titles_processed": 1834,
   "failed_sources": [],
   "trends": [
     {
@@ -48,9 +48,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 21时09分]"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-03-05）",
