@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-07T21:42:04.505378+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-03-07T22:28:59.328225+08:00",
+  "total_titles_processed": 1665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
       "match_count": 2,
       "titles": [
+        {
+          "title": "智能电网龙头三连板 智能配电和电网自动化领域A股名单及相关业务一览",
+          "url": "https://www.cls.cn/detail/2306076",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时28分]"
+        },
         {
           "title": "A股总市值超110万亿元",
           "url": "https://www.douyin.com/hot/2421123",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时24分 ~ 15时33分]"
-        },
-        {
-          "title": "智能电网龙头三连板 智能配电和电网自动化领域A股名单及相关业务一览",
-          "url": "https://www.cls.cn/detail/2306076",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 21时42分]"
         }
       ]
     }
