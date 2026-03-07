@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T22:28:59.328225+08:00",
-  "total_titles_processed": 1665,
+  "generated_at": "2026-03-07T23:28:48.678496+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 22时28分]"
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 23时28分]"
         },
         {
           "title": "A股总市值超110万亿元",
