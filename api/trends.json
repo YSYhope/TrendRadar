@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T07:28:17.851683+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-03-08T10:32:09.602838+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "智能电网龙头三连板 智能配电和电网自动化领域A股名单及相关业务一览",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 10时32分]"
+        },
+        {
+          "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2306147",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         }
       ]
     }
