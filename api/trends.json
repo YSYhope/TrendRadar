@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T06:29:36.084981+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-03-09T07:29:49.583333+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 07时29分]"
         },
         {
           "title": "A股春季行情短期仍可能延续？投资主线有哪些？十大券商策略来了",
@@ -26,11 +27,12 @@
           "ranks": [
             12,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时27分 ~ 07时29分]"
         },
         {
           "title": "“龙虾”全球爆火 多家A股公司回应",
