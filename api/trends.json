@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T23:29:15.692534+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2026-03-09T00:34:57.597286+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -12,36 +12,33 @@
           "url": "https://www.cls.cn/detail/2306076",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时33分 ~ 23时29分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "“龙虾”全球爆火 多家A股公司回应",
+          "url": "https://www.toutiao.com/trending/7614384627385450532/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2306147",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时31分 ~ 23时29分]"
-        },
-        {
-          "title": "下周A股如何选择方向",
-          "url": "https://www.toutiao.com/trending/7613664264305410086/",
-          "source": "今日头条",
-          "ranks": [
-            18
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "00时34分"
         }
       ]
     }
