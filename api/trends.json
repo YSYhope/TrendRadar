@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T07:29:49.583333+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-03-09T10:33:31.532767+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             12,
             10,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时27分 ~ 07时29分]"
+          "appearance_count": 9,
+          "time_info": "[01时27分 ~ 10时33分]"
         },
         {
           "title": "“龙虾”全球爆火 多家A股公司回应",
