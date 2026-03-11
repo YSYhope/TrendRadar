@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T15:02:19.483271+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-03-11T15:51:22.593415+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "A股电网设备板块持续活跃，众智科技触及20cm涨停，三友联众涨超10%，良信股份、国电南自、中电鑫龙、长高电新涨幅居前。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-03-11）",
+          "url": "https://flash.jin10.com/detail/20260311152623026800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "A股CPO等算力硬件股延续强势，瑞斯康达2连板，迅捷兴涨近10%，长飞光纤冲击涨停，光迅科技、博敏电子、德科立跟涨。",
@@ -36,7 +47,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -72,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "上证指数收报4133.43点，涨0.25%。 深证成指收报14465.41点，涨0.78%。 创业板指收报3349.53点，涨1.31%。 沪深300收报4704.50点，涨0.64%。 科创50收报1401.08点，跌1.37%。 中证500收报8403.33点，跌0.08%。 中证1000收报8363.53点，涨0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3067862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         }
       ]
     }
