@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T18:44:04.516891+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-03-12T19:35:15.674975+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.toutiao.com/trending/7616255809055424531/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
+          "appearance_count": 4,
+          "time_info": "[18时43分 ~ 19时35分]"
         },
         {
           "title": "评论员：A股慢牛趋势个股将越来越多",
