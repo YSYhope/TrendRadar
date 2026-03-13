@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T15:02:24.752656+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-03-13T15:51:52.670128+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "A股风电板块探底回升，天顺风能直线涨停，大金重工逼近涨停，通裕重工涨超18%，天能重工、双一科技、金雷股份跟涨。",
@@ -114,9 +114,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-03-13）",
+          "url": "https://flash.jin10.com/detail/20260313151542786800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "上证指数开盘报4117.57点，跌0.28%。 深证成指开盘报14300.92点，跌0.51%。 创业板指开盘报3296.50点，跌0.63%。 沪深300开盘报4669.06点，跌0.39%。 科创50开盘报1374.65点，跌0.65%。 中证500开盘报8317.78点，跌0.50%。 中证1000开盘报8297.91点，跌0.46%。",
