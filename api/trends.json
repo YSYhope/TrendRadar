@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-03-15T23:34:01.335382+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-03-16T00:38:33.706871+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "龙头五连板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2312787",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 22时35分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://ysyhope.github.io/TrendRadar/img/news.jpg"
 }
