@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T19:53:12.856171+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2026-03-16T21:22:25.289404+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
           "url": "https://www.toutiao.com/trending/7617784204897553963/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 21时22分]"
         },
         {
           "title": "沃森生物：筹划向特定对象发行A股股票 控制人变更",
