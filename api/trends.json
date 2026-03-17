@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-17T15:56:18.257348+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-03-17T16:58:52.282836+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
       "match_count": 17,
       "titles": [
+        {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 16时58分]"
+        },
         {
           "title": "A股化学纤维板块震荡走高，中复神鹰触及20cm涨停，三房巷、双欣材料此前涨停，吉林碳谷、吉林化纤、尤夫股份跟涨。",
           "url": "https://flash.jin10.com/detail/20260317133935093800",
@@ -39,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
-        },
-        {
-          "title": "A股行情",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
         },
         {
           "title": "A股化工板块再度走强，山东海化直线涨停，江天化学涨超10%，三维化学、天原股份、红星发展跟涨。",
@@ -168,7 +169,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
