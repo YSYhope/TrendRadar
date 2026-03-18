@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T21:23:03.822873+08:00",
-  "total_titles_processed": 1676,
+  "generated_at": "2026-03-18T23:09:29.196170+08:00",
+  "total_titles_processed": 1814,
   "failed_sources": [],
   "trends": [
     {
@@ -49,11 +49,12 @@
           "url": "https://www.cls.cn/detail/2316947",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时49分 ~ 21时23分]"
+          "appearance_count": 5,
+          "time_info": "[19时49分 ~ 23时09分]"
         },
         {
           "title": "A股创新药板块震荡上扬，华兰股份、荣昌生物盘中创新高，中源协和涨停，三生国健、欧林生物、盟科药业、北陆药业、济民健康跟涨。",
