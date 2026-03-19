@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T18:46:28.605144+08:00",
-  "total_titles_processed": 1542,
+  "generated_at": "2026-03-19T19:39:43.234431+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时50分 ~ 18时46分]"
+          "appearance_count": 6,
+          "time_info": "[15时50分 ~ 19时39分]"
         },
         {
           "title": "A股多元金融板块短线拉升，中油资本直线涨停，中粮资本、瑞达期货、弘业期货、爱建集团、江苏金租跟涨。",
@@ -173,7 +173,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
