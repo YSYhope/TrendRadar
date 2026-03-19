@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T16:51:35.154750+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-03-19T17:52:36.484405+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "time_info": "14时04分"
         },
         {
+          "title": "韩国资金涌入中国避险，A股、港股均获加仓，安全溢价正显现",
+          "url": "https://www.cls.cn/detail/2317812",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 17时52分]"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时36分 ~ 15时51分]"
-        },
-        {
-          "title": "韩国资金涌入中国避险，A股、港股均获加仓，安全溢价正显现",
-          "url": "https://www.cls.cn/detail/2317812",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 16时51分]"
         },
         {
           "title": "A股跌破4000点",
@@ -139,7 +139,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
