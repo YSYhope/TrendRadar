@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T13:56:04.585559+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-03-20T15:07:40.340565+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "事关A股资金端，吴清召集五大类投资机构座谈会，明确哪些方向？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时28分 ~ 13时56分]"
+          "appearance_count": 6,
+          "time_info": "[10时28分 ~ 15时07分]"
         },
         {
           "title": "A股三大股指均跌超1%，CPO逆势走强，有色金属重挫，恒指放量大跌2%，腾讯跌近7%，小米涨超3%",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时34分 ~ 13时56分]"
+          "appearance_count": 8,
+          "time_info": "[07时34分 ~ 15时07分]"
         },
         {
           "title": "A股惊现千亿市值ST公司",
@@ -60,7 +60,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -105,7 +105,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -149,7 +149,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -160,7 +160,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -171,7 +171,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -237,9 +237,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        },
+        {
+          "title": "A股半日放量1392亿",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E6%97%A5%E6%94%BE%E9%87%8F1392%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "A股算力租赁板块震荡回调，超讯通信封板跌停，大位科技跌超7%，东方国信、首都在线、常山北明、宏景科技等跟跌。",
@@ -284,6 +295,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "A股新易盛成交额超300亿元，现涨8.3%。",
+          "url": "https://flash.jin10.com/detail/20260320144750397800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "A股午评：创业板指半日涨超3%刷新年内新高 BC电池、CPO概念板块领涨大市",
