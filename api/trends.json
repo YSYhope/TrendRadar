@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T16:39:19.491446+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-03-21T17:37:39.183665+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "本周A股行情分化 下周走势会如何",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 13时44分]"
+        },
+        {
+          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2320337",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     }
