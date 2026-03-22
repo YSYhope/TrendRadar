@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T21:01:42.964395+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-03-22T21:51:27.663591+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
@@ -19,8 +19,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时36分 ~ 21时01分]"
+          "appearance_count": 27,
+          "time_info": "[00时36分 ~ 21时51分]"
+        },
+        {
+          "title": "A股当前良性调整何时结束？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2320651",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         }
       ]
     }
