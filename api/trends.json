@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T16:57:29.448765+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-03-25T18:02:19.191783+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
@@ -49,11 +49,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 16时57分]"
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 18时02分]"
         },
         {
           "title": "A股物流板块短线拉升，中国铁物封涨停，恒基达鑫、三羊马、密尔克卫、永泰运、厦门象屿跟涨。",
