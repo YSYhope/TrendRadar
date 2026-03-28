@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T21:04:05.683082+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-03-28T22:36:46.854420+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             12,
             10,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时42分 ~ 21时04分]"
+          "appearance_count": 7,
+          "time_info": "[17时42分 ~ 22时36分]"
         },
         {
           "title": "A股年报分红潮 百亿级派现频出",
