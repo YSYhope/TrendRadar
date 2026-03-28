@@ -1,37 +1,22 @@
 {
-  "generated_at": "2026-03-28T23:36:05.510395+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-03-29T00:40:15.005895+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2327820",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            11,
-            9,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时42分 ~ 23时36分]"
-        },
-        {
-          "title": "A股年报分红潮 百亿级派现频出",
-          "url": "https://flash.jin10.com/detail/20260328083924419800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 00时40分]"
         }
       ]
     }
