@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T23:37:33.372801+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2026-03-30T00:41:09.648655+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -8,30 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2327820",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时39分 ~ 23时37分]"
-        },
-        {
           "title": "全球视角下A股韧性在哪里？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2328159",
           "source": "财联社热门",
           "ranks": [
-            10,
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时37分 ~ 23时37分]"
+          "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2327820",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
         }
       ]
     }
