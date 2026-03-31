@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T19:55:42.600016+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-03-31T21:29:30.502723+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
@@ -16,11 +16,24 @@
             11,
             9,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时43分 ~ 19时55分]"
+          "appearance_count": 10,
+          "time_info": "[10时43分 ~ 21时29分]"
+        },
+        {
+          "title": "张雪机车双冠点燃A股摩托板块，终端订单排至5-7月",
+          "url": "https://www.cls.cn/detail/2330554",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 21时29分]"
         },
         {
           "title": "超千家A股公司年报“交卷”，新兴产业释放增长新动能",
@@ -32,18 +45,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
-        },
-        {
-          "title": "张雪机车双冠点燃A股摩托板块，终端订单排至5-7月",
-          "url": "https://www.cls.cn/detail/2330554",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时57分 ~ 19时55分]"
         },
         {
           "title": "A股3月收官！主要指数本月集体收跌",
@@ -121,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "京东方A：拟回购5亿-10亿元A股股份 拟回购5亿-10亿元港币B股股份",
+          "url": "https://flash.jin10.com/detail/20260331210059730800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "长线资金最新重仓股曝光，机构认为A股市场调整就是机会",
