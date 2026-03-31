@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T17:06:11.722306+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-03-31T18:58:02.210225+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 17时06分]"
+          "appearance_count": 8,
+          "time_info": "[10时43分 ~ 18时58分]"
         },
         {
           "title": "超千家A股公司年报“交卷”，新兴产业释放增长新动能",
@@ -30,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "张雪机车双冠点燃A股摩托板块，终端订单排至5-7月",
+          "url": "https://www.cls.cn/detail/2330554",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
         },
         {
           "title": "A股3月收官！主要指数本月集体收跌",
@@ -82,7 +94,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
