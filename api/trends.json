@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T18:58:02.210225+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-03-31T19:55:42.600016+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             14,
             11,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时43分 ~ 18时58分]"
+          "appearance_count": 9,
+          "time_info": "[10时43分 ~ 19时55分]"
         },
         {
           "title": "超千家A股公司年报“交卷”，新兴产业释放增长新动能",
@@ -37,11 +38,12 @@
           "url": "https://www.cls.cn/detail/2330554",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 19时55分]"
         },
         {
           "title": "A股3月收官！主要指数本月集体收跌",
