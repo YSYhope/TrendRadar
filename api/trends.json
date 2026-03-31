@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T03:07:56.513993+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-04-01T04:49:50.316647+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32863128",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 04时49分]"
         },
         {
           "title": "张雪机车双冠点燃A股摩托板块，终端订单排至5-7月",
