@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T03:18:05.370488+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-04-02T04:51:33.063140+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时51分]"
         },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时51分]"
         }
       ]
     }
