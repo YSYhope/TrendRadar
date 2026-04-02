@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T01:53:50.686874+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-04-03T03:03:20.513677+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 03时03分]"
         },
         {
           "title": "3月A股新开460万户，同环比各创高增，谁正进场逆势布局？",
@@ -25,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 03时03分]"
         },
         {
           "title": "A股能否再次V型反转",
