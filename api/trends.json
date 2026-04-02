@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T19:53:53.035107+08:00",
-  "total_titles_processed": 1560,
+  "generated_at": "2026-04-02T21:23:19.974676+08:00",
+  "total_titles_processed": 1703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "170家A股公司收“罚单”20家被立案 一季度监管紧盯蹭热点炒概念",
@@ -49,11 +49,12 @@
           "url": "https://www.cls.cn/detail/2333561",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 19时53分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 21时23分]"
         },
         {
           "title": "A股能否再次V型反转",
@@ -99,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "3月A股新开460万户，同环比各创高增，谁正进场逆势布局？",
+          "url": "https://www.cls.cn/detail/2333694",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "A股猪肉板块震荡拉升，华统股份涨超7%，天康生物涨超5%，立华股份、大禹生物涨超4%，牧原股份、巨星农牧跟涨。消息面上，商务部等部门开展中央储备冻猪肉收储。",
