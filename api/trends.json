@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T17:03:56.561265+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-04-02T18:56:01.251115+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "170家A股公司收“罚单”20家被立案 一季度监管紧盯蹭热点炒概念",
@@ -43,6 +43,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时40分]"
+        },
+        {
+          "title": "股价入围A股前20！光纤龙头连日创新高，年内高涨热股扫描，这些特点或可关注",
+          "url": "https://www.cls.cn/detail/2333561",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 18时56分]"
+        },
+        {
+          "title": "A股能否再次V型反转",
+          "url": "https://www.toutiao.com/trending/7624067241511751195/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 18时56分]"
         },
         {
           "title": "A股能源金属板块反弹，西藏矿业涨停，融捷股份、赣锋锂业、永兴材料、盛新锂能、天齐锂业等跟涨。",
