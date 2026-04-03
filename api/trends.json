@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T13:09:23.781734+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-04-03T15:16:25.435398+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "股价入围A股前20！光纤龙头连日创新高，年内高涨热股扫描，这些特点或可关注",
@@ -56,6 +56,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "A股收评：三大指数集体收跌 CPO概念逆市上涨",
+          "url": "https://flash.jin10.com/detail/20260403150434690800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "A股三大指数集体翻绿，沪指再度失守3900点关口，微盘股指数跌超3%，煤炭、油气、化工、农业等方向跌幅居前，沪深京三市超4600股飘绿。",
           "url": "https://wallstreetcn.com/livenews/3081912",
           "source": "华尔街见闻-快讯",
@@ -65,6 +76,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "A股收盘：沪指跌1%失守3900点，全市场成交不足1.7万亿",
+          "url": "https://wallstreetcn.com/livenews/3082034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "上证指数收报3880.10点，跌1.00%。 深证成指收报13352.90点，跌0.99%。 创业板指收报3149.60点，跌0.73%。 沪深300收报4440.79点，跌0.85%。 科创50收报1256.21点，跌0.47%。 中证500收报7534.94点，跌0.93%。 中证1000收报7536.60点，跌1.14%。",
+          "url": "https://wallstreetcn.com/livenews/3082033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "A股锂电池板块震荡下挫，圣阳股份、闽东电力双双跌停，石大胜华、常铝股份跌超8%，华盛锂电、乐凯胶片跟跌，宁德时代跌超3%。",
@@ -87,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "中国上证综指4月3日（周五）收盘下跌39.19点，跌幅：1%，报3880.1点；<br/>中国深证成指4月3日（周五）收盘下跌134.03点，跌幅：0.99%，报13352.9点；<br/>中国沪深300指数4月3日（周五）收盘下跌38.13点，跌幅：0.85%，报4440.79点；<br/>中国创业板指数4月3日（周五）收盘下跌23.05点，跌幅：0.73%，报3149.6点；<br/>中国科创50指数4月3日（周五）收盘下跌5.97点，跌幅：0.47%，报1256.21点。",
+          "url": "https://flash.jin10.com/detail/20260403150215723800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "A股三大指数集体翻绿，全市场下跌个股超4700只。猪肉、粮食、电力板块跌幅居前。",
@@ -139,7 +183,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
