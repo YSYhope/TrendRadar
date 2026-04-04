@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-04T19:33:46.177076+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-04-04T21:04:36.162499+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
           "url": "https://www.cls.cn/detail/2335221",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时33分 ~ 19时33分]"
+          "appearance_count": 10,
+          "time_info": "[10时33分 ~ 21时04分]"
         },
         {
           "title": "本周A股涨幅榜出炉",
@@ -28,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时48分 ~ 16时49分]"
+        },
+        {
+          "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
+          "url": "https://www.cls.cn/detail/2335367",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     }
