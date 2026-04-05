@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T21:06:40.396317+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-04-05T22:38:57.364472+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时41分 ~ 21时06分]"
+          "appearance_count": 22,
+          "time_info": "[00时41分 ~ 22时38分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时41分 ~ 21时06分]"
+          "appearance_count": 22,
+          "time_info": "[00时41分 ~ 22时38分]"
         },
         {
           "title": "洪灝：黄金会继续下跌，之后向上，可以翻倍，但不是今年；A股可能继续跌到3800，之后上涨",
@@ -58,6 +58,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时41分 ~ 05时36分]"
+        },
+        {
+          "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
+          "url": "https://www.cls.cn/detail/2335507",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         }
       ]
     }
