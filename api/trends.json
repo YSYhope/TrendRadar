@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T13:17:09.976050+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-04-05T15:13:41.580113+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 15时13分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
@@ -29,8 +29,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 15时13分]"
+        },
+        {
+          "title": "洪灝：黄金会继续下跌，之后向上，可以翻倍，但不是今年；A股可能继续跌到3800，之后上涨",
+          "url": "https://wallstreetcn.com/articles/3769263",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时50分 ~ 15时13分]"
         },
         {
           "title": "一夜十家被罚 A股严查这些雷区",
@@ -45,17 +57,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时41分 ~ 05时36分]"
-        },
-        {
-          "title": "洪灝：黄金会继续下跌，之后向上，可以翻倍，但不是今年；A股可能继续跌到3800，之后上涨",
-          "url": "https://wallstreetcn.com/articles/3769263",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 13时17分]"
         }
       ]
     }
