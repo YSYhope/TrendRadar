@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-06T13:29:53.685398+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-04-06T15:50:47.628373+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
       "match_count": 4,
       "titles": [
+        {
+          "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
+          "url": "https://www.cls.cn/detail/2335507",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 15时50分]"
+        },
         {
           "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
           "url": "https://www.cls.cn/detail/2335221",
@@ -21,18 +33,6 @@
           "time_info": "[00时41分 ~ 13时29分]"
         },
         {
-          "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
-          "url": "https://www.cls.cn/detail/2335507",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时29分]"
-        },
-        {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
           "url": "https://www.cls.cn/detail/2335367",
           "source": "财联社热门",
@@ -41,19 +41,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 15时50分]"
         },
         {
           "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
           "url": "https://m.thepaper.cn/newsDetail_forward_32911415",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 15时50分]"
         }
       ]
     }
