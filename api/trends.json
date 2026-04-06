@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T03:07:54.310566+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-04-07T04:45:11.945717+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时45分]"
         },
         {
           "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
@@ -26,19 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时45分]"
         },
         {
           "title": "A股短期见底了吗？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2335817",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 04时45分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
