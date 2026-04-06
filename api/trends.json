@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T19:02:16.911634+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-04-06T21:19:59.699187+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 19时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 21时19分]"
         },
         {
           "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
@@ -41,8 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 19时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 21时19分]"
         },
         {
           "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
@@ -51,11 +51,12 @@
           "ranks": [
             17,
             13,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时29分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时29分 ~ 21时19分]"
         },
         {
           "title": "A股明天怎么走",
@@ -63,11 +64,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 21时19分]"
         }
       ]
     }
