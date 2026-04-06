@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T06:41:54.121759+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-04-07T07:41:11.952215+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时41分]"
         },
         {
           "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时41分]"
         },
         {
           "title": "A股短期见底了吗？十大券商策略来了",
@@ -38,22 +39,46 @@
             12,
             10,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时51分 ~ 07时41分]"
+        },
+        {
+          "title": "真金白银提振信心，多家A股行业龙头发布回购方案",
+          "url": "https://wallstreetcn.com/livenews/3083014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "A股4月下旬或迎关键拐点，市场进一步聚焦业绩确定性",
           "url": "https://wallstreetcn.com/livenews/3082994",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时41分]"
+        },
+        {
+          "title": "A股4月下旬或迎关键拐点",
+          "url": "https://www.toutiao.com/trending/7625612430141784070/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 07时41分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
