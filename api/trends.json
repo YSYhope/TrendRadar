@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-08T03:11:03.391296+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-04-08T04:54:15.943369+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股三大股指震荡上涨，化工掀起涨停潮，煤炭股活跃，芯片股拉升、寒武纪大涨9%",
+          "url": "https://wallstreetcn.com/articles/3769354",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 04时54分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://ysyhope.github.io/TrendRadar/img/news.jpg"
 }
