@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T15:24:48.803146+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-04-07T17:09:08.543076+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
@@ -83,6 +83,17 @@
           "time_info": "[06时41分 ~ 07时41分]"
         },
         {
+          "title": "A股新规正式实施",
+          "url": "https://www.douyin.com/hot/2457860",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时24分 ~ 17时09分]"
+        },
+        {
           "title": "A股4月下旬或迎关键拐点",
           "url": "https://www.toutiao.com/trending/7625612430141784070/",
           "source": "今日头条",
@@ -122,7 +133,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -144,7 +155,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -166,18 +177,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "A股新规正式实施",
-          "url": "https://www.douyin.com/hot/2457860",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -199,7 +199,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -232,7 +232,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
