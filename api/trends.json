@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T19:59:59.557903+08:00",
-  "total_titles_processed": 1562,
+  "generated_at": "2026-04-07T22:34:08.167898+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,19 @@
           "time_info": "[00时55分 ~ 07时41分]"
         },
         {
+          "title": "A股新规正式实施",
+          "url": "https://www.douyin.com/hot/2457860",
+          "source": "抖音",
+          "ranks": [
+            13,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时24分 ~ 22时34分]"
+        },
+        {
           "title": "A股猪肉股早盘持续走强，华统股份涨停，巨星农牧涨超5%，大禹生物、神农集团等跟涨。",
           "url": "https://flash.jin10.com/detail/20260407102638462800",
           "source": "金十数据",
@@ -69,19 +82,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
-        },
-        {
-          "title": "A股新规正式实施",
-          "url": "https://www.douyin.com/hot/2457860",
-          "source": "抖音",
-          "ranks": [
-            13,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 19时59分]"
         },
         {
           "title": "A股4月下旬或迎关键拐点，市场进一步聚焦业绩确定性",
