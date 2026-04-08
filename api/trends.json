@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T21:27:57.065162+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2026-04-08T23:15:11.176671+08:00",
+  "total_titles_processed": 1771,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7625981091035676708/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 23时15分]"
         },
         {
           "title": "A股市场缩量上涨，机构建议关注两大主线",
