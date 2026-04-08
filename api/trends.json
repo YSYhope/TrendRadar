@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T01:09:15.171585+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-09T03:23:18.264220+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2338241",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 03时23分]"
         },
         {
           "title": "如何看待A股再现放量大涨",
