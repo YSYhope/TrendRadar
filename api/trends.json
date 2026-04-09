@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T01:12:57.127779+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-10T03:14:27.828208+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "A股存储厂商2025业绩盘点：模组厂一个季度赚足一年利润 产业链围绕下一轮周期密集落子",
@@ -15,8 +15,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时14分]"
+        },
+        {
+          "title": "A股如何在油市动荡中保持韧性",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B2%B9%E5%B8%82%E5%8A%A8%E8%8D%A1%E4%B8%AD%E4%BF%9D%E6%8C%81%E9%9F%A7%E6%80%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时14分"
         }
       ]
     }
