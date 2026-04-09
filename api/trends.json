@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T05:51:17.842079+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-04-10T06:47:12.418043+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 06时47分]"
         },
         {
           "title": "A股如何在油市动荡中保持韧性",
@@ -29,8 +29,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时51分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时47分]"
         }
       ]
     }
