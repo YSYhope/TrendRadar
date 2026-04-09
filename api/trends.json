@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T15:43:34.971590+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-04-09T17:13:54.526919+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "“莫氏鸡煲”爆红出圈一鸡难求？ A股千亿巨头主动“送鸡”接流量",
@@ -50,11 +50,12 @@
           "ranks": [
             10,
             19,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 15时43分]"
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 17时13分]"
         },
         {
           "title": "如何看待A股再现放量大涨",
@@ -74,7 +75,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -132,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "A股收盘：全市场近4300只个股飘绿",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%BF%914300%E5%8F%AA%E4%B8%AA%E8%82%A1%E9%A3%98%E7%BB%BF",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "A股光学光电子板块走高，水晶光电、蓝特光学盘中创新高，光智科技、彩虹股份、五方光电涨停，戈碧迦、沃格光电、永新光学、美迪凯、合力泰跟涨。",
