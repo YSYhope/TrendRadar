@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T17:13:54.526919+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-04-09T19:03:31.218982+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时41分 ~ 17时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时41分 ~ 19时03分]"
         },
         {
           "title": "如何看待A股再现放量大涨",
@@ -141,7 +141,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
