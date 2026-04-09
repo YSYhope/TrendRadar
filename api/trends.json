@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T04:56:52.642265+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-04-10T05:51:17.842079+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2339696",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 04时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时51分]"
         },
         {
           "title": "A股如何在油市动荡中保持韧性",
@@ -24,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时56分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时51分]"
         }
       ]
     }
