@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T03:01:30.564216+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-04-11T03:51:19.287147+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 03时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 03时51分]"
         },
         {
           "title": "A股一周20大熊股出炉",
