@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T19:35:39.851953+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-04-11T21:07:35.911729+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             10,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 19时35分]"
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 21时07分]"
         },
         {
           "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
@@ -38,11 +39,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时35分]"
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 21时07分]"
         },
         {
           "title": "A股本周收出大阳线",
