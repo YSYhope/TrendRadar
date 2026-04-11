@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T15:53:48.478998+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-04-11T16:52:15.861360+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "A股交易规则为何要进行重大调整",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时59分 ~ 07时40分]"
+        },
+        {
+          "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
+          "url": "https://www.cls.cn/detail/2341254",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "A股一周20大熊股出炉",
