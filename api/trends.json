@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T19:38:02.311924+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-04-12T21:10:13.307449+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 19时38分]"
+          "appearance_count": 21,
+          "time_info": "[00时42分 ~ 21时10分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -26,11 +26,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 19时38分]"
+          "appearance_count": 21,
+          "time_info": "[00时42分 ~ 21时10分]"
         },
         {
           "title": "A股交易重要调整来了",
@@ -39,11 +40,12 @@
           "ranks": [
             17,
             7,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时55分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[16时55分 ~ 21时10分]"
         },
         {
           "title": "银河证券：油价高位运行、政策持续发力带动下 关注A股三条配置机会",
@@ -69,6 +71,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时55分 ~ 17时51分]"
+        },
+        {
+          "title": "中信建投：A股迎修复行情，围绕景气行业布局",
+          "url": "https://flash.jin10.com/detail/20260412192600712800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "A股全面适用盘后固定价格交易",
