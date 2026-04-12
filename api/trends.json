@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T22:43:56.531231+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2026-04-12T23:40:20.500403+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时42分 ~ 22时43分]"
+          "appearance_count": 23,
+          "time_info": "[00时42分 ~ 23时40分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -28,11 +28,12 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时42分 ~ 22时43分]"
+          "appearance_count": 23,
+          "time_info": "[00时42分 ~ 23时40分]"
         },
         {
           "title": "A股交易重要调整来了",
