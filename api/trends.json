@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T18:43:07.979704+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-04-12T19:38:02.311924+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 18时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 19时38分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -29,20 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 18时43分]"
-        },
-        {
-          "title": "银河证券：油价高位运行、政策持续发力带动下 关注A股三条配置机会",
-          "url": "https://flash.jin10.com/detail/20260412171812123800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 19时38分]"
         },
         {
           "title": "A股交易重要调整来了",
@@ -50,11 +38,25 @@
           "source": "微博",
           "ranks": [
             17,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时55分 ~ 18时43分]"
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 19时38分]"
+        },
+        {
+          "title": "银河证券：油价高位运行、政策持续发力带动下 关注A股三条配置机会",
+          "url": "https://flash.jin10.com/detail/20260412171812123800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 19时38分]"
         },
         {
           "title": "A股4000点时刻如何跟上投资节奏",
