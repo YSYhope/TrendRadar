@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-13T05:40:04.018866+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-04-13T06:40:01.647287+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
           "url": "https://www.cls.cn/detail/2341275",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -26,8 +27,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时40分]"
+        },
+        {
+          "title": "震荡反复后A股有望再起攻势，投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2341569",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 06时40分]"
         }
       ]
     }
