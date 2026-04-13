@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T06:53:57.226892+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-04-14T07:50:49.228152+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时50分]"
         },
         {
           "title": "A股拟全面适用盘后固定价交易",
@@ -26,11 +26,12 @@
             4,
             28,
             21,
-            30
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时50分]"
         },
         {
           "title": "创新性交易安排渐多，一季度A股并购市场维持活跃态势",
@@ -39,7 +40,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -50,7 +51,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -61,7 +62,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         }
