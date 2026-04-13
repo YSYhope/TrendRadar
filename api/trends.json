@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T01:08:36.241631+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-04-14T03:19:46.565261+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时19分]"
         },
         {
           "title": "A股拟全面适用盘后固定价交易",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时19分]"
         }
       ]
     }
