@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-04-15T03:23:20.207618+08:00",
-  "total_titles_processed": 407,
-  "failed_sources": [],
+  "generated_at": "2026-04-15T05:01:13.071734+08:00",
+  "total_titles_processed": 484,
+  "failed_sources": [
+    "baidu"
+  ],
   "trends": [],
   "report_image_url": "https://ysyhope.github.io/TrendRadar/img/news.jpg"
 }
