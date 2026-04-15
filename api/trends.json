@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T15:54:49.164968+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-04-15T17:25:26.500385+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,30 @@
           "time_info": "[06时58分 ~ 07时54分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 17时25分]"
+        },
+        {
+          "title": "A股收盘：创业板指跌超1% 医药股爆发",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E8%B6%851%25+%E5%8C%BB%E8%8D%AF%E8%82%A1%E7%88%86%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 17时25分]"
+        },
+        {
           "title": "A股房地产板块震荡调整，财信发展触及跌停，信达地产、光大嘉宝、荣安地产、京能置业、大悦城、金融街、栖霞建设纷纷下挫。",
           "url": "https://flash.jin10.com/detail/20260415102651314800",
           "source": "金十数据",
@@ -42,35 +66,13 @@
           "time_info": "10时51分"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-04-15）",
           "url": "https://flash.jin10.com/detail/20260415150959352800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "A股收盘：创业板指跌超1% 医药股爆发",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E8%B6%851%25+%E5%8C%BB%E8%8D%AF%E8%82%A1%E7%88%86%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -81,7 +83,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -103,7 +105,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -114,7 +116,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
