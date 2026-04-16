@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T01:20:28.356322+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-17T03:22:41.607828+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时22分]"
         },
         {
           "title": "【焦点复盘】创指再现长阳反包，Token经济概念持续火爆，“宁王”首次跻身A股总市值三甲",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时22分]"
         }
       ]
     }
