@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-04-16T10:58:41.140682+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-04-16T13:37:26.973591+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "A股游戏板块短线拉升，完美世界触及涨停，迅游科技涨超6%，中青宝、昆仑万维、世纪华通跟涨。",
+          "url": "https://flash.jin10.com/detail/20260416132347981800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "A股低空经济概念异动拉升，莱斯信息、深城交涨超10%，中信海直、万丰奥威、宗申动力、英搏尔等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3089017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
         {
           "title": "瑞银：宁德时代首季业绩胜预期 予A股目标价500元",
           "url": "https://flash.jin10.com/detail/20260416103331954800",
@@ -14,9 +36,53 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "A股旅游概念股异动拉升，丽江股份涨停，西藏旅游此前涨停，西安旅游、桂林旅游、云南旅游跟涨。",
+          "url": "https://flash.jin10.com/detail/20260416131222418800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "A股芯原股份午后快速跳水跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260416130734807800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "A股有色金属板块午后持续走高，厦门钨业涨停，恒邦股份、豫光金铅、锡业股份、锌业股份、盛达资源纷纷拉升。",
+          "url": "https://flash.jin10.com/detail/20260416130502839800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "上证指数早盘收报4048.64点，涨0.53%。 深证成指早盘收报14743.22点，涨1.69%。 创业板指早盘收报3608.52点，涨2.66%。 沪深300早盘收报4727.38点，涨0.90%。 科创50早盘收报1418.06点，涨0.83%。 中证500早盘收报8154.74点，涨1.38%。 中证1000早盘收报8208.05点，涨1.26%。",
+          "url": "https://wallstreetcn.com/livenews/3088986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "A股盐湖提锂板块持续上涨，盛新锂能、金圆股份涨停，天齐锂业、西藏矿业、川能动力、西藏珠峰、万德斯均涨超5%。",
@@ -25,7 +91,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         }
