@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-16T13:37:26.973591+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-04-16T16:32:07.953783+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "A股座次大洗牌：“宁王”市值一度跃居A股第二 背后逻辑拆解",
+          "url": "https://www.cls.cn/detail/2345873",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
         {
           "title": "A股游戏板块短线拉升，完美世界触及涨停，迅游科技涨超6%，中青宝、昆仑万维、世纪华通跟涨。",
           "url": "https://flash.jin10.com/detail/20260416132347981800",
@@ -14,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -25,7 +36,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -69,7 +80,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
