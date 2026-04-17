@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T13:32:37.252418+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-04-17T15:54:47.751880+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "3家A股公司齐发公告：可能被实施退市风险警示",
@@ -37,7 +37,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -60,9 +60,31 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 15时54分]"
+        },
+        {
+          "title": "瑞银证券：市场对A股盈利复苏预期不充分 今年慢牛料受业绩和估值驱动",
+          "url": "https://flash.jin10.com/detail/20260417151820480800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "15时54分"
+        },
+        {
+          "title": "上证指数收报4051.43点，跌0.10%。 深证成指收报14885.42点，涨0.60%。 创业板指收报3678.29点，涨1.43%。 沪深300收报4728.67点，跌0.17%。 科创50收报1423.35点，涨0.08%。 中证500收报8214.19点，涨0.42%。 中证1000收报8307.44点，涨0.90%。",
+          "url": "https://wallstreetcn.com/livenews/3089848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "A股开盘：三大指数涨跌不一",
@@ -74,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-04-17）",
+          "url": "https://flash.jin10.com/detail/20260417151610258800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "【源杰科技股价超越茅台，成A股新“股王”】源杰科技持续走强，股价突破1410元，盘中超越贵州茅台成为A股新“股王”。",
@@ -104,7 +137,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
