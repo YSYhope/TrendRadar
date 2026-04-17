@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T06:45:42.862064+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-04-18T07:43:32.182165+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2347485",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 07时43分]"
         },
         {
           "title": "A股新“股王”登场！科创板企业源杰科技股价超越贵州茅台 创始人身家超150亿",
@@ -25,7 +26,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
