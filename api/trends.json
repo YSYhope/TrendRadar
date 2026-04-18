@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T15:15:02.166785+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2026-04-18T16:56:54.463654+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时11分 ~ 15时15分]"
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 16时56分]"
         },
         {
           "title": "A股新“股王”登场！科创板企业源杰科技股价超越贵州茅台 创始人身家超150亿",
