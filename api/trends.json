@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T10:45:29.247903+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-04-18T13:11:31.663649+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时09分 ~ 07时43分]"
+        },
+        {
+          "title": "A股新股王诞生了",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%96%B0%E8%82%A1%E7%8E%8B%E8%AF%9E%E7%94%9F%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
           "title": "A股新“股王”登场！科创板企业源杰科技股价超越贵州茅台 创始人身家超150亿",
