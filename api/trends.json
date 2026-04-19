@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T00:48:30.785180+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-20T01:39:34.409439+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时39分]"
         },
         {
           "title": "应声涨停！A股一季报行情如火如荼 11家上市公司净利最高同比预增超10倍",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时39分]"
         },
         {
           "title": "A股新股王诞生了",
           "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%96%B0%E8%82%A1%E7%8E%8B%E8%AF%9E%E7%94%9F%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时39分]"
         }
       ]
     }
