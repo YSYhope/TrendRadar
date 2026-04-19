@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T15:44:37.777905+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-04-19T17:00:55.619056+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 15时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 17时00分]"
+        },
+        {
+          "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
+          "url": "https://www.cls.cn/detail/2347686",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 17时00分]"
         },
         {
           "title": "A股新股王诞生了",
@@ -33,19 +44,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 15时44分]"
-        },
-        {
-          "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
-          "url": "https://www.cls.cn/detail/2347686",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 15时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 17时00分]"
         },
         {
           "title": "A股迎来“长钱长投”新信号",
