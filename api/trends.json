@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-19T18:49:28.735745+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-04-19T19:39:00.645405+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
       "match_count": 4,
       "titles": [
+        {
+          "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
+          "url": "https://www.cls.cn/detail/2347686",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时19分 ~ 19时39分]"
+        },
         {
           "title": "应声涨停！A股一季报行情如火如荼 11家上市公司净利最高同比预增超10倍",
           "url": "https://www.cls.cn/detail/2348319",
@@ -16,19 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时48分 ~ 18时49分]"
-        },
-        {
-          "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
-          "url": "https://www.cls.cn/detail/2347686",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时19分 ~ 18时49分]"
+          "appearance_count": 20,
+          "time_info": "[00时48分 ~ 19时39分]"
         },
         {
           "title": "A股新股王诞生了",
@@ -42,11 +43,12 @@
             18,
             23,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时48分 ~ 18时49分]"
+          "appearance_count": 20,
+          "time_info": "[00时48分 ~ 19时39分]"
         },
         {
           "title": "A股迎来“长钱长投”新信号",
