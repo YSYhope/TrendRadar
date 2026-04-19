@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T07:40:14.474106+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-04-19T11:20:01.897594+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "应声涨停！A股一季报行情如火如荼 11家上市公司净利最高同比预增超10倍",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 07时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 11时20分]"
         },
         {
           "title": "A股新股王诞生了",
@@ -32,8 +32,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 07时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 11时20分]"
         },
         {
           "title": "A股迎来“长钱长投”新信号",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时48分 ~ 06时40分]"
+        },
+        {
+          "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
+          "url": "https://www.cls.cn/detail/2347686",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
         }
       ]
     }
