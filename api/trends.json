@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T06:40:53.086467+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-04-20T07:42:27.114894+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 07时42分]"
         },
         {
           "title": "应声涨停！A股一季报行情如火如荼 11家上市公司净利最高同比预增超10倍",
           "url": "https://www.cls.cn/detail/2348319",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 07时42分]"
         },
         {
           "title": "A股新股王诞生了",
@@ -41,8 +42,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 07时42分]"
         }
       ]
     }
