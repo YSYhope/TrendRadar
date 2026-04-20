@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T21:51:57.804038+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-04-20T23:19:25.149797+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
@@ -123,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "多家A股公司业绩暴增",
+          "url": "https://www.toutiao.com/trending/7630619014481575945/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "A股绿电概念反复活跃，广安爱众快速涨停，廊坊发展、新中港此前封板，豫能控股、山高环能、协鑫能科涨超5%。",
