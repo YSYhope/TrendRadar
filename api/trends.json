@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T14:19:53.638032+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-04-20T17:09:31.309709+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
@@ -52,7 +52,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -97,7 +97,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -108,7 +108,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -124,6 +124,17 @@
           "time_info": "11时21分"
         },
         {
+          "title": "A股收盘：沪指涨0.76% 商业航天涨停潮",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.76%25+%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%B6%A8%E5%81%9C%E6%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "A股培育钻石板块走强，力量钻石涨超10%，国机精工、惠丰钻石、四方达、沃尔德、中兵红箭、黄河旋风跟涨。",
           "url": "https://flash.jin10.com/detail/20260420104748161800",
           "source": "金十数据",
@@ -135,13 +146,24 @@
           "time_info": "11时21分"
         },
         {
+          "title": "研究员：A股回归内生增长",
+          "url": "https://www.toutiao.com/trending/7630679451088457270/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "A股能源金属板块午后持续走弱，博迁新材跌超5%，融捷股份、赣锋锂业、盛新锂能、寒锐钴业跟跌。",
           "url": "https://flash.jin10.com/detail/20260420134742010800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
