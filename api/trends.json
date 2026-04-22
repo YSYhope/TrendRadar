@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-04-22T21:51:29.044741+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2026-04-22T23:18:45.223201+08:00",
+  "total_titles_processed": 1665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "A股均价创11年新高！两大板块成“主攻手”，股价跃升标的盘点，这些获融资客重仓",
+          "url": "https://www.cls.cn/detail/2352288",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 23时18分]"
+        },
         {
           "title": "创业板午后涨幅扩大至1%，上证综指涨0.24%，深证成指涨0.81%。",
           "url": "https://flash.jin10.com/detail/20260422132002296800",
@@ -39,19 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
-        },
-        {
-          "title": "A股均价创11年新高！两大板块成“主攻手”，股价跃升标的盘点，这些获融资客重仓",
-          "url": "https://www.cls.cn/detail/2352288",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时11分 ~ 21时51分]"
         },
         {
           "title": "媒体：A股市场已进入结构性牛市周期",
@@ -110,6 +111,17 @@
           "time_info": "13时31分"
         },
         {
+          "title": "四家A股公司同日被立案 均涉信披违法违规|速读公告",
+          "url": "https://www.cls.cn/detail/2352729",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "A股OLED概念震荡反弹，诚志股份、沃格光电、天通股份涨停，路维光电涨超11%，东山精密、彩虹股份、精测电子、清溢光电、有研新材等跟涨。",
           "url": "https://flash.jin10.com/detail/20260422105756837800",
           "source": "金十数据",
@@ -152,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "A股主要股指强势上扬",
+          "url": "https://www.toutiao.com/trending/7631507170502115366/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "A股猪肉股快速反弹，天邦食品直线涨停，龙大美食、大禹生物、立华股份、天康生物、正邦科技跟涨。",
