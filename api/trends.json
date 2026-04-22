@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-22T07:39:24.745961+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-04-22T11:10:30.162555+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "A股小金属板块震荡走高，云南锗业逼近涨停，翔鹭钨业、锡业股份、章源钨业、厦门钨业、金钼股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260422110046874800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
         {
           "title": "年内A股市场新增超千起并购重组交易",
           "url": "https://wallstreetcn.com/livenews/3092147",
@@ -14,9 +25,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "A股OLED概念震荡反弹，诚志股份、沃格光电、天通股份涨停，路维光电涨超11%，东山精密、彩虹股份、精测电子、清溢光电、有研新材等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260422105756837800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "A股公司可转债再融资升温，监管“扶优限劣”严防盲目跨界投资",
@@ -25,9 +47,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "A股猪肉股快速反弹，天邦食品直线涨停，龙大美食、大禹生物、立华股份、天康生物、正邦科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3092213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         }
       ]
     }
