@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T19:11:06.787662+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-04-22T21:51:29.044741+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
@@ -46,22 +46,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 19时11分]"
+          "appearance_count": 4,
+          "time_info": "[18时11分 ~ 21时51分]"
         },
         {
           "title": "媒体：A股市场已进入结构性牛市周期",
           "url": "https://www.toutiao.com/trending/7631029558866935844/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时51分]"
         },
         {
           "title": "A股小金属板块震荡走高，云南锗业逼近涨停，翔鹭钨业、锡业股份、章源钨业、厦门钨业、金钼股份跟涨。",
