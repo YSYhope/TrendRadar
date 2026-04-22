@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T05:01:23.872718+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-04-23T06:01:00.962029+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时01分]"
         },
         {
           "title": "A股均价创11年新高！两大板块成“主攻手”，股价跃升标的盘点，这些获融资客重仓",
           "url": "https://www.cls.cn/detail/2352288",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时01分]"
         }
       ]
     }
