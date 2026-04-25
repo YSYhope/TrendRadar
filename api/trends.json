@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:42:38.532789+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-04-25T21:13:42.857083+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时59分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 21时13分]"
         },
         {
           "title": "CPU重回AI核心 A股布局公司梳理",
