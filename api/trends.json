@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T16:59:15.248267+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-04-25T17:59:49.561170+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "CPU重回AI核心 A股布局公司梳理",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "龙头2连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2355530",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         }
       ]
     }
