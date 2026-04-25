@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T01:41:58.469713+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-04-26T02:59:45.599051+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时59分]"
         },
         {
           "title": "龙头2连板 本周披露并购重组进展的A股名单一览",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时59分]"
         }
       ]
     }
