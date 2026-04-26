@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T05:43:19.582363+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-04-27T06:43:37.689171+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时43分]"
         },
         {
           "title": "龙头2连板 本周披露并购重组进展的A股名单一览",
@@ -24,22 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
-        },
-        {
-          "title": "A股自2007年以来第二长“抱团”！中信证券：下一步“既非热门，又别对立”",
-          "url": "https://wallstreetcn.com/articles/3770915",
-          "source": "华尔街见闻",
-          "ranks": [
+            7,
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时43分]"
         },
         {
           "title": "A股市场短期或将延续震荡上行格局？投资主线有哪些？十大券商策略来了",
@@ -47,11 +37,24 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时43分]"
+        },
+        {
+          "title": "A股自2007年以来第二长“抱团”！中信证券：下一步“既非热门，又别对立”",
+          "url": "https://wallstreetcn.com/articles/3770915",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时43分]"
         },
         {
           "title": "A股一季度最赚钱公司曝光",
@@ -62,11 +65,12 @@
             25,
             24,
             12,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时43分]"
         }
       ]
     }
