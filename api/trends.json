@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T22:51:02.540682+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-04-26T23:47:47.262947+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时56分 ~ 22时51分]"
+          "appearance_count": 9,
+          "time_info": "[17时56分 ~ 23时47分]"
         },
         {
           "title": "A股又一大牛股诞生 周内大涨94%",
@@ -44,8 +45,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 22时51分]"
+          "appearance_count": 18,
+          "time_info": "[00时50分 ~ 23时47分]"
         },
         {
           "title": "A股自2007年以来第二长“抱团”！中信证券：下一步“既非热门，又别对立”",
@@ -57,8 +58,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时56分 ~ 22时51分]"
+          "appearance_count": 9,
+          "time_info": "[17时56分 ~ 23时47分]"
         },
         {
           "title": "A股一季度最赚钱公司曝光",
@@ -66,22 +67,24 @@
           "source": "微博",
           "ranks": [
             19,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时15分 ~ 22时51分]"
+          "appearance_count": 4,
+          "time_info": "[21时15分 ~ 23时47分]"
         },
         {
           "title": "A股市场短期或将延续震荡上行格局？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2356009",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
+          "appearance_count": 3,
+          "time_info": "[22时50分 ~ 23时47分]"
         }
       ]
     }
