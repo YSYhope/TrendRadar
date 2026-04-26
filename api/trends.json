@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T16:18:14.680628+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-04-26T17:57:14.160725+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "A股又一大牛股诞生 周内大涨94%",
@@ -31,6 +31,28 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时50分 ~ 14时10分]"
+        },
+        {
+          "title": "A股自2007年以来第二长“抱团”！中信证券：下一步“既非热门，又别对立”",
+          "url": "https://wallstreetcn.com/articles/3770915",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 17时57分]"
+        },
+        {
+          "title": "7只A股周末集中宣布：将被实施退市风险警示",
+          "url": "https://www.cls.cn/detail/2355953",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 17时57分]"
         }
       ]
     }
