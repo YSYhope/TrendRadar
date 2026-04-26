@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T03:02:00.876008+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-04-27T04:44:15.563578+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时44分]"
         },
         {
           "title": "龙头2连板 本周披露并购重组进展的A股名单一览",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时44分]"
         },
         {
           "title": "A股自2007年以来第二长“抱团”！中信证券：下一步“既非热门，又别对立”",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时44分]"
         },
         {
           "title": "A股市场短期或将延续震荡上行格局？投资主线有哪些？十大券商策略来了",
@@ -50,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时44分]"
         },
         {
           "title": "A股一季度最赚钱公司曝光",
@@ -60,11 +60,12 @@
           "ranks": [
             28,
             25,
-            24
+            24,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时44分]"
         }
       ]
     }
