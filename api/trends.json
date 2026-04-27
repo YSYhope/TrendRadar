@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T19:48:02.437078+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-04-27T22:04:25.118140+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -82,11 +82,12 @@
           "url": "https://www.cls.cn/detail/2356906",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时47分 ~ 19时48分]"
+          "appearance_count": 3,
+          "time_info": "[19时47分 ~ 22时04分]"
         },
         {
           "title": "上证报：高评级不“安全” 信用标尺亟待校准",
