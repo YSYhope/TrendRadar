@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T02:06:58.976419+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-04-28T04:11:53.301597+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 04时11分]"
         },
         {
           "title": "A股活化石“000004”锁定退市",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 04时11分]"
         },
         {
           "title": "A股“新股王”，一季度业绩抵去年全年",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 04时11分]"
         },
         {
           "title": "A股两家行业龙头同遭立案",
@@ -47,11 +47,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 04时11分]"
         },
         {
           "title": "十大券商看后市｜A股有望延续震荡上行格局，警惕因分化带来的市场波动",
@@ -61,8 +62,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 04时11分]"
         }
       ]
     }
