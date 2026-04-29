@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T14:27:44.603383+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-04-29T17:12:39.544256+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "A股午评：创业板指低开高走收涨2.27%，稀土永磁板块领涨",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -46,11 +46,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 14时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 17时12分]"
         },
         {
           "title": "上证指数早盘收报4094.80点，涨0.40%。 深证成指早盘收报15064.27点，涨1.58%。 创业板指早盘收报3678.49点，涨2.27%。 沪深300早盘收报4788.53点，涨0.64%。 科创50早盘收报1483.84点，跌0.32%。 中证500早盘收报8311.27点，涨1.31%。 中证1000早盘收报8332.89点，涨1.29%。",
@@ -70,7 +71,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -81,7 +82,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -103,7 +104,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -119,13 +120,24 @@
           "time_info": "07时58分"
         },
         {
+          "title": "A股迎大反转",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%BF%8E%E5%A4%A7%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "A股券商股震荡走强，首创证券涨超5%，国金证券、中国银河、太平洋、西南证券、广发证券等个股跟涨。",
           "url": "https://flash.jin10.com/detail/20260429133320973800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         }
