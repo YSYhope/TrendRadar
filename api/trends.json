@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-06T04:16:28.417016+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-05-06T06:20:13.834710+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股4月决断后是Sell in May？",
+          "url": "https://wallstreetcn.com/articles/3771587",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 06时20分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://ysyhope.github.io/TrendRadar/img/news.jpg"
 }
