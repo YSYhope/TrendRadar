@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T02:21:30.009083+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-05-07T04:27:05.484151+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2363932",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 04时27分]"
         },
         {
           "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，算力、存储芯片集体爆发，寒武纪、海光信息创新高",
@@ -26,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 04时27分]"
         }
       ]
     }
