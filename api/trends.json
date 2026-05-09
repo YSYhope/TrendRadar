@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T06:59:21.491411+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-05-09T08:05:40.829708+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 08时05分]"
         },
         {
           "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
           "url": "https://www.cls.cn/detail/2366454",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 08时05分]"
         },
         {
           "title": "高盛：超配中国，A股优于H股，将沪深300目标位设于5300点",
@@ -36,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 08时05分]"
         },
         {
           "title": "六大方向谁会成为A股新主线",
