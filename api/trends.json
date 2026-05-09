@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T17:24:00.523722+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-05-09T19:02:21.339171+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时24分 ~ 17时24分]"
+          "appearance_count": 11,
+          "time_info": "[01时24分 ~ 19时02分]"
+        },
+        {
+          "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
+          "url": "https://www.cls.cn/detail/2366667",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 19时02分]"
         },
         {
           "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
@@ -31,18 +43,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时24分 ~ 15时12分]"
-        },
-        {
-          "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
-          "url": "https://www.cls.cn/detail/2366667",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 17时24分]"
         },
         {
           "title": "高盛：超配中国，A股优于H股，将沪深300目标位设于5300点",
