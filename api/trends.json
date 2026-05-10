@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T07:54:53.801643+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-05-10T11:39:37.628071+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 05时51分]"
+        },
+        {
+          "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
+          "url": "https://wallstreetcn.com/articles/3771884",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "谁是A股核心主线",
