@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T21:28:28.179467+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-05-10T22:57:47.396020+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
@@ -47,6 +47,18 @@
           "time_info": "[01时02分 ~ 05时51分]"
         },
         {
+          "title": "申万宏源：A股赚钱效应累积正在质变",
+          "url": "https://www.toutiao.com/trending/7638180405157822506/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时57分]"
+        },
+        {
           "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
           "url": "https://wallstreetcn.com/articles/3771884",
           "source": "华尔街见闻",
@@ -58,15 +70,15 @@
           "time_info": "11时39分"
         },
         {
-          "title": "申万宏源：A股赚钱效应累积正在质变",
-          "url": "https://www.toutiao.com/trending/7638180405157822506/",
-          "source": "今日头条",
+          "title": "A股900亿红包来了！工行、农行下周同日派息",
+          "url": "https://www.cls.cn/detail/2367236",
+          "source": "财联社热门",
           "ranks": [
-            15
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时57分"
         },
         {
           "title": "谁是A股核心主线",
