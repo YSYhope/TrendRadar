@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T01:59:06.878227+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-12T04:01:34.818185+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 04时01分]"
         },
         {
           "title": "学者：A股涨说明经济真的在复苏",
           "url": "https://www.toutiao.com/trending/7638599674026266139/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 04时01分]"
         },
         {
           "title": "A股史诗级爆发原因",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%88%86%E5%8F%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 04时01分]"
         }
       ]
     }
