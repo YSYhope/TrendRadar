@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T19:29:03.579508+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-05-11T23:19:23.554716+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "A股900亿红包来了！工行、农行下周同日派息",
@@ -45,6 +45,18 @@
           "time_info": "[06时53分 ~ 07时56分]"
         },
         {
+          "title": "十大券商看后市｜A股向上趋势不改，以波段思维应对事件窗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33153911",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 23时19分]"
+        },
+        {
           "title": "A股进入牛市下半场",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%BF%9B%E5%85%A5%E7%89%9B%E5%B8%82%E4%B8%8B%E5%8D%8A%E5%9C%BA%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -67,17 +79,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时55分 ~ 15时48分]"
-        },
-        {
-          "title": "十大券商看后市｜A股向上趋势不改，以波段思维应对事件窗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33153911",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 19时29分]"
         },
         {
           "title": "A股连续4天百股涨停",
@@ -141,9 +142,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "A股史诗级爆发原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%88%86%E5%8F%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "上证指数收报4225.02点，涨1.08%。 深证成指收报15899.30点，涨2.16%。 创业板指收报3928.97点，涨3.50%。 沪深300收报4951.84点，涨1.64%。 科创50收报1716.69点，涨4.65%。 中证500收报8839.74点，涨1.67%。 中证1000收报8866.78点，涨1.44%。",
