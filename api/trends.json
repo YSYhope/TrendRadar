@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T03:44:14.013385+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-05-16T05:07:36.960387+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2372610",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 03时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 05时07分]"
         },
         {
           "title": "一批上市公司将告别A股",
@@ -36,7 +37,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
         }
