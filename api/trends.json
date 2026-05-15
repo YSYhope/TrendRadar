@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T01:43:16.689779+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-16T03:44:14.013385+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "股价位列A股第四！科创板“新秀”连日新高，近年高价股频出，这些特点或者关注",
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 03时44分]"
         },
         {
           "title": "一批上市公司将告别A股",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国证交会文件显示：老虎环球将所持Meta股份增加12.2%，升至310万股A类股票。",
+          "url": "https://flash.jin10.com/detail/20260516021714256800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         }
       ]
     }
