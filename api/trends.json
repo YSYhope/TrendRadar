@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T01:58:06.097089+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-05-17T03:18:36.248554+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时18分]"
         },
         {
           "title": "下周A股将有53家公司有限售股份解禁，总解禁市值达591.05亿元",
           "url": "https://wallstreetcn.com/livenews/3104790",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时18分]"
         },
         {
           "title": "A股正在告别“讲故事时代”",
           "url": "https://www.toutiao.com/trending/7640493318278745643/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时18分]"
         }
       ]
     }
