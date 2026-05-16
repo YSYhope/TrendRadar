@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T06:59:18.102675+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-05-16T08:02:05.496915+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 08时02分]"
         },
         {
           "title": "一批上市公司将告别A股",
