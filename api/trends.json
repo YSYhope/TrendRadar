@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T15:19:00.743332+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-05-16T17:44:35.808448+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "股价位列A股第四！科创板“新秀”连日新高，近年高价股频出，这些特点或者关注",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时43分 ~ 08时02分]"
+        },
+        {
+          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2373180",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "一批上市公司将告别A股",
