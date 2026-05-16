@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T04:54:55.064702+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-05-17T05:55:00.968011+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 05时55分]"
+        },
+        {
+          "title": "A股正在告别“讲故事时代”",
+          "url": "https://www.toutiao.com/trending/7640493318278745643/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            28,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时57分 ~ 05时55分]"
         },
         {
           "title": "下周A股将有53家公司有限售股份解禁，总解禁市值达591.05亿元",
@@ -29,21 +43,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时54分]"
-        },
-        {
-          "title": "A股正在告别“讲故事时代”",
-          "url": "https://www.toutiao.com/trending/7640493318278745643/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 05时55分]"
         }
       ]
     }
