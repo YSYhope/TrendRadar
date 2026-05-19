@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T13:06:08.736672+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-05-19T17:53:31.625474+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "A股新“股王”联讯仪器，提示4大风险",
@@ -27,9 +27,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "研究员：A股“涨价”成主线",
+          "url": "https://www.toutiao.com/trending/7641448997353180708/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         }
       ]
     }
