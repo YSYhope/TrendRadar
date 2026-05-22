@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T05:15:49.081078+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-05-23T07:05:12.578281+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2379432",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 05时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 07时05分]"
         },
         {
           "title": "媒体：韩国投资者抄底A股",
