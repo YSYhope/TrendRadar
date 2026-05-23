@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T17:04:46.847008+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-05-23T19:16:29.645315+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时56分 ~ 17时04分]"
+          "appearance_count": 10,
+          "time_info": "[01时56分 ~ 19时16分]"
         },
         {
           "title": "A股行情为何极端分化",
