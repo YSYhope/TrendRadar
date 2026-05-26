@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T11:55:45.989678+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2026-05-26T15:54:56.808029+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
@@ -53,7 +53,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -64,9 +64,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "A股新股王19天暴涨22倍",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%96%B0%E8%82%A1%E7%8E%8B19%E5%A4%A9%E6%9A%B4%E6%B6%A822%E5%80%8D%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "A股三大指数低开 人形机器人概念活跃",
@@ -75,9 +86,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "A股行情分化 散户直言赚钱好难",
+          "url": "https://www.toutiao.com/trending/7643434140397961279/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "A股算力概念股震荡下挫，大位科技、华升股份触及跌停，行云科技跌近10%，紫光股份、直真科技、鸿博股份跌逾6%。",
@@ -86,7 +108,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         }
