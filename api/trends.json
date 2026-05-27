@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T18:01:17.729797+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-05-27T21:39:27.368904+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "A股尾盘拉升，沪指险翻红，有色金属拉升，芯片半导体集体下挫，恒科指涨超1%，智谱再创新高",
@@ -39,7 +39,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时01分"
         },
@@ -50,9 +50,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时01分"
+        },
+        {
+          "title": "A股市场又现30万元“肉签”，一图看懂注册制以来新股“肉签”TOP15",
+          "url": "https://www.cls.cn/detail/2383054",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "外资持续流入，国际投行看好A股三大投资方向",
