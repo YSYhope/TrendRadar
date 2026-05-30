@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T07:17:25.456870+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-05-30T11:44:54.536105+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "上证50、科创50等指数调整样本，华虹公司、源杰科技等热门股被纳入多条指数",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 07时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 11时44分]"
+        },
+        {
+          "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
+          "url": "https://www.cls.cn/detail/2385959",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "A股老登股爆发",
@@ -28,6 +39,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 00时44分]"
+        },
+        {
+          "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
+          "url": "https://www.cls.cn/detail/2386025",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "MiniMax启动A股IPO辅导备案",
+          "url": "https://wallstreetcn.com/livenews/3111690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         }
       ]
     }
