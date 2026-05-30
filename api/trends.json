@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T11:44:54.536105+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-05-30T14:50:24.269152+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 11时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 14时50分]"
         },
         {
           "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
           "url": "https://www.cls.cn/detail/2385959",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 14时50分]"
+        },
+        {
+          "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
+          "url": "https://www.cls.cn/detail/2386025",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 14时50分]"
         },
         {
           "title": "A股老登股爆发",
@@ -41,24 +54,13 @@
           "time_info": "[00时43分 ~ 00时44分]"
         },
         {
-          "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
-          "url": "https://www.cls.cn/detail/2386025",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
           "title": "MiniMax启动A股IPO辅导备案",
           "url": "https://wallstreetcn.com/livenews/3111690",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         }
