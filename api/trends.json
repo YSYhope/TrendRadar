@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T05:03:22.240031+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-05-31T07:02:33.162630+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时02分]"
         },
         {
           "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
           "url": "https://www.cls.cn/detail/2385959",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时02分]"
         },
         {
           "title": "业内：A股交易拥挤度达历史罕见水平",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时02分]"
         }
       ]
     }
