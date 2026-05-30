@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T14:50:24.269152+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-05-30T17:21:55.571222+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "上证50、科创50等指数调整样本，华虹公司、源杰科技等热门股被纳入多条指数",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 14时50分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 17时21分]"
         },
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -36,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 14时50分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 17时21分]"
         },
         {
           "title": "A股老登股爆发",
@@ -52,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 00时44分]"
+        },
+        {
+          "title": "A股科技行情结束了吗",
+          "url": "https://www.toutiao.com/trending/7645515272840810038/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "MiniMax启动A股IPO辅导备案",
