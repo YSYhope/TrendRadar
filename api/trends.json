@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T07:02:33.162630+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-05-31T12:11:30.933214+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 12时11分]"
         },
         {
           "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
@@ -24,11 +24,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 12时11分]"
+        },
+        {
+          "title": "【早报】中际旭创发布严正声明；MiniMax启动A股IPO",
+          "url": "https://www.cls.cn/detail/2386240",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "业内：A股交易拥挤度达历史罕见水平",
@@ -42,6 +54,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时12分 ~ 07时02分]"
+        },
+        {
+          "title": "“A+H”两地上市加速！MiniMax已正式启动A股辅导",
+          "url": "https://wallstreetcn.com/articles/3773492",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     }
