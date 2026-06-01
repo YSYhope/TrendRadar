@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T12:26:18.918934+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-06-01T18:23:37.152786+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
@@ -43,6 +43,18 @@
           "time_info": "[01时11分 ~ 07时04分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 18时23分]"
+        },
+        {
           "title": "A股新一轮抱团还能走多远",
           "url": "https://www.toutiao.com/trending/7646053365972995635/",
           "source": "今日头条",
@@ -61,20 +73,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "73天！宇树科技科创板IPO过会 A股人形机器人第一股将至",
+          "url": "https://www.cls.cn/detail/2387242",
+          "source": "财联社热门",
           "ranks": [
-            15
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "18时23分"
         },
         {
           "title": "上证指数早盘收报4063.72点，跌0.12%。 深证成指早盘收报15481.10点，跌0.60%。 创业板指早盘收报4001.52点，跌0.90%。 沪深300早盘收报4865.14点，跌0.55%。 科创50早盘收报1694.60点，跌3.24%。 中证500早盘收报8331.55点，跌0.34%。 中证1000早盘收报8402.27点，跌0.08%。",
@@ -83,7 +95,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -94,9 +106,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        },
+        {
+          "title": "6月1日A股涨停复盘：AI应用端爆发",
+          "url": "https://www.toutiao.com/trending/7646262605242482694/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "今日52只A股换手率超过20%",
+          "url": "https://www.toutiao.com/trending/7646241756665167914/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "博主：A股科技行情远未结束",
@@ -105,7 +139,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         }
