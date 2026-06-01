@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T04:57:34.491383+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-06-02T07:05:06.486073+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时05分]"
         },
         {
           "title": "4家A股公司，撤销风险警示",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时05分]"
         }
       ]
     }
