@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T00:41:09.936442+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-02T04:57:34.491383+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时57分]"
         },
         {
           "title": "4家A股公司，撤销风险警示",
           "url": "https://www.cls.cn/detail/2387556",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时57分]"
         }
       ]
     }
