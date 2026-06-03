@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T02:48:30.108373+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-04T05:53:13.938261+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "《新闻联播》披露A股重要数据",
@@ -15,19 +15,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 05时53分]"
         },
         {
           "title": "评论员：A股正成为全民财富新蓄水池",
           "url": "https://www.toutiao.com/trending/7647043750434180627/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            19
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 05时53分]"
+        },
+        {
+          "title": "摩根士丹利将中兴通讯A股评级上调至平配，目标价34.30元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3114026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "05时53分"
         }
       ]
     }
