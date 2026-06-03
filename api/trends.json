@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T05:53:13.938261+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-06-04T07:47:50.220414+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "《新闻联播》披露A股重要数据",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 07时47分]"
+        },
+        {
+          "title": "【早报】A股上新闻联播；光纤企业爆单；富时A50，纳入多只牛股",
+          "url": "https://www.cls.cn/detail/2390171",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         },
         {
           "title": "评论员：A股正成为全民财富新蓄水池",
@@ -24,11 +35,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            19
+            19,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 07时47分]"
         },
         {
           "title": "摩根士丹利将中兴通讯A股评级上调至平配，目标价34.30元人民币。",
@@ -37,9 +49,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "时隔8年A股再迎航司IPO，长龙航空拟募资20亿元",
+          "url": "https://wallstreetcn.com/livenews/3114053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "新闻联播披露A股重要数据",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%8A%AB%E9%9C%B2A%E8%82%A1%E9%87%8D%E8%A6%81%E6%95%B0%E6%8D%AE%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         }
       ]
     }
