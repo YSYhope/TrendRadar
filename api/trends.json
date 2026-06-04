@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T12:23:26.687917+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-06-04T16:53:07.579295+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "《新闻联播》披露A股重要数据",
@@ -27,8 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[07时47分 ~ 16时53分]"
+        },
+        {
+          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时47分 ~ 16时53分]"
         },
         {
           "title": "评论员：A股正成为全民财富新蓄水池",
@@ -44,16 +56,27 @@
           "time_info": "[02时48分 ~ 07时47分]"
         },
         {
-          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
-          "source": "澎湃新闻",
+          "title": "A股再登新闻联播释放何种信息",
+          "url": "https://www.toutiao.com/trending/7647311695521549870/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            5
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 16时53分]"
+        },
+        {
+          "title": "下半年A股市场展望",
+          "url": "https://www.toutiao.com/trending/7647391113614986788/",
+          "source": "今日头条",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时47分 ~ 12时23分]"
+          "time_info": "[16时52分 ~ 16时53分]"
         },
         {
           "title": "上证指数早盘收报4066.56点，跌0.43%。 深证成指早盘收报15632.79点，跌0.46%。 创业板指早盘收报4077.75点，跌1.10%。 沪深300早盘收报4910.21点，跌0.58%。 科创50早盘收报1738.54点，涨0.72%。 中证500早盘收报8349.38点，跌0.15%。 中证1000早盘收报8411.71点，跌0.25%。",
@@ -62,7 +85,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -76,17 +99,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
-        },
-        {
-          "title": "A股再登新闻联播释放何种信息",
-          "url": "https://www.toutiao.com/trending/7647311695521549870/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
         },
         {
           "title": "时隔8年A股再迎航司IPO，长龙航空拟募资20亿元",
@@ -106,7 +118,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
