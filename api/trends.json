@@ -1,111 +1,22 @@
 {
-  "generated_at": "2026-06-05T23:57:41.953114+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-06-06T02:02:23.456817+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "A股机器人板块走高，绿的谐波涨超17%，亿嘉和、埃夫特、三丰智能、派斯林、凯尔达等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3114823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "多路增量资金加码A股，主动权益类基金加仓科技成长",
-          "url": "https://wallstreetcn.com/livenews/3114663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 08时14分]"
-        },
-        {
-          "title": "A股三大指数集体下跌，芯片半导体逆势拉升，京东方涨停，恒指、恒科指双双跌超1%",
-          "url": "https://wallstreetcn.com/articles/3773833",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时13分 ~ 08时14分]"
-        },
-        {
-          "title": "韩国资金押注A股科技股",
-          "url": "https://www.toutiao.com/trending/7647424442825572395/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 06时41分]"
-        },
         {
           "title": "招商证券：想在A股赚钱，第一条铁律是“叙事”风向",
           "url": "https://www.cls.cn/detail/2392216",
           "source": "财联社热门",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "A股进入震荡期 市场如何风格切换",
-          "url": "https://www.toutiao.com/trending/7647782187894312475/",
-          "source": "今日头条",
-          "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "核心驱动力并未动摇，五大券商把脉A股下半年机遇",
-          "url": "https://wallstreetcn.com/livenews/3114671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "大V：A股冲高回落强弱分化",
-          "url": "https://www.toutiao.com/trending/7647805448329891371/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "上证指数早盘收报4075.31点，涨0.43%。 深证成指早盘收报15623.57点，跌0.24%。 创业板指早盘收报4055.23点，跌0.82%。 沪深300早盘收报4899.10点，跌0.12%。 科创50早盘收报1708.54点，跌1.70%。 中证500早盘收报8367.37点，涨0.13%。 中证1000早盘收报8468.23点，涨0.57%。",
-          "url": "https://wallstreetcn.com/livenews/3114794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "time_info": "02时02分"
         }
       ]
     }
