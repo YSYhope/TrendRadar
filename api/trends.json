@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T20:45:49.309853+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-06-05T23:57:41.953114+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "A股机器人板块走高，绿的谐波涨超17%，亿嘉和、埃夫特、三丰智能、派斯林、凯尔达等跟涨。",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 06时41分]"
+        },
+        {
+          "title": "招商证券：想在A股赚钱，第一条铁律是“叙事”风向",
+          "url": "https://www.cls.cn/detail/2392216",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "A股进入震荡期 市场如何风格切换",
