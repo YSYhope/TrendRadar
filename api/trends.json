@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T20:08:19.314303+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-06-06T22:45:07.017847+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "招商证券：想在A股赚钱，第一条铁律是“叙事”风向",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时02分 ~ 15时48分]"
+        },
+        {
+          "title": "龙头五连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2392448",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
         },
         {
           "title": "上证指数跌破120天线 投资者如何操作",
@@ -39,7 +50,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -61,7 +72,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         }
