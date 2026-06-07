@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T04:15:53.552481+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-06-08T06:07:49.716459+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3774033",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时07分]"
         },
         {
           "title": "龙头五连板！本周披露并购重组进展的A股名单一览",
@@ -27,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时07分]"
         },
         {
           "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
@@ -36,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时07分]"
         },
         {
           "title": "如何看待美股黑色星期五？如何影响A股？",
@@ -50,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时07分]"
         }
       ]
     }
