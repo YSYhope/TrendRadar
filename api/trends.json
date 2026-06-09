@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T05:02:23.140045+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-06-10T07:19:44.397801+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 05时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 07时19分]"
         },
         {
           "title": "跨境荐股！\"白毛股神\"连续三天\"搅动A股风云\"",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 05时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 07时19分]"
         }
       ]
     }
