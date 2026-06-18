@@ -1,89 +1,55 @@
 {
-  "generated_at": "2026-06-18T20:58:43.111146+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2026-06-19T00:41:43.317524+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 7,
+      "match_count": 4,
       "titles": [
         {
-          "title": "博主：A股正在发生三大结构性逆转",
-          "url": "https://www.toutiao.com/trending/7652346288553332230/",
-          "source": "今日头条",
+          "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
+          "url": "https://www.cls.cn/detail/2404108",
+          "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "00时41分"
         },
         {
-          "title": "6月18日投资避雷针：昨日晚间逾70家A股公司提示风险",
-          "url": "https://www.cls.cn/detail/2403062",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 17时18分]"
-        },
-        {
-          "title": "上证指数早盘收报4092.76点，跌0.37%。 深证成指早盘收报15970.86点，涨0.57%。 创业板指早盘收报4224.96点，涨1.39%。 沪深300早盘收报4937.53点，涨0.12%。 科创50早盘收报1907.11点，涨3.60%。 中证500早盘收报8655.36点，涨0.33%。 中证1000早盘收报8742.50点，涨0.44%。",
-          "url": "https://wallstreetcn.com/livenews/3121406",
-          "source": "华尔街见闻-快讯",
+          "title": "博主：A股正在发生一场流动性重构",
+          "url": "https://www.toutiao.com/trending/7652733853051653651/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时19分"
+          "time_info": "00时41分"
         },
         {
-          "title": "全球资本正在回流美国 A股会失血吗",
-          "url": "https://www.toutiao.com/trending/7652596192932531722/",
+          "title": "A股“审美”转向，中际旭创市值超越茅台，主力正如何进出？",
+          "url": "https://www.cls.cn/detail/2404026",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "业内：A股风格或迎阶段性均衡",
+          "url": "https://www.toutiao.com/trending/7652708413402516998/",
           "source": "今日头条",
           "ranks": [
-            18
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "多家A股公司提示风险",
-          "url": "https://www.toutiao.com/trending/7652205334456025130/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "A股午评：创业板指半日收涨1.39% 再创近11年来新高",
-          "url": "https://flash.jin10.com/detail/20260618114054631800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "A股连跌5年股曝光",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%BF%9E%E8%B7%8C5%E5%B9%B4%E8%82%A1%E6%9B%9D%E5%85%89%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
+          "time_info": "00时41分"
         }
       ]
     }
