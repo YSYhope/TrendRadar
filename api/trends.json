@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T06:08:06.927411+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-06-20T08:13:39.982242+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,29 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
-          "url": "https://www.cls.cn/detail/2404108",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时08分]"
-        },
-        {
           "title": "龙头4天2板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2404440",
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 08时13分]"
+        },
+        {
+          "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
+          "url": "https://www.cls.cn/detail/2404108",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 08时13分]"
         },
         {
           "title": "A股“审美”转向，中际旭创市值超越茅台，主力正如何进出？",
@@ -39,8 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 08时13分]"
         }
       ]
     }
