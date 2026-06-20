@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T08:13:39.982242+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-06-20T13:18:52.964554+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 08时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 13时18分]"
         },
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 08时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 13时18分]"
         },
         {
           "title": "A股“审美”转向，中际旭创市值超越茅台，主力正如何进出？",
@@ -38,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 08时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 13时18分]"
         }
       ]
     }
