@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T14:06:41.608660+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-06-21T18:33:19.536361+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 14时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 18时33分]"
         },
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
@@ -37,7 +37,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         }
