@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T06:13:05.644898+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-06-21T08:12:08.622263+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 06时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 08时12分]"
         },
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
           "url": "https://www.cls.cn/detail/2404108",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 06时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 08时12分]"
         }
       ]
     }
