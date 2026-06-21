@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T08:12:08.622263+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-06-21T14:06:41.608660+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "龙头4天2板 本周披露并购重组进展的A股名单一览",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 08时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 14时06分]"
         },
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 08时12分]"
+        },
+        {
+          "title": "下半年资产配置机会在哪里？听徐小庆、刘晨明展望2026下半年大类资产与A股策略如何布局！",
+          "url": "https://wallstreetcn.com/articles/3774897",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         }
       ]
     }
