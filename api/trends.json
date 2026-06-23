@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T02:02:19.172468+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-24T04:19:53.498515+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时19分]"
         },
         {
           "title": "A股年内已有31天成交破3万亿，券商日子过得如何？几个指标结合看",
@@ -26,19 +26,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时19分]"
         },
         {
           "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
           "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时19分]"
         }
       ]
     }
