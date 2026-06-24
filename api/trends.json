@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T06:18:13.158787+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-06-24T08:02:25.957260+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "股价挺进A股前20！“光纤一哥”924以来暴涨24倍，谁在重仓这些高倍股？",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 06时18分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 08时02分]"
         },
         {
           "title": "A股年内已有31天成交破3万亿，券商日子过得如何？几个指标结合看",
@@ -25,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 06时18分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 08时02分]"
         },
         {
           "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
@@ -42,6 +44,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时01分 ~ 06时18分]"
+        },
+        {
+          "title": "A股定增结构性活跃，新兴产业获资本青睐",
+          "url": "https://wallstreetcn.com/livenews/3123687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         }
       ]
     }
