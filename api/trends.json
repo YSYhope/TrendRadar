@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-06-25T05:41:08.820987+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-06-25T07:08:55.809274+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股公司年度“红包”派发进行时，“双创”板块成现金分红硬核力量",
+          "url": "https://wallstreetcn.com/livenews/3124274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "多家A股公司主动补税，折射企业税务合规新常态",
+          "url": "https://wallstreetcn.com/livenews/3124263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://ysyhope.github.io/TrendRadar/img/news.jpg"
 }
