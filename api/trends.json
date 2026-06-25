@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-06-25T07:08:55.809274+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-06-25T11:56:10.520186+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 11时56分]"
+        },
+        {
+          "title": "上证指数早盘收报4125.76点，涨0.36%。 深证成指早盘收报16285.83点，涨1.46%。 创业板指早盘收报4336.74点，涨2.01%。 沪深300早盘收报5022.46点，涨1.61%。 科创50早盘收报2072.50点，涨4.18%。 中证500早盘收报8909.16点，涨0.75%。 中证1000早盘收报8800.47点，涨0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3124422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
         {
           "title": "A股公司年度“红包”派发进行时，“双创”板块成现金分红硬核力量",
           "url": "https://wallstreetcn.com/livenews/3124274",
@@ -14,9 +36,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "A股午评：科创50指数半日涨4.18% 储存芯片、证券等板块走强",
+          "url": "https://flash.jin10.com/detail/20260625113448454800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "多家A股公司主动补税，折射企业税务合规新常态",
@@ -25,7 +58,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         }
