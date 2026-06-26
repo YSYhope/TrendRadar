@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T16:32:45.605829+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-06-26T19:47:22.824005+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "A股这轮牛市你赚钱了吗",
@@ -40,7 +40,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "A股缩量419亿调整",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%BC%A9%E9%87%8F419%E4%BA%BF%E8%B0%83%E6%95%B4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         }
       ]
     }
