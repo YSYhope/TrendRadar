@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T03:26:17.723326+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-06-28T05:09:18.528716+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时09分]"
         },
         {
           "title": "下周A股解禁市值逾1000亿元",
@@ -27,8 +27,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时09分]"
         },
         {
           "title": "A股在暴力调整之后该怎么看",
@@ -37,7 +37,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         }
