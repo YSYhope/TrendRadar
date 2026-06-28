@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T05:06:10.287936+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-06-29T07:07:19.880958+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2411079",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 07时07分]"
         },
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -27,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 07时07分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -38,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 07时07分]"
         }
       ]
     }
