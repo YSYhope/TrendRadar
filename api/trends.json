@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T01:18:03.725158+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-29T03:26:28.190456+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时26分]"
         },
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
           "url": "https://wallstreetcn.com/articles/3775701",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时26分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -37,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时26分]"
         }
       ]
     }
