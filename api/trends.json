@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T21:54:54.058169+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-06-28T23:21:19.318265+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -14,22 +14,12 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 21时54分]"
-        },
-        {
-          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
-          "url": "https://wallstreetcn.com/articles/3775701",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 23时21分]"
         },
         {
           "title": "多家A股公司扎堆发异动公告，涉PCB、玻璃基板、液冷等热门赛道",
@@ -40,8 +30,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 21时54分]"
+          "appearance_count": 4,
+          "time_info": "[19时10分 ~ 23时21分]"
+        },
+        {
+          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
+          "url": "https://wallstreetcn.com/articles/3775701",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 23时21分]"
         },
         {
           "title": "下周A股解禁市值逾1000亿元",
@@ -75,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "明天A股怎么走",
+          "url": "https://s.weibo.com/weibo?q=%E6%98%8E%E5%A4%A9A%E8%82%A1%E6%80%8E%E4%B9%88%E8%B5%B0&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     }
