@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T17:51:14.911357+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-06-29T22:08:26.117657+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33473686",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "appearance_count": 3,
+          "time_info": "[17时50分 ~ 22时08分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -58,11 +59,12 @@
           "url": "https://www.cls.cn/detail/2411748",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "appearance_count": 3,
+          "time_info": "[17时50分 ~ 22时08分]"
         },
         {
           "title": "A股三大指数全线收红",
@@ -93,7 +95,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
