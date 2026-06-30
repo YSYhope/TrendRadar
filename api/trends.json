@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T04:11:50.596695+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-07-01T06:18:05.858416+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 06时18分]"
         },
         {
           "title": "A股上半年股王涨超770%",
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            17
+            17,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 06时18分]"
         },
         {
           "title": "京东方成交额超400亿元位居A股第一",
