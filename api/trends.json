@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T02:00:51.933547+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-01T04:11:50.596695+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 04时11分]"
+        },
+        {
+          "title": "A股上半年股王涨超770%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%82%A1%E7%8E%8B%E6%B6%A8%E8%B6%85770%25",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 04时11分]"
         },
         {
           "title": "京东方成交额超400亿元位居A股第一",
@@ -24,17 +36,6 @@
           "source": "今日头条",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 02时00分]"
-        },
-        {
-          "title": "A股上半年股王涨超770%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%82%A1%E7%8E%8B%E6%B6%A8%E8%B6%85770%25",
-          "source": "百度热搜",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 2,
