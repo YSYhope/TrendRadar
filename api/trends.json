@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T13:25:31.034158+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-07-01T17:55:42.534271+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
@@ -47,13 +47,24 @@
           "time_info": "[01时59分 ~ 08时09分]"
         },
         {
+          "title": "下周一正式施行，A股交易新规来了！一图看懂关键调整",
+          "url": "https://www.cls.cn/detail/2414140",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "半年收官，A股IPO受理“冲刺潮”，单日44家、单月144家创峰值",
           "url": "https://www.cls.cn/detail/2413611",
           "source": "财联社热门",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -67,6 +78,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 02时00分]"
+        },
+        {
+          "title": "博主：A股行情靠科技",
+          "url": "https://www.toutiao.com/trending/7656601188129046591/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "A股科技股集体回调背后",
+          "url": "https://www.toutiao.com/trending/7657138212615815222/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "A股涨停数创20个月新高！TMT“参团率”降至15%，这一数据仍在历史高位",
+          "url": "https://www.cls.cn/detail/2414312",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "机构密集调研A股上市公司，人形机器人、半导体材料受追捧",
@@ -86,7 +130,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
