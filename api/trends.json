@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T19:37:53.783938+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2026-07-02T22:09:58.054058+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
@@ -30,17 +30,6 @@
           "time_info": "[02时02分 ~ 06时21分]"
         },
         {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2555608",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 19时37分]"
-        },
-        {
           "title": "A股交易规则下周一起重大调整",
           "url": "https://www.toutiao.com/trending/7657522598550716422/",
           "source": "今日头条",
@@ -53,6 +42,18 @@
           "time_info": "[06时20分 ~ 08时12分]"
         },
         {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2555608",
+          "source": "抖音",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 22时09分]"
+        },
+        {
           "title": "A股涨停数创20个月新高！TMT“参团率”降至15%，这一数据仍在历史高位",
           "url": "https://www.cls.cn/detail/2414312",
           "source": "财联社热门",
@@ -63,6 +64,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时02分 ~ 08时12分]"
+        },
+        {
+          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
+          "url": "https://www.cls.cn/detail/2415523",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 22时09分]"
         },
         {
           "title": "A股将取消5%涨跌停板",
@@ -94,18 +107,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
-          "url": "https://www.cls.cn/detail/2415523",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -116,7 +118,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
