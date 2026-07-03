@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T12:45:21.993672+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-07-03T16:13:03.521033+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -27,8 +27,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时10分 ~ 16时13分]"
+        },
+        {
+          "title": "A股机器人概念全线大涨",
+          "url": "https://www.toutiao.com/trending/7657736239235727401/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时10分 ~ 12时45分]"
+          "time_info": "[16时12分 ~ 16时13分]"
         },
         {
           "title": "上证指数早盘收报4056.78点，涨0.69%。 深证成指早盘收报15714.22点，涨1.39%。 创业板指早盘收报4080.57点，涨1.58%。 沪深300早盘收报4867.59点，涨1.15%。 科创50早盘收报2008.07点，涨1.05%。 中证500早盘收报8794.84点，涨1.16%。 中证1000早盘收报8684.93点，涨0.69%。",
@@ -37,7 +48,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
