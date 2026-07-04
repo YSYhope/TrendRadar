@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T15:50:20.491683+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-07-04T18:14:33.370660+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时08分 ~ 15时50分]"
+          "appearance_count": 6,
+          "time_info": "[08时08分 ~ 18时14分]"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 15时50分]"
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 18时14分]"
         },
         {
           "title": "Meta股价因AI进展不及预期下跌",
