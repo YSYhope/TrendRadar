@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T04:12:15.661096+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-07-05T06:02:24.483931+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时02分]"
         },
         {
           "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时02分]"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
@@ -38,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时02分]"
         },
         {
           "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
@@ -49,8 +50,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时02分]"
         },
         {
           "title": "下周A股反弹能走多远",
