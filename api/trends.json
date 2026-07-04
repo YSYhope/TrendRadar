@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T22:41:00.896414+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-07-05T00:06:42.555588+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
@@ -12,26 +12,33 @@
           "url": "https://www.cls.cn/detail/2417029",
           "source": "财联社热门",
           "ranks": [
-            6,
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时08分 ~ 22时41分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
+          "url": "https://www.cls.cn/detail/2417150",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
           "url": "https://www.cls.cn/detail/2417055",
           "source": "财联社热门",
           "ranks": [
-            13,
-            8,
-            7,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时38分 ~ 22时41分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
@@ -41,31 +48,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 22时41分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
-          "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
-          "url": "https://www.cls.cn/detail/2417150",
-          "source": "财联社热门",
+          "title": "下周A股反弹能走多远",
+          "url": "https://www.toutiao.com/trending/7658668747116252735/",
+          "source": "今日头条",
           "ranks": [
-            12
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 22时41分]"
-        },
-        {
-          "title": "Meta股价因AI进展不及预期下跌",
-          "url": "https://www.douyin.com/hot/2556589",
-          "source": "抖音",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 06时08分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         }
       ]
     }
