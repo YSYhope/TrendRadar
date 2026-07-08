@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T17:27:41.361936+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-07-08T19:49:30.221057+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "行业景气度持续回暖，多家A股化工企业上半年业绩预喜",
@@ -58,9 +58,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "A股失守4000点关口 后市如何演绎",
@@ -72,6 +83,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "博主：A股这波调整何时休",
+          "url": "https://www.toutiao.com/trending/7660090915477786150/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
+          "title": "A股再现天价离婚案",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
+          "title": "大V：A股涨跌全看半导体",
+          "url": "https://www.toutiao.com/trending/7659370681934757924/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "A股旅游板块开盘领涨，岭南控股竞价涨停，西藏旅游、天府文旅、西域旅游、陕西旅游、曲江文旅纷纷高开，消息上，国务院原则同意《旅游强国建设“十五五”规划》，培育旅游发展新动能，丰富旅游供给，释放消费潜力，加快建设旅游强国。",
