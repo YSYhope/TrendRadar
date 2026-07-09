@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T06:11:13.990508+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-07-09T08:16:05.143436+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 08时16分]"
         },
         {
           "title": "高盛公司恢复跟踪宁德时代A股，评级买进，目标价566元人民币。",
