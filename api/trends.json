@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-10T06:25:49.110011+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-07-10T08:08:33.031906+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "华泰证券：A股有色超跌或存修复空间",
+          "url": "https://flash.jin10.com/detail/20260710072734865800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
         {
           "title": "A股反弹能否持续",
           "url": "https://www.toutiao.com/trending/7660518240442912306/",
