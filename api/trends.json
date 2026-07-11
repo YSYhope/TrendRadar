@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T05:54:47.824983+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-07-12T06:54:39.476456+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时54分]"
         },
         {
           "title": "下周A股超40股限售解禁，7股解禁比例超10%",
@@ -28,8 +29,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 06时54分]"
         },
         {
           "title": "A股下周怎么走",
