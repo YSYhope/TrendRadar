@@ -1,93 +1,33 @@
 {
-  "generated_at": "2026-07-12T23:02:46.150192+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-07-13T00:06:59.191558+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2423581",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 23时02分]"
-        },
-        {
-          "title": "下周A股超40股限售解禁，7股解禁比例超10%",
-          "url": "https://wallstreetcn.com/livenews/3132343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 07时59分]"
-        },
         {
           "title": "多股应声涨停！A股中报行情纵深推进，16家上市公司净利最高同比预增超10倍",
           "url": "https://www.cls.cn/detail/2423847",
           "source": "财联社热门",
           "ranks": [
-            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2423581",
+          "source": "财联社热门",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 23时02分]"
-        },
-        {
-          "title": "A股下周怎么走",
-          "url": "https://www.toutiao.com/trending/7661256578196049450/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
-        },
-        {
-          "title": "下周A股机会来了吗",
-          "url": "https://www.toutiao.com/trending/7660731729879220266/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "A股AI算力服务链为何突然爆发",
-          "url": "https://www.toutiao.com/trending/7661579639684337194/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "A股一周熊股出炉：最熊股跌超84%",
-          "url": "https://www.toutiao.com/trending/7660657298100764698/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
+          "time_info": "00时06分"
         }
       ]
     }
