@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T07:59:26.295444+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-07-12T11:45:54.496278+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 11时45分]"
         },
         {
           "title": "下周A股超40股限售解禁，7股解禁比例超10%",
