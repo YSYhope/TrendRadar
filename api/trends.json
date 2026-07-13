@@ -1,258 +1,33 @@
 {
-  "generated_at": "2026-07-13T21:27:17.802561+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-07-14T00:38:27.487184+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 22,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "多股应声涨停！A股中报行情纵深推进，16家上市公司净利最高同比预增超10倍",
-          "url": "https://www.cls.cn/detail/2423847",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 14时58分]"
-        },
         {
           "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
           "url": "https://wallstreetcn.com/articles/3776747",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 21时27分]"
-        },
-        {
-          "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2423581",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 07时59分]"
-        },
-        {
-          "title": "A股午评：三大股指早盘低开低走 军工电子、中船系、商业航天板块跌幅居前",
-          "url": "https://flash.jin10.com/detail/20260713113337739800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "00时38分"
         },
         {
-          "title": "上证指数早盘收报3934.74点，跌1.54%。 深证成指早盘收报14654.49点，跌2.61%。 创业板指早盘收报3751.33点，跌2.38%。 沪深300早盘收报4716.67点，跌1.34%。 科创50早盘收报2026.96点，跌1.84%。 中证500早盘收报8233.65点，跌3.18%。 中证1000早盘收报7914.59点，跌3.46%。",
-          "url": "https://wallstreetcn.com/livenews/3132593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "赛力斯A股股价跌停",
-          "url": "https://www.toutiao.com/trending/7661625503505252393/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "15个交易日逾千亿元，A股半导体主题ETF“吸金”",
-          "url": "https://wallstreetcn.com/livenews/3132466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "A股接下来将作何表现",
-          "url": "https://www.toutiao.com/trending/7661249055507726399/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2569192",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "沪指险守3900点 A股能否修复",
-          "url": "https://www.toutiao.com/trending/7661628763322597417/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "A股AI应用概念局部异动，中国软件直线涨停，浪潮软件触及涨停，国子软件、绿盟科技、诚迈科技、久其软件等快速冲高。",
-          "url": "https://wallstreetcn.com/livenews/3132644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "赛力斯A股盘中触及跌停，港股跌超10%。",
-          "url": "https://wallstreetcn.com/livenews/3132576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "A股中国卫星短线拉升，现涨幅扩大至5.3%，此前盘中一度跌超4%。",
-          "url": "https://flash.jin10.com/detail/20260713111248738800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "A股寒武纪成交额达200亿元，现跌1.24%。",
-          "url": "https://flash.jin10.com/detail/20260713141953205800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "沪指险守3900点 A股能否修复",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%AA%E6%8C%87%E9%99%A9%E5%AE%883900%E7%82%B9+A%E8%82%A1%E8%83%BD%E5%90%A6%E4%BF%AE%E5%A4%8D",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "A股油气概念午后震荡拉升，山东墨龙逼近涨停，科力股份、通源石油、中国海油、蓝焰控股跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3132637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "A股存储芯片概念股午后持续走弱，兆易创新触及跌停，成交额超300亿元。此前香农芯创、德明利、诚邦股份跌停，普冉股份、雅创电子、北京君正、佰维存储等多股跌超10%。",
-          "url": "https://wallstreetcn.com/livenews/3132634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "A股存储一哥回应跌停",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%AD%98%E5%82%A8%E4%B8%80%E5%93%A5%E5%9B%9E%E5%BA%94%E8%B7%8C%E5%81%9C%23&t=31&band_rank=19&Refer=top",
+          "title": "A股今日大跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "沪指午后跌幅扩大至2%。A股PCB、CPO等算力硬件股持续下挫，宝鼎科技、宏昌电子、博敏电子、泰晶科技、中天科技等多股午后跌停。",
-          "url": "https://wallstreetcn.com/livenews/3132629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "A股被韩股坑惨了",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A2%AB%E9%9F%A9%E8%82%A1%E5%9D%91%E6%83%A8%E4%BA%86%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "A股齐跌 00后股民：半年白干",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%BD%90%E8%B7%8C+00%E5%90%8E%E8%82%A1%E6%B0%91%EF%BC%9A%E5%8D%8A%E5%B9%B4%E7%99%BD%E5%B9%B2",
-          "source": "百度热搜",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "A股培育钻石板块持续下挫，黄河旋风触及跌停，惠丰钻石跌超11%，博云新材、四方达、沃尔德、力量钻石跟跌。",
-          "url": "https://flash.jin10.com/detail/20260713110613888800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "00时38分"
         }
       ]
     }
