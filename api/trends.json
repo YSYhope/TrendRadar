@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T00:20:13.173188+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-15T02:07:44.809665+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时07分]"
         },
         {
           "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
           "url": "https://wallstreetcn.com/articles/3776834",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时07分]"
         }
       ]
     }
