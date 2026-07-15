@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T07:08:22.415516+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-07-15T10:44:13.454549+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
@@ -29,6 +29,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 02时07分]"
+        },
+        {
+          "title": "创业板指日内涨幅扩大至1%，上证综指现涨0.2%，深证成指涨0.57%。",
+          "url": "https://flash.jin10.com/detail/20260715102509477800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "A股白酒概念震荡走高，金种子酒逼近涨停，古井贡酒、舍得酒业、今世缘、酒鬼酒、泸州老窖跟涨。",
+          "url": "https://flash.jin10.com/detail/20260715101248790800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "A股华天科技再次触及跌停，成交额达112.26亿，报23.14元。",
+          "url": "https://flash.jin10.com/detail/20260715100919443800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     }
