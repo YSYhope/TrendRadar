@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T02:11:26.651450+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-07-16T04:13:54.551340+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时13分]"
         },
         {
           "title": "A股被“猴子”刷屏",
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时13分]"
         }
       ]
     }
