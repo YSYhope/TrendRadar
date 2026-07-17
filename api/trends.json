@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T04:08:40.782951+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-07-18T05:57:29.703463+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             28,
             20,
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 05时57分]"
         },
         {
           "title": "A股“股王”11个月25次易主",
