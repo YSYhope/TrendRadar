@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T00:18:22.747539+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-18T02:08:35.782477+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -8,44 +8,47 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "A股杀跌是中期调整还是牛市结束",
-          "url": "https://www.toutiao.com/trending/7663417152111644223/",
+          "title": "A股“股王”11个月25次易主",
+          "url": "https://www.toutiao.com/trending/7662962275166683199/",
           "source": "今日头条",
           "ranks": [
-            8
+            28,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时08分]"
         },
         {
           "title": "A股今天暴跌原因",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BB%8A%E5%A4%A9%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "A股“股王”11个月25次易主",
-          "url": "https://www.toutiao.com/trending/7662962275166683199/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时08分]"
         },
         {
           "title": "A股年内最强无差别杀跌",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B9%B4%E5%86%85%E6%9C%80%E5%BC%BA%E6%97%A0%E5%B7%AE%E5%88%AB%E6%9D%80%E8%B7%8C%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时08分]"
+        },
+        {
+          "title": "A股杀跌是中期调整还是牛市结束",
+          "url": "https://www.toutiao.com/trending/7663417152111644223/",
+          "source": "今日头条",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
