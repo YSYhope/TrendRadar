@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T10:45:45.776811+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-07-18T13:31:31.928570+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "A股年内最强无差别杀跌",
@@ -23,16 +23,28 @@
           "time_info": "[00时18分 ~ 07时56分]"
         },
         {
+          "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
+          "url": "https://www.cls.cn/detail/2430101",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 13时31分]"
+        },
+        {
           "title": "A股重磅信号！多只宽基ETF，显著放量！大资金再度出手？",
           "url": "https://wallstreetcn.com/articles/3777184",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 10时45分]"
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 13时31分]"
         },
         {
           "title": "A股“股王”11个月25次易主",
@@ -76,7 +88,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         }
