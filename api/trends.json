@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T19:07:22.829147+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-07-18T21:23:15.202772+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时30分 ~ 19时07分]"
+          "appearance_count": 8,
+          "time_info": "[13时30分 ~ 21时23分]"
         },
         {
           "title": "A股年内最强无差别杀跌",
@@ -46,6 +46,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时55分 ~ 13时31分]"
+        },
+        {
+          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2430229",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 21时23分]"
         },
         {
           "title": "A股“股王”11个月25次易主",
@@ -81,17 +93,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2430229",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
         },
         {
           "title": "A股一周熊股出炉：最熊股跌超41%",
