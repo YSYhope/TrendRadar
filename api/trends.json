@@ -1,122 +1,33 @@
 {
-  "generated_at": "2026-07-18T22:57:54.419363+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-07-19T00:03:04.261886+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
           "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
           "url": "https://www.cls.cn/detail/2430101",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时30分 ~ 22时57分]"
-        },
-        {
-          "title": "A股年内最强无差别杀跌",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B9%B4%E5%86%85%E6%9C%80%E5%BC%BA%E6%97%A0%E5%B7%AE%E5%88%AB%E6%9D%80%E8%B7%8C%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            20,
-            30,
-            25,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 07时56分]"
-        },
-        {
-          "title": "A股重磅信号！多只宽基ETF，显著放量！大资金再度出手？",
-          "url": "https://wallstreetcn.com/articles/3777184",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时55分 ~ 13时31分]"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时03分]"
         },
         {
           "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2430229",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时07分 ~ 22时57分]"
-        },
-        {
-          "title": "A股“股王”11个月25次易主",
-          "url": "https://www.toutiao.com/trending/7662962275166683199/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            16
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时08分]"
-        },
-        {
-          "title": "A股今天暴跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BB%8A%E5%A4%A9%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时08分]"
-        },
-        {
-          "title": "A股杀跌是中期调整还是牛市结束",
-          "url": "https://www.toutiao.com/trending/7663417152111644223/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "A股一周熊股出炉：最熊股跌超41%",
-          "url": "https://www.toutiao.com/trending/7663260734738710564/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "A股黄金买点来了吗",
-          "url": "https://www.toutiao.com/trending/7663493429787102762/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "[00时02分 ~ 00时03分]"
         }
       ]
     }
