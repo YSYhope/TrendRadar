@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T21:23:15.202772+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2026-07-18T22:57:54.419363+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时30分 ~ 21时23分]"
+          "appearance_count": 9,
+          "time_info": "[13时30分 ~ 22时57分]"
         },
         {
           "title": "A股年内最强无差别杀跌",
@@ -53,11 +54,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 21时23分]"
+          "appearance_count": 4,
+          "time_info": "[19时07分 ~ 22时57分]"
         },
         {
           "title": "A股“股王”11个月25次易主",
