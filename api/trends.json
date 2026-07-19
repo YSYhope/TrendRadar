@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T02:02:03.762935+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-07-20T03:20:43.101968+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时20分]"
         },
         {
           "title": "又一批A股半年报预喜，“易中天”已有2家披露",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时20分]"
         },
         {
           "title": "现在能抄底A股吗",
