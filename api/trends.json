@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T19:11:38.839759+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-07-19T21:24:46.877849+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
@@ -28,11 +28,34 @@
             7,
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 19时11分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 21时24分]"
+        },
+        {
+          "title": "又一批A股半年报预喜，“易中天”已有2家披露",
+          "url": "https://www.cls.cn/detail/2430507",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "国联民生证券：拟通过公司自有资金以集中竞价交易方式回购公司A股股份，回购资金额预计为1-2亿元人民币，回购股份用途包括但不限于维护公司价值及股东权益、减少公司注册资本等法律法规允许的用途。",
+          "url": "https://flash.jin10.com/detail/20260719204215780800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "下周A股机会来了吗",
@@ -41,7 +64,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         }
