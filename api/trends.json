@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T04:24:41.397170+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-07-21T06:03:35.711117+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时03分]"
         },
         {
           "title": "今日一批A股公司披露增持回购计划，累计金额最高超百亿",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时03分]"
         },
         {
           "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时03分]"
         },
         {
           "title": "【焦点复盘】高股息红利股强势做多，上证50高开高走涨超3%，1万亿油气巨头时隔4个多月收获涨停",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时03分]"
         },
         {
           "title": "14家券商首席共议当前A股，是关键转机吗？",
@@ -61,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时03分]"
         },
         {
           "title": "A股多重利好密集来袭",
@@ -72,8 +72,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时03分]"
         },
         {
           "title": "证监会就近期A股波动发声",
@@ -81,11 +81,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 06时03分]"
         },
         {
           "title": "险资百亿资金支持A股，伊朗称收到停火提议| Plus日报",
