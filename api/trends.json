@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T14:33:00.305968+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-07-21T17:32:21.116456+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
@@ -48,11 +48,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时35分 ~ 14时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 17时32分]"
         },
         {
           "title": "A股",
@@ -142,7 +143,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -156,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "A股CPO概念震荡回升，联讯仪器涨超10%，共进股份涨停，杰普特、立讯精密、中际旭创、新易盛、红板科技等个股跟涨。",
@@ -219,9 +231,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "A股这轮调整结束了吗",
+          "url": "https://www.toutiao.com/trending/7664842413277449734/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "上证报头版文章：三季度货币政策宽松空间或进一步打开",
@@ -235,13 +258,24 @@
           "time_info": "07时59分"
         },
         {
+          "title": "A股深“V”反弹 “六大方阵”齐出手",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%B7%B1%E2%80%9CV%E2%80%9D%E5%8F%8D%E5%BC%B9+%E2%80%9C%E5%85%AD%E5%A4%A7%E6%96%B9%E9%98%B5%E2%80%9D%E9%BD%90%E5%87%BA%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "A股电力板块探底回升，华银电力3连板，金开新能、京能电力、华电辽能、晋控电力、华能蒙电跟涨。",
           "url": "https://wallstreetcn.com/livenews/3137333",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -252,7 +286,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         }
