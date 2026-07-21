@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T03:36:37.336056+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-07-22T05:14:26.955369+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时36分]"
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 05时14分]"
         },
         {
           "title": "A股六大重磅信号落地",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时36分]"
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 05时14分]"
         },
         {
           "title": "事关A股市场 证监会最新发声",
@@ -38,8 +38,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时36分]"
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 05时14分]"
         }
       ]
     }
