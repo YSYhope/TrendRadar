@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T03:26:28.273781+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-07-23T05:13:29.719380+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 05时13分]"
         },
         {
           "title": "又一批A股公司业绩亮相！A股股王上半年净利最高增超9倍",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 05时13分]"
         }
       ]
     }
