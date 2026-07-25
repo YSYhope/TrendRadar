@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T15:21:55.459633+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-07-25T17:52:35.412402+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 15时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 17时52分]"
         },
         {
           "title": "A股史上最大股票回购方案",
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时08分 ~ 15时21分]"
+          "appearance_count": 4,
+          "time_info": "[08时08分 ~ 17时52分]"
         },
         {
           "title": "A股最大股票回购",
@@ -56,6 +56,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 00时50分]"
+        },
+        {
+          "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2436803",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "A股一周跌幅榜出炉",
+          "url": "https://www.toutiao.com/trending/7666327652068835364/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "宁德时代回应发起A股史上最大单次回购",
