@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T06:01:32.870068+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-07-26T07:05:28.267239+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时05分]"
         },
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
           "url": "https://www.cls.cn/detail/2436662",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时05分]"
         },
         {
           "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2436803",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时05分]"
         },
         {
           "title": "A股下周会迎来更猛烈的震荡吗",
@@ -47,22 +49,24 @@
           "ranks": [
             2,
             13,
-            17
+            17,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时05分]"
         },
         {
           "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
           "url": "https://wallstreetcn.com/livenews/3139765",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时05分]"
         },
         {
           "title": "A股一周跌幅榜出炉",
