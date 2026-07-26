@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T03:16:51.879096+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-07-27T05:03:39.606238+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时03分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时03分]"
         },
         {
           "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时03分]"
         }
       ]
     }
