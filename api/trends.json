@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T17:17:45.664895+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-07-26T19:23:17.998507+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 17时17分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 19时23分]"
         },
         {
           "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 17时17分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 19时23分]"
         },
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -96,13 +96,24 @@
           "time_info": "14时40分"
         },
         {
+          "title": "永杉锂业7月26日公告，公司向特定对象发行A股股票申请获得上交所受理。",
+          "url": "https://flash.jin10.com/detail/20260726174836526800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "A股重磅新规明起实施",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%87%8D%E7%A3%85%E6%96%B0%E8%A7%84%E6%98%8E%E8%B5%B7%E5%AE%9E%E6%96%BD%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
