@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-28T07:07:09.013491+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-07-28T10:46:23.079088+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 6,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667417",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时45分 ~ 10时46分]"
+        },
         {
           "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
           "url": "https://m.thepaper.cn/newsDetail_forward_33665106",
@@ -20,16 +33,15 @@
           "time_info": "[01时45分 ~ 07时07分]"
         },
         {
-          "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667417",
-          "source": "澎湃新闻",
+          "title": "A股半导体芯片股震荡走低，西安奕材、普冉股份、恒运昌跌超10%，兆易创新此前跌停，北京君正、通富微电、佰维存储跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3140675",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            16
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "长鑫为何成A股新王",
@@ -56,15 +68,48 @@
           "time_info": "[07时06分 ~ 07时07分]"
         },
         {
+          "title": "A股创业板指跌超5%，深证成指跌3.28%，上证指数跌1.27%，CPO、存储芯片、铜缆高速连接等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260728103705820800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
           "title": "上半年24家A股公司赴港上市，募资总额逾1200亿港元",
           "url": "https://wallstreetcn.com/livenews/3140553",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "长鑫科技上市首日哪些数据刷A股纪录？券商如何看后市？",
+          "url": "https://www.cls.cn/detail/2438405",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股开盘：创业板指低开3.12%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E4%BD%8E%E5%BC%803.12%25",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "A股上市券商开启中期分红预热",
@@ -73,9 +118,75 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "A股三大股指走低，沪指跌逾1%，深证成指现跌3%，创业板指现跌4.6%。",
+          "url": "https://flash.jin10.com/detail/20260728102712817800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股旅游板块再度拉升，华天酒店2连板，曲江文旅、西安饮食、三峡旅游、君亭酒店、云南旅游跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3140625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股医药股反复活跃，海南海药2连板，陇神戎发涨超10%，广生堂、哈三联、亚泰集团、联环药业涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3140622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股光刻机概念股逆势高开，波长光电、永新光学、张江高科、海立股份一字涨停，茂莱光学、蓝英装备涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3140615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股可控核聚变概念异动拉升，融发核电直线涨停，常辅股份、中洲特材、哈焊华通、兰石重装、中核科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260728101934273800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "上证指数开盘报3823.13点，跌0.91%。 深证成指开盘报13830.35点，跌2.25%。 创业板指开盘报3478.86点，跌3.12%。 沪深300开盘报4623.80点，跌1.67%。 科创50开盘报1755.87点，跌2.88%。 中证500开盘报7589.76点，跌1.69%。 中证1000开盘报7135.73点，跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3140612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     }
