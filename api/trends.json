@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T16:40:13.248720+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-07-28T19:22:01.686939+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,24 @@
             15,
             16,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 13时50分]"
+          "appearance_count": 10,
+          "time_info": "[01时45分 ~ 19时22分]"
+        },
+        {
+          "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33503166",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 19时22分]"
         },
         {
           "title": "A股深证成指午后延续跌势，现跌超4%，创业板指跌超6%，上证指数跌超1.3%，CPO、存储芯片、PCB概念等板块跌幅居前。",
@@ -90,17 +103,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时39分 ~ 13时50分]"
-        },
-        {
-          "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33503166",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 16时40分]"
         },
         {
           "title": "长鑫科技上市首日哪些数据刷A股纪录？券商如何看后市？",
