@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T18:29:05.747711+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-07-30T20:48:27.201534+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "A股市值前10红了9个",
@@ -131,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "A股又一波增持回购潮来了！三环集团十天内“两”回购",
+          "url": "https://www.cls.cn/detail/2441712",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         },
         {
           "title": "A股午评：科创50指数半日跌超6%",
