@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T15:36:06.623298+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-07-30T18:29:05.747711+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B8%82%E5%80%BC%E5%89%8D10%E7%BA%A2%E4%BA%869%E4%B8%AA%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 15时36分]"
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 18时29分]"
         },
         {
           "title": "A股科技退潮",
@@ -52,6 +53,18 @@
           "time_info": "12时09分"
         },
         {
+          "title": "评论员：A股新一轮配置窗口正在打开",
+          "url": "https://www.toutiao.com/trending/7668159210403679763/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 18时29分]"
+        },
+        {
           "title": "A股科技股拥挤度",
           "url": "https://www.toutiao.com/trending/7667925391805255174/",
           "source": "今日头条",
@@ -70,17 +83,6 @@
           "source": "百度热搜",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 15时36分]"
-        },
-        {
-          "title": "评论员：A股新一轮配置窗口正在打开",
-          "url": "https://www.toutiao.com/trending/7668159210403679763/",
-          "source": "今日头条",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -115,7 +117,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -148,7 +150,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -159,7 +161,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
