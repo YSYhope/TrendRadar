@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T20:48:27.201534+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-07-30T23:13:47.167975+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
@@ -51,6 +51,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "A股又一波增持回购潮来了！三环集团十天内“两”回购",
+          "url": "https://www.cls.cn/detail/2441712",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 23时13分]"
         },
         {
           "title": "评论员：A股新一轮配置窗口正在打开",
@@ -131,17 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "A股又一波增持回购潮来了！三环集团十天内“两”回购",
-          "url": "https://www.cls.cn/detail/2441712",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
         },
         {
           "title": "A股午评：科创50指数半日跌超6%",
