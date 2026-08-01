@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T19:19:46.461602+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-08-01T21:28:17.035604+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时08分 ~ 19时19分]"
+          "appearance_count": 3,
+          "time_info": "[17时08分 ~ 21时28分]"
         },
         {
           "title": "A股放量上涨是反弹还是反转",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "A股半导体板块市值",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E5%B8%82%E5%80%BC%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     }
