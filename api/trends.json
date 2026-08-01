@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T21:28:17.035604+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-08-01T23:04:06.160952+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时08分 ~ 21时28分]"
+          "appearance_count": 5,
+          "time_info": "[17时08分 ~ 23时04分]"
         },
         {
           "title": "A股放量上涨是反弹还是反转",
@@ -60,7 +61,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         }
