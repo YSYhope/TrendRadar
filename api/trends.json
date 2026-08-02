@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T03:16:08.709558+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-08-03T04:59:57.031192+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 04时59分]"
+        },
+        {
+          "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2443284",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 04时59分]"
         },
         {
           "title": "A股最危险的阶段已经过去了吗",
@@ -32,26 +43,16 @@
           "time_info": "[01时03分 ~ 03时16分]"
         },
         {
-          "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2443284",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 03时16分]"
-        },
-        {
           "title": "A股打新“芯”和“光”都来了",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%89%93%E6%96%B0%E2%80%9C%E8%8A%AF%E2%80%9D%E5%92%8C%E2%80%9C%E5%85%89%E2%80%9D%E9%83%BD%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 04时59分]"
         }
       ]
     }
