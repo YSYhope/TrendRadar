@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T17:12:08.498717+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-08-02T19:20:03.480631+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 17时12分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 19时20分]"
         },
         {
           "title": "A股“追光者”一月亏光336万",
