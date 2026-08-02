@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T04:59:57.031192+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-08-03T06:04:28.770029+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时04分]"
         },
         {
           "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
@@ -27,8 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时04分]"
         },
         {
           "title": "A股最危险的阶段已经过去了吗",
@@ -48,11 +49,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时04分]"
         }
       ]
     }
