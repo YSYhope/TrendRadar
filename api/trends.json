@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T03:42:47.702205+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-08-04T05:08:45.767538+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时08分]"
         },
         {
           "title": "A股4000只股票上涨为何科技股暴跌",
