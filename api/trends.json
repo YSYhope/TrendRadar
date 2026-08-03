@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T01:12:54.160256+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-04T03:42:47.702205+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,22 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "A股4000只股票上涨为何科技股暴跌",
-          "url": "https://www.toutiao.com/trending/7669788116869189162/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
           "title": "关停局域网行情通道，新规实施首日，A股成交量影响如何？",
           "url": "https://www.cls.cn/detail/2444433",
           "source": "财联社热门",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时42分]"
+        },
+        {
+          "title": "A股4000只股票上涨为何科技股暴跌",
+          "url": "https://www.toutiao.com/trending/7669788116869189162/",
+          "source": "今日头条",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
