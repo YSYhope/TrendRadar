@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T03:40:34.788617+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-08-06T05:15:14.765018+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 05时15分]"
         },
         {
           "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 05时15分]"
         }
       ]
     }
