@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-08-06T19:26:59.325193+08:00",
-  "total_titles_processed": 1276,
-  "failed_sources": [],
+  "generated_at": "2026-08-06T22:20:52.780364+08:00",
+  "total_titles_processed": 1447,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
@@ -126,7 +128,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
