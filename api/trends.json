@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T18:37:51.343406+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-08-08T19:32:56.485581+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             6,
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 18时37分]"
+          "appearance_count": 6,
+          "time_info": "[15时54分 ~ 19时32分]"
         },
         {
           "title": "A股一周牛股出炉 最牛股近乎翻倍",
