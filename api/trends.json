@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T05:34:43.020301+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-08-09T06:33:25.799268+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时33分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -26,11 +26,12 @@
             12,
             16,
             17,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时33分]"
         },
         {
           "title": "伊拉克石油出口骤降75%将如何影响A股",
