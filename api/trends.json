@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T01:34:30.114707+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-08-09T02:42:27.852236+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -24,11 +24,23 @@
           "source": "抖音",
           "ranks": [
             12,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
+        },
+        {
+          "title": "伊拉克石油出口骤降75%将如何影响A股",
+          "url": "https://www.toutiao.com/trending/7671617827106721322/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         }
       ]
     }
