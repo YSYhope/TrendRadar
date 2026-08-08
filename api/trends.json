@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T20:54:46.974228+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-08-08T21:50:22.891342+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时54分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[15时54分 ~ 21时50分]"
         },
         {
           "title": "A股一周牛股出炉 最牛股近乎翻倍",
@@ -35,26 +35,49 @@
           "time_info": "[03时01分 ~ 05时42分]"
         },
         {
+          "title": "A股多家上市公司收到美政府退税",
+          "url": "https://www.douyin.com/hot/2602233",
+          "source": "抖音",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时50分]"
+        },
+        {
           "title": "多家A股公司收到美国关税退款",
           "url": "https://www.toutiao.com/trending/7671564964749905451/",
           "source": "今日头条",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
         {
-          "title": "A股多家上市公司收到美政府退税",
-          "url": "https://www.douyin.com/hot/2602233",
-          "source": "抖音",
+          "title": "A股存储巨头定增大幅溢价",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%AD%98%E5%82%A8%E5%B7%A8%E5%A4%B4%E5%AE%9A%E5%A2%9E%E5%A4%A7%E5%B9%85%E6%BA%A2%E4%BB%B7%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "21时50分"
+        },
+        {
+          "title": "伊拉克石油出口骤降75%将如何影响A股",
+          "url": "https://www.toutiao.com/trending/7671617827106721322/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         }
       ]
     }
