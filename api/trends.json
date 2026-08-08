@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T22:36:04.187114+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2026-08-08T23:34:10.152920+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时54分 ~ 22时36分]"
+          "appearance_count": 12,
+          "time_info": "[15时54分 ~ 23时34分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -28,11 +28,24 @@
           "source": "抖音",
           "ranks": [
             13,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时54分 ~ 22时36分]"
+          "appearance_count": 6,
+          "time_info": "[20时54分 ~ 23时34分]"
+        },
+        {
+          "title": "A股存储巨头定增大幅溢价",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%AD%98%E5%82%A8%E5%B7%A8%E5%A4%B4%E5%AE%9A%E5%A2%9E%E5%A4%A7%E5%B9%85%E6%BA%A2%E4%BB%B7%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时50分 ~ 23时34分]"
         },
         {
           "title": "A股一周牛股出炉 最牛股近乎翻倍",
@@ -45,17 +58,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 05时42分]"
-        },
-        {
-          "title": "A股存储巨头定增大幅溢价",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%AD%98%E5%82%A8%E5%B7%A8%E5%A4%B4%E5%AE%9A%E5%A2%9E%E5%A4%A7%E5%B9%85%E6%BA%A2%E4%BB%B7%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时36分]"
         },
         {
           "title": "多家A股公司收到美国关税退款",
