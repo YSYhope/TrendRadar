@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T14:59:25.939134+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-08-08T15:55:01.062105+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "A股一周牛股出炉 最牛股近乎翻倍",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 05时42分]"
+        },
+        {
+          "title": "多家A股公司：收到美国关税退税",
+          "url": "https://www.cls.cn/detail/2449086",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 15时55分]"
         }
       ]
     }
