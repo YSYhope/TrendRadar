@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T19:33:11.236064+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-08-09T20:57:30.549948+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时38分 ~ 19时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时38分 ~ 20时57分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -81,6 +81,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "A股人形机器人第一股正式登场",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AC%AC%E4%B8%80%E8%82%A1%E6%AD%A3%E5%BC%8F%E7%99%BB%E5%9C%BA%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     }
