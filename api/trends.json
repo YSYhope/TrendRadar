@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T01:35:14.018824+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-08-10T02:46:39.517405+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时46分]"
         },
         {
           "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时46分]"
         }
       ]
     }
