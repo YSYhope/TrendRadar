@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T23:35:36.291445+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2026-08-10T00:39:58.258678+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -15,107 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时38分 ~ 23时35分]"
-        },
-        {
-          "title": "A股多家上市公司收到美政府退税",
-          "url": "https://www.douyin.com/hot/2602233",
-          "source": "抖音",
-          "ranks": [
-            12,
-            16,
-            17,
-            11,
-            18,
-            21,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 16时47分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
           "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2449376",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时53分 ~ 23时35分]"
-        },
-        {
-          "title": "银河证券：A股市场正从“预期博弈”转向“现实验证”",
-          "url": "https://flash.jin10.com/detail/20260809172523933800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时33分]"
-        },
-        {
-          "title": "周一A股真正要看什么",
-          "url": "https://www.toutiao.com/trending/7671849065465777683/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 13时10分]"
-        },
-        {
-          "title": "下周A股能突破4000点吗",
-          "url": "https://www.toutiao.com/trending/7672023316521029183/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "伊拉克石油出口骤降75%将如何影响A股",
-          "url": "https://www.toutiao.com/trending/7671617827106721322/",
-          "source": "今日头条",
-          "ranks": [
-            26
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "A股下周怎么走",
-          "url": "https://www.toutiao.com/trending/7671194499733012489/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "A股人形机器人第一股正式登场",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AC%AC%E4%B8%80%E8%82%A1%E6%AD%A3%E5%BC%8F%E7%99%BB%E5%9C%BA%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
+          "time_info": "00时39分"
         }
       ]
     }
