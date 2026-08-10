@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T19:50:38.703629+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-08-10T21:16:54.669140+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
@@ -33,18 +33,6 @@
           "time_info": "[00时39分 ~ 14时13分]"
         },
         {
-          "title": "A股“股王”大跌",
-          "url": "https://www.toutiao.com/trending/7672155767805526067/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时50分]"
-        },
-        {
           "title": "A股",
           "url": "https://www.douyin.com/hot/2603879",
           "source": "抖音",
@@ -54,6 +42,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "A股“股王”大跌",
+          "url": "https://www.toutiao.com/trending/7672155767805526067/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 21时16分]"
         },
         {
           "title": "A股养殖板块盘初走强，益生股份涨停，民和股份涨超5%，大禹生物、牧原股份等跟涨。",
@@ -309,7 +310,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
