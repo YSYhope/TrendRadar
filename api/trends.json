@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T18:09:07.186370+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-08-11T19:47:03.255871+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "A股又现“超级大肉签”，中一签最高赚超22万元",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时50分 ~ 18时09分]"
+          "appearance_count": 10,
+          "time_info": "[11时50分 ~ 19时47分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -92,6 +92,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时57分 ~ 11时51分]"
+        },
+        {
+          "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
+          "url": "https://www.cls.cn/detail/2451293",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 19时47分]"
         },
         {
           "title": "上证指数收报3934.09点，跌0.82%。 深证成指收报14259.44点，跌0.40%。 创业板指收报3549.16点，涨0.34%。 沪深300收报4663.79点，跌0.81%。 科创50收报1709.50点，跌1.63%。 中证500收报7967.54点，跌0.79%。 中证1000收报7698.05点，跌0.46%。",
