@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T00:06:55.611780+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-08-14T03:16:12.561851+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3779335",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时16分]"
         },
         {
           "title": "A股直线跳水原因",
