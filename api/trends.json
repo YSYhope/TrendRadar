@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T00:59:19.512560+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-15T04:34:51.623580+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时34分]"
         },
         {
           "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
           "url": "https://www.cls.cn/detail/2454642",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时34分]"
         }
       ]
     }
