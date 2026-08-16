@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T03:23:59.653528+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-08-17T04:27:01.543564+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时27分]"
         },
         {
           "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
@@ -27,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时27分]"
         }
       ]
     }
