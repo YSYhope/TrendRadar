@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T21:34:50.059014+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2026-08-16T23:26:00.170631+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "4家A股公司公告：终止资产重组事项",
@@ -38,11 +38,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时34分]"
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 23时26分]"
         },
         {
           "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
@@ -50,11 +51,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 23时26分]"
+        },
+        {
+          "title": "A股将逐步迎来“金秋行情”？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2455399",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时34分]"
+          "time_info": "[23时25分 ~ 23时26分]"
         },
         {
           "title": "A股反弹还能走多远",
