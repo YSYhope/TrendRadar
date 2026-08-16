@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T01:23:06.212587+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2026-08-17T02:34:46.663206+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2455399",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
@@ -26,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时34分]"
         }
       ]
     }
