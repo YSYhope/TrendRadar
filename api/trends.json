@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T07:24:05.020504+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-16T09:31:17.910090+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时24分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 09时31分]"
         },
         {
           "title": "A股牛市第三阶段的新叙事",
           "url": "https://wallstreetcn.com/articles/3779505",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时24分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 09时31分]"
         }
       ]
     }
